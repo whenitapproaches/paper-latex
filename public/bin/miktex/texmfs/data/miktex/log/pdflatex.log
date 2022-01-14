@@ -1,0 +1,56 @@
+2022-01-07 23:42:53,984+0700 INFO  pdflatex - this process (24688) started by 'cmd' with command line: pdflatex
+2022-01-07 23:42:53,991+0700 INFO  pdflatex - this is MiKTeX-PDFTEX 4.10.0 (1.40.24) (MiKTeX 21.12.10 Portable)
+2022-01-07 23:42:54,006+0700 INFO  pdflatex - allowing known shell commands
+2022-01-07 23:42:55,567+0700 INFO  pdflatex - going to create file: pdflatex.fmt
+2022-01-07 23:42:55,567+0700 INFO  pdflatex.core - start process: initexmf --enable-installer --dump-by-name=pdflatex --engine=pdftex
+2022-01-08 00:00:36,034+0700 INFO  pdflatex - this process (26212) started by 'explorer' with command line: E:\Projects\paper-latex\paper-latex-3\miktex\texmfs\install\miktex\bin\x64\pdflatex.exe
+2022-01-08 00:00:36,035+0700 INFO  pdflatex - this is MiKTeX-PDFTEX 4.10.0 (1.40.24) (MiKTeX 21.12.10 Portable)
+2022-01-08 00:00:36,037+0700 INFO  pdflatex - allowing known shell commands
+2022-01-08 00:03:04,580+0700 INFO  pdflatex - this process (5116) started by 'cmd' with command line: miktex\texmfs\install\miktex\bin\x64\pdflatex miktex\texmfs\install\miktex\bin\x64\_tex_vgCdCHZBsuJQDTeX42PQL.tex
+2022-01-08 00:03:04,581+0700 INFO  pdflatex - this is MiKTeX-PDFTEX 4.10.0 (1.40.24) (MiKTeX 21.12.10 Portable)
+2022-01-08 00:03:04,582+0700 INFO  pdflatex - allowing known shell commands
+2022-01-08 00:03:05,051+0700 INFO  pdflatex - this process (5116) finishes with exit code 0
+2022-01-08 00:04:23,909+0700 INFO  pdflatex - this process (14112) started by 'cmd' with command line: miktex\texmfs\install\miktex\bin\x64\pdflatex miktex\texmfs\install\miktex\bin\x64\_tex_7_chNknLTG6Pj8ewI3rRc.tex
+2022-01-08 00:04:23,910+0700 INFO  pdflatex - this is MiKTeX-PDFTEX 4.10.0 (1.40.24) (MiKTeX 21.12.10 Portable)
+2022-01-08 00:04:23,911+0700 INFO  pdflatex - allowing known shell commands
+2022-01-08 00:04:23,979+0700 INFO  pdflatex - this process (14112) finishes with exit code 0
+2022-01-08 00:05:18,364+0700 INFO  pdflatex - this process (22488) started by 'cmd' with command line: pdflatex --help
+2022-01-08 00:05:18,365+0700 INFO  pdflatex - this is MiKTeX-PDFTEX 4.10.0 (1.40.24) (MiKTeX 21.12.10 Portable)
+2022-01-08 00:05:18,366+0700 INFO  pdflatex - allowing known shell commands
+2022-01-08 00:05:18,384+0700 INFO  pdflatex - this process (22488) finishes with exit code 0
+2022-01-08 00:07:49,630+0700 INFO  pdflatex - this process (17852) started by 'cmd' with command line: miktex\texmfs\install\miktex\bin\x64\pdflatex miktex\texmfs\install\miktex\bin\x64\_tex_AXu9P60QvU9W8hv5z6Q3r.tex
+2022-01-08 00:07:49,632+0700 INFO  pdflatex - this is MiKTeX-PDFTEX 4.10.0 (1.40.24) (MiKTeX 21.12.10 Portable)
+2022-01-08 00:07:49,633+0700 INFO  pdflatex - allowing known shell commands
+2022-01-08 00:07:49,699+0700 INFO  pdflatex - this process (17852) finishes with exit code 0
+2022-01-08 00:09:34,731+0700 INFO  pdflatex - this process (10700) started by 'cmd' with command line: miktex\texmfs\install\miktex\bin\x64\pdflatex miktex\texmfs\install\miktex\bin\x64\_tex_q0rOQNdW8nrsDAHM6LTr0.tex
+2022-01-08 00:09:34,732+0700 INFO  pdflatex - this is MiKTeX-PDFTEX 4.10.0 (1.40.24) (MiKTeX 21.12.10 Portable)
+2022-01-08 00:09:34,733+0700 INFO  pdflatex - allowing known shell commands
+2022-01-08 00:09:34,799+0700 INFO  pdflatex - this process (10700) finishes with exit code 0
+2022-01-08 00:09:50,443+0700 INFO  pdflatex - this process (26024) started by 'cmd' with command line: miktex\texmfs\install\miktex\bin\x64\pdflatex miktex\texmfs\install\miktex\bin\x64\_tex_y2gFXAVI63YskcwOeD2y4.tex
+2022-01-08 00:09:50,444+0700 INFO  pdflatex - this is MiKTeX-PDFTEX 4.10.0 (1.40.24) (MiKTeX 21.12.10 Portable)
+2022-01-08 00:09:50,445+0700 INFO  pdflatex - allowing known shell commands
+2022-01-08 00:09:50,511+0700 INFO  pdflatex - this process (26024) finishes with exit code 0
+2022-01-08 00:10:15,011+0700 INFO  pdflatex - this process (19896) started by 'cmd' with command line: miktex\texmfs\install\miktex\bin\x64\pdflatex miktex\texmfs\install\miktex\bin\x64\_tex_WPHDkFcRAbbN3L3d98XeP.tex
+2022-01-08 00:10:15,012+0700 INFO  pdflatex - this is MiKTeX-PDFTEX 4.10.0 (1.40.24) (MiKTeX 21.12.10 Portable)
+2022-01-08 00:10:15,013+0700 INFO  pdflatex - allowing known shell commands
+2022-01-08 00:10:15,081+0700 INFO  pdflatex - this process (19896) finishes with exit code 0
+2022-01-08 00:10:23,131+0700 INFO  pdflatex - this process (25412) started by 'cmd' with command line: miktex\texmfs\install\miktex\bin\x64\pdflatex miktex\texmfs\install\miktex\bin\x64\_tex_qfubkIURLMMo4a4pLlyri.tex
+2022-01-08 00:10:23,132+0700 INFO  pdflatex - this is MiKTeX-PDFTEX 4.10.0 (1.40.24) (MiKTeX 21.12.10 Portable)
+2022-01-08 00:10:23,133+0700 INFO  pdflatex - allowing known shell commands
+2022-01-08 00:10:23,200+0700 INFO  pdflatex - this process (25412) finishes with exit code 0
+2022-01-08 00:10:36,544+0700 INFO  pdflatex - this process (22596) started by 'cmd' with command line: miktex\texmfs\install\miktex\bin\x64\pdflatex miktex\texmfs\install\miktex\bin\x64\_tex_sjL6X2ztJ7ENg-3DNqhGr.tex
+2022-01-08 00:10:36,545+0700 INFO  pdflatex - this is MiKTeX-PDFTEX 4.10.0 (1.40.24) (MiKTeX 21.12.10 Portable)
+2022-01-08 00:10:36,547+0700 INFO  pdflatex - allowing known shell commands
+2022-01-08 00:10:36,612+0700 INFO  pdflatex - this process (22596) finishes with exit code 0
+2022-01-08 00:10:43,437+0700 INFO  pdflatex - this process (24736) started by 'cmd' with command line: miktex\texmfs\install\miktex\bin\x64\pdflatex miktex\texmfs\install\miktex\bin\x64\_tex_zmBvsPKIOqfBAFmtEI1R0.tex
+2022-01-08 00:10:43,438+0700 INFO  pdflatex - this is MiKTeX-PDFTEX 4.10.0 (1.40.24) (MiKTeX 21.12.10 Portable)
+2022-01-08 00:10:43,439+0700 INFO  pdflatex - allowing known shell commands
+2022-01-08 00:10:43,505+0700 INFO  pdflatex - this process (24736) finishes with exit code 0
+2022-01-08 00:10:57,914+0700 INFO  pdflatex - this process (17264) started by 'cmd' with command line: miktex\texmfs\install\miktex\bin\x64\pdflatex miktex\texmfs\install\miktex\bin\x64\_tex_ebGJwsbv5LFEPPC-UDDU1.tex
+2022-01-08 00:10:57,916+0700 INFO  pdflatex - this is MiKTeX-PDFTEX 4.10.0 (1.40.24) (MiKTeX 21.12.10 Portable)
+2022-01-08 00:10:57,917+0700 INFO  pdflatex - allowing known shell commands
+2022-01-08 00:10:57,987+0700 INFO  pdflatex - this process (17264) finishes with exit code 0
+2022-01-08 09:41:37,370+0700 INFO  pdflatex - this process (13152) started by 'cmd' with command line: miktex\texmfs\install\miktex\bin\x64\pdflatex miktex\texmfs\install\miktex\bin\x64\_tex_JS1fEr1Vfmq-TjWpOsacB.tex
+2022-01-08 09:41:37,371+0700 INFO  pdflatex - this is MiKTeX-PDFTEX 4.10.0 (1.40.24) (MiKTeX 21.12.10 Portable)
+2022-01-08 09:41:37,373+0700 INFO  pdflatex - allowing known shell commands
+2022-01-08 09:41:37,719+0700 INFO  pdflatex - this process (13152) finishes with exit code 0

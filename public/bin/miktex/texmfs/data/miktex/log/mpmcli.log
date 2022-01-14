@@ -1,0 +1,14 @@
+2022-01-07 23:38:33,991+0700 INFO  mpmcli - this is mpmcli 4.2 (MiKTeX 21.12 Portable)
+2022-01-07 23:38:33,991+0700 INFO  mpmcli - this process (8196) started by 'miktex-portable' with command line: mpm --register-components --verbose
+2022-01-07 23:38:33,991+0700 INFO  mpmcli - Operating on the private (per-user) MiKTeX setup
+2022-01-07 23:38:33,992+0700 INFO  mpmcli - configuring fontconfig\config\fonts.conf
+2022-01-07 23:38:34,137+0700 WARN  mpmcli.core - still open: E:\Projects\paper-latex\paper-latex-3\miktex\texmfs\install\fontconfig\config\fonts.conf.in
+2022-01-07 23:38:34,137+0700 WARN  mpmcli.core - still open: E:\Projects\paper-latex\paper-latex-3\miktex\texmfs/config\fontconfig\config\fonts.conf
+2022-01-07 23:38:34,137+0700 INFO  mpmcli - this process (8196) finishes with exit code 0
+2022-01-07 23:40:54,048+0700 INFO  mpmcli - this is mpmcli 4.2 (MiKTeX 21.12.10 Portable)
+2022-01-07 23:40:54,048+0700 INFO  mpmcli - this process (30388) started by 'miktex-console' with command line: mpm --register-components --verbose
+2022-01-07 23:40:54,048+0700 INFO  mpmcli - Operating on the private (per-user) MiKTeX setup
+2022-01-07 23:40:54,049+0700 INFO  mpmcli - configuring fontconfig\config\fonts.conf
+2022-01-07 23:40:54,050+0700 WARN  mpmcli.core - still open: E:\Projects\paper-latex\paper-latex-3\miktex\texmfs\install\fontconfig/config\fonts.conf.in
+2022-01-07 23:40:54,050+0700 WARN  mpmcli.core - still open: E:\Projects\paper-latex\paper-latex-3\miktex\texmfs/config\fontconfig\config\fonts.conf
+2022-01-07 23:40:54,103+0700 INFO  mpmcli - this process (30388) finishes with exit code 0
