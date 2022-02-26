@@ -1,5 +1,7 @@
 import { reactive } from "vue"
 import * as monaco from "monaco-editor"
+import insertMath from "../../services/insertMath"
+import insertImage from "../../services/insertImage"
 
 const getDefaultStates = () => {
   return reactive({
@@ -12,6 +14,10 @@ const getDefaultStates = () => {
     updateEditorState: () => {},
     setEditorCursorPosition: () => {},
     saveState: () => {},
+    isProjectBrowserModalActive: false,
+    insertText: () => {},
+    wrapText: () => {},
+    getCurrentEditorText: () => {},
   })
 }
 
@@ -52,6 +58,24 @@ export default {
     updateEditorSaveStateFunction({ state }, callback) {
       state.saveState = callback
     },
+    updateEditorInsertTextFunction({ state }, callback) {
+      state.insertText = callback
+    },
+    updateEditorWrapTextFunction({ state }, callback) {
+      state.wrapText = callback
+    },
+    updateIsProjectBrowserModalActive({ state }, value) {
+      state.isProjectBrowserModalActive = value
+    },
+    updateGetCurrentEditorTextFunction({ state }, callback) {
+      state.getCurrentEditorText = callback
+    },
+    async insertMath({ state }, imageDataUrl) {
+      return await insertMath(imageDataUrl)
+    },
+    async insertImage({ state }, { project, imageDataUrl }) {
+      return await insertImage({ project, imageDataUrl })
+    },
   },
   mutations: {
     updateEditor(state, editor) {
@@ -63,7 +87,6 @@ export default {
       states.set(path, editorState)
 
       state.states = states
-      console.log(state.states)
     },
     updateContent(state, { path, editorContent }) {
       const contents = state.contents

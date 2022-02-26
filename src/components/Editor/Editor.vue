@@ -8,9 +8,10 @@ import tsWorker from "monaco-editor/esm/vs/language/typescript/ts.worker?worker"
 import { Registry } from "monaco-textmate"
 import { wireTmGrammars } from "monaco-editor-textmate"
 import { loadWASM } from "onigasm"
-import { computed, onMounted, ref } from "@vue/runtime-core"
+import { computed, nextTick, onMounted, ref } from "@vue/runtime-core"
 import debounce from "lodash/debounce"
 import EditorToolbar from "./EditorToolbar.vue"
+import { PROJECTS_FOLDER_NAME } from "../../constants"
 
 self.MonacoEnvironment = {
 	getWorker(_, label) {
@@ -33,6 +34,7 @@ self.MonacoEnvironment = {
 import { light, dark } from "./themes/monaco"
 import { getLaTeXCompletionProvider } from "./LaTeXCompletionProvider"
 import { useStore } from "vuex"
+import { ipcRenderer } from "electron"
 
 monaco.editor.defineTheme("light", light)
 monaco.editor.defineTheme("dark", dark)
@@ -90,24 +92,23 @@ const _setupHighlighting = async () => {
 			{ open: "(", close: ")" },
 		],
 	})
-	await loadWASM("/bin/onigasm.wasm")
+	await loadWASM(publicPath.value + "/bin/onigasm.wasm")
 	const registry = new Registry({
 		getGrammarDefinition: async (scopeName) => {
-			// console.log(scopeName);
 			if (scopeName === "text.tex.latex") {
 				return {
 					format: "json",
-					content: await (await fetch("/bin/LaTeX.tmLanguage.json")).text(),
+					content: await (await fetch(publicPath.value + "/bin/LaTeX.tmLanguage.json")).text(),
 				}
 			} else if (scopeName === "text.bibtex") {
 				return {
 					format: "json",
-					content: await (await fetch("/bin/Bibtex.tmLanguage.json")).text(),
+					content: await (await fetch(publicPath.value + "/bin/Bibtex.tmLanguage.json")).text(),
 				}
 			} else if (scopeName === "text.tex") {
 				return {
 					format: "json",
-					content: await (await fetch("/bin/TeX.tmLanguage.json")).text(),
+					content: await (await fetch(publicPath.value + "/bin/TeX.tmLanguage.json")).text(),
 				}
 			} else {
 				throw new Error("Unexpected grammar " + scopeName)
@@ -147,7 +148,7 @@ const _onModelContentChanged = (e) => {
 const _onEditorCursorChanged = (e) => {
 	const model = editor.getModel()
 
-	if (model) {
+	if (model && e.source === "mouse") {
 		const column = e.position.column
 		const line = e.position.lineNumber
 		store.dispatch("editor/saveCursor", {
@@ -157,9 +158,10 @@ const _onEditorCursorChanged = (e) => {
 	}
 }
 
-const _handleResize = debounce(() => {
-	editor && editor.layout()
-}, 250)
+const _handleResize = (time = 250) =>
+	debounce(() => {
+		editor && editor.layout()
+	}, time)()
 
 let editor = null
 
@@ -167,17 +169,41 @@ let _contentSubscription
 
 let _cursorSubscription
 
-onMounted(() => {
+const fullscreenMode = ref(false)
+
+const enterFullscreenMode = () => {
+	editor.focus()
+	fullscreenMode.value = true
+	_handleResize(0)
+}
+
+const exitFullscreenMode = () => {
+	editor.focus()
+	fullscreenMode.value = false
+	_handleResize(0)
+}
+
+const publicPath = ref("")
+
+onMounted(async () => {
 	editor = monaco.editor.create(editorElement.value, {
 		value: "",
 		language: "latex",
+		wordWrap: "wordWrapColumn",
+		wordWrapColumn: 120,
 	})
 
-	_setupHighlighting().then()
+	const appPaths = await ipcRenderer.invoke("get-app-path")
+
+	publicPath.value = appPaths.publicPath
+
+	console.log(publicPath.value);
+
+	await _setupHighlighting()
 
 	monaco.languages.registerCompletionItemProvider(
 		"latex",
-		getLaTeXCompletionProvider(monaco)
+		getLaTeXCompletionProvider(monaco, publicPath.value)
 	)
 
 	editor.updateOptions({ wordBasedSuggestions: false })
@@ -206,7 +232,7 @@ onMounted(() => {
 	store.dispatch("editor/updateEditorSaveStateFunction", (path) => {
 		store.dispatch("editor/saveState", {
 			path,
-			editorState: editor.saveViewState(),
+			editorState: { ...editor.saveViewState() },
 		})
 	})
 
@@ -217,12 +243,14 @@ onMounted(() => {
 
 		const { position } = cursor
 
-		editor.setPosition({
-			lineNumber: position.lineNumber,
-			column: position.column,
+		nextTick(() => {
+			editor.setPosition({
+				lineNumber: position.lineNumber,
+				column: position.column,
+			})
+			editor.revealLine(position.lineNumber)
+			editor.focus()
 		})
-		editor.revealLine(position.lineNumber)
-		editor.focus()
 	})
 
 	store.dispatch(
@@ -233,6 +261,38 @@ onMounted(() => {
 			editor.focus()
 		}
 	)
+
+	store.dispatch("editor/updateEditorInsertTextFunction", (text) => {
+		let selection = editor.getSelection()
+		let id = { major: 1, minor: 1 }
+		let op = {
+			identifier: id,
+			range: selection,
+			text,
+			forceMoveMarkers: true,
+		}
+		editor.executeEdits("insert-text", [op])
+		editor.focus()
+	})
+
+	store.dispatch("editor/updateEditorWrapTextFunction", (head, tail) => {
+		let selection = editor.getSelection()
+		const selectionText = editor.getModel().getValueInRange(selection)
+		const text = `${head}${selectionText}${tail}`
+		let id = { major: 1, minor: 1 }
+		let op = {
+			identifier: id,
+			range: selection,
+			text,
+			forceMoveMarkers: true,
+		}
+		editor.executeEdits("wrap-text", [op])
+		editor.focus()
+	})
+
+	store.dispatch("editor/updateGetCurrentEditorTextFunction", () => {
+		return editor.getModel().getValue()
+	})
 })
 
 const toolbarElement = ref(null)
@@ -240,21 +300,79 @@ const toolbarElement = ref(null)
 const toolbarElementHeight = computed(() =>
 	toolbarElement.value ? toolbarElement.value.$el.clientHeight : 0
 )
+
+const currentFilePath = computed(() => store.state.project.currentFilePath)
+
+const isCurrentFileAnImage = computed(() => {
+	if (!currentFilePath.value.length) return
+
+	const currentFilePathDepth = currentFilePath.value.length
+
+	const extension =
+		currentFilePath.value[currentFilePathDepth - 1].split(".")[1]
+
+	return ["jpg", "png", "jpeg"].includes(extension)
+})
 </script>
 
 <template>
-	<div>
-		<EditorToolbar ref="toolbarElement" />
+	<div
+		class="bg-white dark:bg-zinc-900"
+		:class="{ fullscreen: fullscreenMode }"
+	>
 		<div
-			:style="{ height: `calc(100% - ${toolbarElementHeight}px)` }"
-			id="editor"
-			ref="editorElement"
-		></div>
+			v-show="isCurrentFileAnImage"
+			class="
+				image-previewer
+				my-3
+				h-full
+				flex
+				justify-center
+				items-center
+				bg-black
+			"
+		>
+			<img
+				class="w-full"
+				v-if="isCurrentFileAnImage"
+				:src="[publicPath.value, PROJECTS_FOLDER_NAME, ...currentFilePath].join('/')"
+			/>
+		</div>
+		<div v-show="!isCurrentFileAnImage" class="h-full">
+			<EditorToolbar
+				ref="toolbarElement"
+				@toggleFullscreenMode="
+					fullscreenMode ? exitFullscreenMode() : enterFullscreenMode()
+				"
+				:fullscreenMode="fullscreenMode"
+			/>
+			<div
+				:class="{ 'editor-fullscreen': fullscreenMode }"
+				:style="{ height: `calc(100% - ${toolbarElementHeight}px)` }"
+				id="editor"
+				ref="editorElement"
+				@keyup.esc="exitFullscreenMode"
+			></div>
+		</div>
 	</div>
 </template>
 
 <style scoped>
-#editor {
+.fullscreen {
+	width: 100vw;
+	height: 100vh;
+	position: fixed;
+	top: 0;
+	left: 0;
+	z-index: 999999;
+}
+
+.editor-fullscreen {
+	widows: 100vw;
+}
+
+.image-previewer {
+	overflow: hidden;
 }
 </style>
 

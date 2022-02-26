@@ -2,16 +2,7 @@ module.exports = {
   pluginOptions: {
     electronBuilder: {
       nodeIntegration: true,
-      builderOptions: {
-        files: ["**/*"],
-        extraFiles: [
-          {
-            from: "public/bin",
-            to: "bin",
-            filter: ["**/*"],
-          },
-        ],
-      },
+      files: ["dist"],
     },
     i18n: {
       locale: "en",

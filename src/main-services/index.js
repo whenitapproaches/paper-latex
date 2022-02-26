@@ -4,14 +4,43 @@ const { promisify } = require("util")
 
 const readFileAsync = promisify(fs.readFile)
 
+const projectsToFileTree = require("./projects-to-file-trees")
+
+const insertMath = require("./insert-math")
+
+const insertImage = require("./insert-image")
+
+const compileLatex = require("./compile-latex")
+
+const saveFile = require("./save-file")
+
+const createFile = require("./create-file")
+
+const uploadProject = require("./upload-project")
+
+const downloadProject = require("./download-project")
+
+const createProject = require("./create-project")
+
 module.exports = {
-  getFileContent: async (path) => {
+  getFileContent: (path) => {
     const BASE_PATH = ["public", "projects"]
 
     const joinedPath = systemPath.join(...[...BASE_PATH, ...path])
 
-    return await readFileAsync(joinedPath, { encoding: "utf-8" })
+    return readFileAsync(joinedPath, { encoding: "utf-8" })
   },
+  getProjectsTree: () => {
+    return projectsToFileTree()
+  },
+  insertMath,
+  compileLatex,
+  saveFile,
+  insertImage,
+  createFile,
+  uploadProject,
+  downloadProject,
+  createProject,
 }
 
 // const getFileContent = async (path) => {

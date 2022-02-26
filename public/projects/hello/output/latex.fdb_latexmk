@@ -1,0 +1,15 @@
+# Fdb version 3
+["pdflatex"] 1645769598 "latex.tex" "E:/paper-latex-4/public/projects/hello/output/latex.pdf" "latex" 1645769598
+  "E:/paper-latex-4/public/projects/hello/output/latex.aux" 1645725006 8 a94a2480d3289e625eea47cd1b285758 "pdflatex"
+  "c:/texlive/texmf-dist/tex/latex/base/article.cls" 1642958292 20144 8a7de377ae7a11ee924a7499611f5a9d ""
+  "c:/texlive/texmf-dist/tex/latex/base/inputenc.sty" 1642958292 5049 969aec05d5f39c43f8005910498fcf90 ""
+  "c:/texlive/texmf-dist/tex/latex/base/size10.clo" 1642958292 8448 96f18c76bf608a36ee6fbf021ac1dd32 ""
+  "c:/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def" 1642958197 29921 f0f4f870357ebfb8fe58ed9ed4ee9b92 ""
+  "c:/texlive/texmf-dist/web2c/texmf.cnf" 1642958117 40042 fe981136cbb5f3715ab1b0e46e3d3892 ""
+  "c:/texlive/texmf-var/web2c/pdftex/pdflatex.fmt" 1642966866 2796716 a279adb5748ee23f6453bae752aeaca7 ""
+  "c:/texlive/texmf.cnf" 1642966795 713 e69b156964470283e0530f5060668171 ""
+  "latex.tex" 1645769414 578 3847a36070cc42c7c8bb3feae6c4f633 ""
+  (generated)
+  "E:/paper-latex-4/public/projects/hello/output/latex.aux"
+  "E:/paper-latex-4/public/projects/hello/output/latex.log"
+  "E:/paper-latex-4/public/projects/hello/output/latex.pdf"

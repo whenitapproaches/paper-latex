@@ -1,4 +1,0 @@
-2022-01-07 23:42:56,739+0700 INFO  miktex-pdftex - this process (28048) started by 'miktex-makefmt' with command line: miktex-pdftex.exe --miktex-enable-installer --miktex-disable-maintenance --miktex-disable-diagnose --initialize --interaction=nonstopmode --halt-on-error --alias=pdflatex --job-name=pdflatex -tcx=cp227.tcx --enable-etex pdflatex.ini
-2022-01-07 23:42:56,739+0700 INFO  miktex-pdftex - this is MiKTeX-PDFTEX 4.10.0 (1.40.24) (MiKTeX 21.12.10 Portable)
-2022-01-07 23:42:56,740+0700 INFO  miktex-pdftex - allowing known shell commands
-2022-01-07 23:42:58,988+0700 INFO  miktex-pdftex - this process (28048) finishes with exit code 0

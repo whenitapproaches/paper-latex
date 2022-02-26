@@ -4,6 +4,7 @@ import { DARK_THEME, LIGHT_THEME, DEFAULT_COLOR_SCHEME } from "../constants"
 import preview from "./modules/preview"
 import editor from "./modules/editor"
 import project from "./modules/project"
+import messagePopup from "./modules/message-popup"
 
 const getDefaultSettings = () => {
   return reactive({
@@ -27,6 +28,9 @@ export default createStore({
         theme,
       })
     },
+    updateColorScheme({ commit }, colorScheme) {
+      commit("updateColorScheme", colorScheme)
+    },
   },
   mutations: {
     updateSettings(state, settings) {
@@ -34,10 +38,14 @@ export default createStore({
         state.settings[key] = settings[key]
       }
     },
+    updateColorScheme(state, colorScheme) {
+      state.settings.colorScheme = colorScheme
+    },
   },
   modules: {
     preview,
     editor,
-    project
+    project,
+    "message-popup": messagePopup,
   },
 })

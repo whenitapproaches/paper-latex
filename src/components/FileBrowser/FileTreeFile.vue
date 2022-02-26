@@ -1,14 +1,20 @@
 <script setup>
 import { computed, toRefs } from "@vue/reactivity"
 import { useStore } from "vuex"
-import { PATH_SEPARATOR } from "../../constants"
+import {
+	PATH_SEPARATOR,
+	COLOR_SCHEME_PRIMARY_TEXT_CLASSES,
+	COLOR_SCHEME_LIGHT_CLASSES,
+} from "../../constants"
 
 const props = defineProps({
 	title: String,
 	path: Array,
+	fileTreeWidth: Number,
+	currentProject: Object,
 })
 
-const { path } = toRefs(props)
+const { path, currentProject } = toRefs(props)
 
 const store = useStore()
 
@@ -21,6 +27,10 @@ const currentFilePath = computed(() => store.state.editor.currentFilePath)
 const isFocused = computed(
 	() => currentFilePath.value === path.value.join(PATH_SEPARATOR)
 )
+
+const colorScheme = computed(() => store.state.settings.colorScheme)
+
+const entryPath = computed(() => currentProject.value.entryPath)
 </script>
 
 <template>
@@ -28,11 +38,49 @@ const isFocused = computed(
 		<button class="flex h-6 w-full relative" @click="openFile">
 			<div
 				v-show="isFocused"
-				class="overlay w-96 h-8 z-0 bg-zinc-200 dark:bg-zinc-700"
+				class="
+					overlay
+					h-8
+					z-0
+					bg-zinc-300
+					dark:bg-zinc-700
+					opacity-50
+					dark:opacity-50
+				"
+				:style="{ width: `${fileTreeWidth}px` }"
 			></div>
+			<div
+				v-if="entryPath?.join() === path?.join()"
+				class="
+					overlay
+					h-8
+					z-0
+					flex
+					items-center
+				"
+				:style="{ width: `${fileTreeWidth}px` }"
+			>
+				<svg
+					class="h-3 w-3 ml-3"
+					width="24"
+					height="24"
+					viewBox="0 0 24 24"
+					stroke-width="3"
+					stroke="currentColor"
+					fill="none"
+					stroke-linecap="round"
+					stroke-linejoin="round"
+					:class="[...COLOR_SCHEME_PRIMARY_TEXT_CLASSES[colorScheme]]"
+				>
+					<path stroke="none" d="M0 0h24v24H0z" />
+					<circle cx="12" cy="12" r=".5" fill="currentColor" />
+					<circle cx="12" cy="12" r="9" />
+				</svg>
+			</div>
+
 			<div class="w-6 h-full flex items-center justify-center relative z-50">
 				<svg
-					class="h-5 w-5 text-red-500"
+					class="h-5 w-5"
 					width="24"
 					height="24"
 					viewBox="0 0 24 24"
@@ -41,6 +89,7 @@ const isFocused = computed(
 					fill="none"
 					stroke-linecap="round"
 					stroke-linejoin="round"
+					:class="[...COLOR_SCHEME_PRIMARY_TEXT_CLASSES[colorScheme]]"
 				>
 					<path stroke="none" d="M0 0h24v24H0z" />
 					<path d="M14 3v4a1 1 0 0 0 1 1h4" />

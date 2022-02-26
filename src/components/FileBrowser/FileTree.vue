@@ -1,5 +1,5 @@
 <script setup>
-import { computed } from "@vue/reactivity"
+import { computed, ref } from "@vue/reactivity"
 import { useStore } from "vuex"
 import FileTreeFile from "./FileTreeFile.vue"
 import FileTreeFolder from "./FileTreeFolder.vue"
@@ -9,14 +9,34 @@ import {
 	FILE_BROWSER_FOLDERS_KEY,
 	PROJECT_STORAGE_FOLDER_NAME,
 } from "../../constants"
+import { ipcRenderer } from "electron"
+import { onMounted } from "@vue/runtime-core"
 
 const store = useStore()
 
 const currentProject = computed(() => store.state.project.currentProject)
+
+const fileTreeElement = ref(null)
+
+const fileTreeElementWidth = ref(0)
+
+onMounted(() => {
+	fileTreeElementWidth.value = fileTreeElement.value?.clientWidth
+
+	window.addEventListener("resize", () => {
+		fileTreeElementWidth.value = fileTreeElement.value?.clientWidth
+	})
+})
+
+onMounted(async () => {
+	const projectsFileTrees = await ipcRenderer.invoke("get-projects-file-trees")
+
+	store.dispatch("project/updateProjects", projectsFileTrees)
+})
 </script>
 
 <template>
-	<ul class="list-none">
+	<ul class="list-none" ref="fileTreeElement">
 		<li
 			v-for="folder in sortLocales(
 				currentProject.storage[FILE_BROWSER_FOLDERS_KEY],
@@ -28,6 +48,8 @@ const currentProject = computed(() => store.state.project.currentProject)
 				:title="folder.name"
 				:folder="folder"
 				:path="[currentProject.name, PROJECT_STORAGE_FOLDER_NAME, folder.name]"
+				:fileTreeWidth="fileTreeElementWidth"
+				:currentProject="currentProject"
 			></FileTreeFolder>
 		</li>
 		<li
@@ -39,6 +61,8 @@ const currentProject = computed(() => store.state.project.currentProject)
 			<FileTreeFile
 				:title="fileName"
 				:path="[currentProject.name, PROJECT_STORAGE_FOLDER_NAME, fileName]"
+				:fileTreeWidth="fileTreeElementWidth"
+				:currentProject="currentProject"
 			></FileTreeFile>
 		</li>
 	</ul>

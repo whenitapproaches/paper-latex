@@ -24,15 +24,19 @@
     "monaco-editor": "^0.31.1",
     "monaco-editor-textmate": "^3.0.0",
     "monaco-textmate": "^3.0.1",
+    "nanoid": "^3.3.1",
     "onigasm": "^2.2.5",
     "tailwindcss": "^3.0.12",
+    "unzipper": "^0.10.11",
     "vitejs-plugin-electron": "^1.3.0",
     "vue": "^3.2.25",
     "vue-i18n": "^9.1.0",
     "vue-router": "4",
-    "vuex": "^4.0.2"
+    "vuex": "^4.0.2",
+    "yazl": "^2.5.1"
   },
   "devDependencies": {
+    "@intlify/vite-plugin-vue-i18n": "^3.2.1",
     "@intlify/vue-i18n-loader": "^3.0.0",
     "@vitejs/plugin-vue": "^2.0.0",
     "@vue/cli-plugin-router": "~4.5.0",
@@ -43,7 +47,9 @@
     "electron-builder": "^22.14.5",
     "electron-devtools-installer": "^3.1.0",
     "postcss": "^8.4.5",
+    "rollup-plugin-copy": "^3.4.0",
     "vite": "^2.7.2",
+    "vite-plugin-fast-external": "^1.4.8",
     "vue-cli-plugin-electron-builder": "~2.1.1",
     "vue-cli-plugin-i18n": "~2.3.1",
     "wait-on": "^6.0.0"
@@ -59,6 +65,12 @@
     "files": [
       "dist/**/*",
       "src/**/*"
+    ],
+    "extraFiles": [
+      {
+        "from": "public",
+        "to": "public"
+      }
     ],
     "directories": {
       "buildResources": "assets",

@@ -1,0 +1,129 @@
+Latexmk: applying rule 'pdflatex'...
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/W32TeX) (preloaded format=pdflatex)
+ restricted \write18 enabled.
+entering extended mode
+(./main.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2022-01-21>
+(c:/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
+(c:/texlive/texmf-dist/tex/latex/base/size10.clo))
+(c:/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+(c:/texlive/texmf-dist/tex/latex/graphics/keyval.sty)
+(c:/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+(c:/texlive/texmf-dist/tex/latex/graphics/trig.sty)
+(c:/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg)
+(c:/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def)))
+(c:/texlive/texmf-dist/tex/latex/base/inputenc.sty)
+(c:/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(c:/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+(c:/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty))
+(c:/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty)
+(c:/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty))
+(c:/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def)
+(E:/paper-latex-4/public/projects/hwasd/output/main.aux)
+(c:/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+) (c:/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+(c:/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty)
+(c:/texlive/texmf-dist/tex/latex/grfext/grfext.sty
+(c:/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty))
+(c:/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+(c:/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty)
+(c:/texlive/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty))
+(c:/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+(c:/texlive/texmf-dist/tex/generic/iftex/iftex.sty))
+(c:/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg))
+Overfull \hbox (212.83269pt too wide) in paragraph at lines 16--17
+[] 
+[1{c:/texlive/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+Overfull \hbox (38.87721pt too wide) in paragraph at lines 18--20
+[][]
+
+Overfull \hbox (300.91156pt too wide) in paragraph at lines 18--20
+[] 
+[2 <./UI88u.png>] [3 <./AykQ6.png>]
+Overfull \hbox (336.99025pt too wide) in paragraph at lines 21--22
+[][] 
+[4 <./MHpu2.png>] [5 <./Screenshot 2022-02-16 085025.png>]
+(E:/paper-latex-4/public/projects/hwasd/output/main.aux) )
+(see the transcript file for additional information)<c:/texlive/texmf-dist/font
+s/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmex10.pfb><c:/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mmi10.pfb><c:/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb><c:/t
+exlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/texmf-dist/fonts/type1/
+public/amsfonts/cm/cmr17.pfb><c:/texlive/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmr7.pfb><c:/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><
+c:/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
+Output written on E:/paper-latex-4/public/projects/hwasd/output/main.pdf (5 pag
+es, 1105072 bytes).
+Transcript written on E:/paper-latex-4/public/projects/hwasd/output/main.log.
+Latexmk: Examining 'E:/paper-latex-4/public/projects/hwasd/output/main.log'
+=== TeX engine is 'pdfTeX'
+Latexmk: applying rule 'pdflatex'...
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/W32TeX) (preloaded format=pdflatex)
+ restricted \write18 enabled.
+entering extended mode
+(./main.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2022-01-21>
+(c:/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
+(c:/texlive/texmf-dist/tex/latex/base/size10.clo))
+(c:/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+(c:/texlive/texmf-dist/tex/latex/graphics/keyval.sty)
+(c:/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+(c:/texlive/texmf-dist/tex/latex/graphics/trig.sty)
+(c:/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg)
+(c:/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def)))
+(c:/texlive/texmf-dist/tex/latex/base/inputenc.sty)
+(c:/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(c:/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+(c:/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty))
+(c:/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty)
+(c:/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty))
+(c:/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def)
+(E:/paper-latex-4/public/projects/hwasd/output/main.aux)
+(c:/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+) (c:/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+(c:/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty)
+(c:/texlive/texmf-dist/tex/latex/grfext/grfext.sty
+(c:/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty))
+(c:/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+(c:/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty)
+(c:/texlive/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty))
+(c:/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+(c:/texlive/texmf-dist/tex/generic/iftex/iftex.sty))
+(c:/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg))
+Overfull \hbox (212.83269pt too wide) in paragraph at lines 16--17
+[] 
+[1{c:/texlive/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+Overfull \hbox (38.87721pt too wide) in paragraph at lines 18--20
+[][]
+
+Overfull \hbox (300.91156pt too wide) in paragraph at lines 18--20
+[] 
+[2 <./UI88u.png>] [3 <./AykQ6.png>]
+Overfull \hbox (336.99025pt too wide) in paragraph at lines 21--22
+[][] 
+[4 <./MHpu2.png>] [5 <./Screenshot 2022-02-16 085025.png>]
+(E:/paper-latex-4/public/projects/hwasd/output/main.aux) )
+(see the transcript file for additional information)<c:/texlive/texmf-dist/font
+s/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmex10.pfb><c:/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mmi10.pfb><c:/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb><c:/t
+exlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/texmf-dist/fonts/type1/
+public/amsfonts/cm/cmr17.pfb><c:/texlive/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmr7.pfb><c:/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><
+c:/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
+Output written on E:/paper-latex-4/public/projects/hwasd/output/main.pdf (5 pag
+es, 1105072 bytes).
+Transcript written on E:/paper-latex-4/public/projects/hwasd/output/main.log.
+Latexmk: Examining 'E:/paper-latex-4/public/projects/hwasd/output/main.log'
+=== TeX engine is 'pdfTeX'
+Latexmk: All targets (E:/paper-latex-4/public/projects/hwasd/output/main.pdf) are up-to-date

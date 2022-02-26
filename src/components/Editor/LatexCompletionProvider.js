@@ -8,6 +8,8 @@ const PACKAGE_REGEXP = /(?:\\usepackage(?:\[[^[\]]*\])*){([^}]*)$/
 
 const DOCUMENTCLASS_REGEXP = /(?:\\documentclass(?:\[[^[\]]*\])*){([^}]*)$/
 
+let PublicPath = ""
+
 function unpackJson(jsonInput, suggestionOutput, monaco) {
   Object.keys(jsonInput).forEach((key) => {
     const item = jsonInput[key]
@@ -26,7 +28,7 @@ let documentclassSuggestion
 
 async function suggestDocumentClass(monaco) {
   if (!documentclassSuggestion) {
-    const freq = await fetch(`/bin/lang/classnames.json`)
+    const freq = await fetch(`${PublicPath}/bin/lang/classnames.json`)
     if (freq.ok) {
       const classes = await freq.json()
       documentclassSuggestion = []
@@ -42,7 +44,7 @@ let packageSuggestion
 
 async function suggestPackage(monaco) {
   if (!packageSuggestion) {
-    const freq = await fetch(`/bin/lang/packagenames.json`)
+    const freq = await fetch(`${PublicPath}/bin/lang/packagenames.json`)
     if (freq.ok) {
       const defaultPackages = await freq.json()
       packageSuggestion = []
@@ -58,7 +60,7 @@ let envSuggestion
 
 async function suggestEnv(monaco) {
   if (!envSuggestion) {
-    const freq = await fetch(`/bin/lang/environments.json`)
+    const freq = await fetch(`${PublicPath}/bin/lang/environments.json`)
     if (freq.ok) {
       const inputJson = await freq.json()
       envSuggestion = []
@@ -74,7 +76,7 @@ let cmdSuggestion
 
 async function suggestCMD(monaco) {
   if (!cmdSuggestion) {
-    const freq = await fetch(`/bin/lang/commands.json`)
+    const freq = await fetch(`${PublicPath}/bin/lang/commands.json`)
     if (freq.ok) {
       const inputJson = await freq.json()
       cmdSuggestion = []
@@ -112,7 +114,9 @@ export async function suggest(lineBeforeInvokeChar, monaco) {
   return [...items]
 }
 
-export const getLaTeXCompletionProvider = (monaco) => {
+export const getLaTeXCompletionProvider = (monaco, publicPath) => {
+  PublicPath = publicPath
+
   return {
     triggerCharacters: ["\\", "{"],
     provideCompletionItems: async (model, position) => {

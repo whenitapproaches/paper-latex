@@ -13,7 +13,7 @@ const toggleTheme = () => store.dispatch("toggleTheme")
 <template>
 	<button
 		type="button"
-		@click="toggleTheme"
+		@click.prevent="toggleTheme"
 		class="
 			bg-zinc-100
 			dark:bg-zinc-800
@@ -28,6 +28,8 @@ const toggleTheme = () => store.dispatch("toggleTheme")
 			focus:ring-offset-2
 			focus:ring-offset-transparent
 			focus:ring-transparent
+			w-10
+			h-10
 		"
 	>
 		<svg
