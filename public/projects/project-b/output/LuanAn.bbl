@@ -1,0 +1,364 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\datalist[entry]{nyvt/global//global/global}
+  \entry{S10541}{book}{}
+    \name{author}{5}{}{%
+      {{hash=BL}{%
+         family={Berger},
+         familyi={B\bibinitperiod},
+         given={Laurent},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=BG}{%
+         family={Bockle},
+         familyi={B\bibinitperiod},
+         given={Gebhard},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=DLDM}{%
+         family={Dimitrov},
+         familyi={D\bibinitperiod},
+         given={Lassina Dembele\bibnamedelima Mladen},
+         giveni={L\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim
+  M\bibinitperiod},
+      }}%
+      {{hash=DT}{%
+         family={Dokchitser},
+         familyi={D\bibinitperiod},
+         given={Tim},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=VJ}{%
+         family={Voight},
+         familyi={V\bibinitperiod},
+         given={John},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Birkhauser}%
+    }
+    \strng{namehash}{BL+1}
+    \strng{fullhash}{BLBGDLDMDTVJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{title}{Elliptic curves, Hilbert modular forms and Galois
+  deformations}
+    \field{year}{2013}
+  \endentry
+
+  \entry{S10949}{article}{}
+    \name{author}{2}{}{%
+      {{hash=GC}{%
+         family={Gentry},
+         familyi={G\bibinitperiod},
+         given={Craig},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=RZ}{%
+         family={Ramzan},
+         familyi={R\bibinitperiod},
+         given={Zulfikar},
+         giveni={Z\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{GCRZ1}
+    \strng{fullhash}{GCRZ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \field{pages}{257\bibrangedash 273}
+    \field{title}{{Identity-Based Aggregate Signatures}}
+    \field{journaltitle}{Proceeding of Public Key Cryptography, LNCS 3958}
+    \field{year}{2006}
+  \endentry
+
+  \entry{V10944}{article}{}
+    \name{author}{3}{}{%
+      {{hash=GNT}{%
+         family={Giang},
+         familyi={G\bibinitperiod},
+         given={Nguyễn\bibnamedelima Tiền},
+         giveni={N\bibinitperiod\bibinitdelim T\bibinitperiod},
+      }}%
+      {{hash=TNV}{%
+         family={Thái},
+         familyi={T\bibinitperiod},
+         given={Nguyễn\bibnamedelima Vĩnh},
+         giveni={N\bibinitperiod\bibinitdelim V\bibinitperiod},
+      }}%
+      {{hash=DLH}{%
+         family={Dũng},
+         familyi={D\bibinitperiod},
+         given={Lưu\bibnamedelima Hồng},
+         giveni={L\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+    }
+    \keyw{Vietnam}
+    \strng{namehash}{GNTTNVDLH1}
+    \strng{fullhash}{GNTTNVDLH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \field{number}{5}
+    \field{pages}{102\bibrangedash 114}
+    \field{title}{{Lược đồ chữ ký số mù xây dựng trên bài
+  toán khai căn}}
+    \field{langid}{slovene}
+    \field{journaltitle}{Chuyên san Công nghệ thông tin và Truyền
+  thông}
+    \field{year}{2014}
+  \endentry
+
+  \entry{S556}{article}{}
+    \name{author}{3}{}{%
+      {{hash=HD}{%
+         family={Hankerson},
+         familyi={H\bibinitperiod},
+         given={Darrel},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=HJL}{%
+         family={Hernandez},
+         familyi={H\bibinitperiod},
+         given={Julio\bibnamedelima Lopez},
+         giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+      {{hash=MA}{%
+         family={Menezes},
+         familyi={M\bibinitperiod},
+         given={Alfred},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HDHJLMA1}
+    \strng{fullhash}{HDHJLMA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{pages}{243\bibrangedash 267}
+    \field{title}{{Software Implementation of Elliptic Curve Cryptography over
+  Binary Fields}}
+    \field{volume}{1965}
+    \field{journaltitle}{CHES2000}
+    \field{year}{2000}
+  \endentry
+
+  \entry{V10948}{article}{}
+    \name{author}{4}{}{%
+      {{hash=HNT}{%
+         family={Huyền},
+         familyi={H\bibinitperiod},
+         given={Nguyễn\bibnamedelima Thị},
+         giveni={N\bibinitperiod\bibinitdelim T\bibinitperiod},
+      }}%
+      {{hash=GNT}{%
+         family={Giang},
+         familyi={G\bibinitperiod},
+         given={Nguyễn\bibnamedelima Tiền},
+         giveni={N\bibinitperiod\bibinitdelim T\bibinitperiod},
+      }}%
+      {{hash=MNH}{%
+         family={Minh},
+         familyi={M\bibinitperiod},
+         given={Nguyễn\bibnamedelima Hiếu},
+         giveni={N\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+      {{hash=B�T}{%
+         family={Bắc},
+         familyi={B\bibinitperiod},
+         given={Đỗ\bibnamedelima Thị},
+         giveni={�\bibinitperiod\bibinitdelim T\bibinitperiod},
+      }}%
+    }
+    \keyw{Vietnam}
+    \strng{namehash}{HNT+1}
+    \strng{fullhash}{HNTGNTMNHB�T1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{number}{5}
+    \field{pages}{3\bibrangedash 11}
+    \field{title}{{Một số lược đồ chữ ký số mù mới dựa
+  trên hai bài toán DLP và ECDLP}}
+    \field{volume}{11}
+    \field{langid}{slovene}
+    \field{journaltitle}{Tạp Chí Khoa học và Công nghệ năm 2015}
+    \field{year}{2015}
+  \endentry
+
+  \entry{S9619}{book}{}
+    \name{author}{1}{}{%
+      {{hash=KJ}{%
+         family={Katz},
+         familyi={K\bibinitperiod},
+         given={Jonathan},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Springer}%
+    }
+    \strng{namehash}{KJ1}
+    \strng{fullhash}{KJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \field{title}{Digital signatures}
+    \field{year}{2010}
+  \endentry
+
+  \entry{web1}{misc}{}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{title}{{MathType vs. Equation Editor}}
+    \verb{url}
+    \verb http://www.dessci.com/en/products/mathtype/mt{\_}vs{\_}ee.htm
+    \endverb
+  \endentry
+
+  \entry{S10921}{book}{}
+    \name{author}{2}{}{%
+      {{hash=SJH}{%
+         family={Silverman},
+         familyi={S\bibinitperiod},
+         given={Joseph\bibnamedelima H.},
+         giveni={J\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+      {{hash=TJT}{%
+         family={Tate},
+         familyi={T\bibinitperiod},
+         given={John\bibnamedelima T.},
+         giveni={J\bibinitperiod\bibinitdelim T\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Springer}%
+    }
+    \strng{namehash}{SJHTJT1}
+    \strng{fullhash}{SJHTJT1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{title}{Rational Points on Elliptic Curves - Second Edition}
+    \field{year}{2015}
+  \endentry
+
+  \entry{S10791}{article}{}
+    \name{author}{4}{}{%
+      {{hash=SY}{%
+         family={Sun},
+         familyi={S\bibinitperiod},
+         given={Ying},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=XC}{%
+         family={Xu},
+         familyi={X\bibinitperiod},
+         given={Chunxiang},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=XQ}{%
+         family={Xia},
+         familyi={X\bibinitperiod},
+         given={Qi},
+         giveni={Q\bibinitperiod},
+      }}%
+      {{hash=YY}{%
+         family={Yu},
+         familyi={Y\bibinitperiod},
+         given={Yong},
+         giveni={Y\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SY+1}
+    \strng{fullhash}{SYXCXQYY1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{pages}{661\bibrangedash 664}
+    \field{title}{{Analysis and Improvement of a Proxy Blind Multi-signature
+  Scheme without a Secure Channel}}
+    \field{journaltitle}{Fifth International Conference on Information
+  Assurance and Security}
+    \field{year}{2009}
+  \endentry
+
+  \entry{S10950}{article}{}
+    \name{author}{2}{}{%
+      {{hash=WQ}{%
+         family={Wang},
+         familyi={W\bibinitperiod},
+         given={Qin},
+         giveni={Q\bibinitperiod},
+      }}%
+      {{hash=CZ}{%
+         family={Cao},
+         familyi={C\bibinitperiod},
+         given={Zhenfu},
+         giveni={Z\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{WQCZ1}
+    \strng{fullhash}{WQCZ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \field{pages}{1023\bibrangedash 1029}
+    \field{title}{{Identity based proxy multi-signature}}
+    \field{volume}{80}
+    \field{journaltitle}{The Journal of Systems and Software}
+    \field{year}{2007}
+  \endentry
+
+  \entry{K02}{article}{}
+    \name{author}{1}{}{%
+      {{hash=�}{%
+         family={{Đặng Minh Tuấn}},
+         familyi={�\bibinitperiod},
+      }}%
+    }
+    \keyw{Vietnam}
+    \strng{namehash}{�1}
+    \strng{fullhash}{�1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{�}
+    \field{sortinithash}{�}
+    \field{number}{2}
+    \field{pages}{41\bibrangedash 45}
+    \field{title}{{Chế tạo thiết bị VPN IPSec bằng phần cứng
+  đầu tiên ở Việt Nam}}
+    \field{langid}{slovene}
+    \field{journaltitle}{Tạp chí CNTT \& TT}
+    \field{year}{2014}
+  \endentry
+\enddatalist
+\endinput

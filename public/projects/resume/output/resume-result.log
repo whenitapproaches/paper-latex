@@ -1,0 +1,286 @@
+Latexmk: applying rule 'xelatex'...
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex)
+ restricted \write18 enabled.
+entering extended mode
+(./resume.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2022-02-21>
+(/usr/local/texlive/2021/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
+(/usr/local/texlive/2021/texmf-dist/tex/latex/base/size10.clo))
+(/usr/local/texlive/2021/texmf-dist/tex/latex/base/inputenc.sty
+
+Package inputenc Warning: inputenc package ignored with utf8 based engines.
+
+) (./TLCresume.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/base/fontenc.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/lm/t1lmr.fd))
+(/usr/local/texlive/2021/texmf-dist/tex/latex/sourcesanspro/sourcesanspro.sty
+(/usr/local/texlive/2021/texmf-dist/tex/generic/iftex/ifxetex.sty
+(/usr/local/texlive/2021/texmf-dist/tex/generic/iftex/iftex.sty))
+(/usr/local/texlive/2021/texmf-dist/tex/generic/iftex/ifluatex.sty)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+(/usr/local/texlive/2021/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/usr/local/texlive/2021/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+(/usr/local/texlive/2021/texmf-dist/tex/generic/xkeyval/keyval.tex))))
+(/usr/local/texlive/2021/texmf-dist/tex/latex/fontspec/fontspec.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/l3kernel/expl3.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
+(|extractbb --version))))
+(/usr/local/texlive/2021/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/base/fontenc.sty)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/fontspec/fontspec.cfg))))
+(/usr/local/texlive/2021/texmf-dist/tex/latex/moresize/moresize.sty)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/anyfontsize/anyfontsize.sty)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/csquotes/csquotes.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/etoolbox/etoolbox.sty)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/csquotes/csquotes.def)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/csquotes/csquotes.cfg))
+(/usr/local/texlive/2021/texmf-dist/tex/latex/geometry/geometry.sty
+(/usr/local/texlive/2021/texmf-dist/tex/generic/iftex/ifvtex.sty))
+(/usr/local/texlive/2021/texmf-dist/tex/latex/xcolor/xcolor.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics-cfg/color.cfg)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics-def/xetex.def))
+(/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/hyperref.sty
+(/usr/local/texlive/2021/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+(/usr/local/texlive/2021/texmf-dist/tex/generic/infwarerr/infwarerr.sty))
+(/usr/local/texlive/2021/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pdfescape/pdfescape.sty)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/hycolor/hycolor.sty)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/auxhook/auxhook.sty)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/kvoptions/kvoptions.sty)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/pd1enc.def)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/hyperref-langpatches.def
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/intcalc/intcalc.sty)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/etexcmds/etexcmds.sty)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/puenc.def)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/url/url.sty)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/bitset/bitset.sty
+(/usr/local/texlive/2021/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty))
+(/usr/local/texlive/2021/texmf-dist/tex/latex/base/atbegshi-ltx.sty))
+(/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/hxetex.def
+(/usr/local/texlive/2021/texmf-dist/tex/generic/stringenc/stringenc.sty)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/base/atveryend-ltx.sty)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+))) (/usr/local/texlive/2021/texmf-dist/tex/latex/enumitem/enumitem.sty)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/titlesec/titlesec.sty)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/standalone/standalone.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/tools/shellesc.sty)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/currfile/currfile.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/filehook/filehook.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/filehook/filehook-2020.sty)))
+(/usr/local/texlive/2021/texmf-dist/tex/latex/gincltex/gincltex.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/svn-prov/svn-prov.sty)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/adjustbox/adjustbox.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/adjustbox/adjcalc.sty)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/adjustbox/trimclip.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/graphicx.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/graphics.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/trig.sty)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics-cfg/graphics.cfg)))
+(/usr/local/texlive/2021/texmf-dist/tex/latex/collectbox/collectbox.sty)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/adjustbox/tc-xetex.def))
+(/usr/local/texlive/2021/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/varwidth/varwidth.sty))))
+(/usr/local/texlive/2021/texmf-dist/tex/generic/babel/babel.sty
+(/usr/local/texlive/2021/texmf-dist/tex/generic/babel/xebabel.def
+(/usr/local/texlive/2021/texmf-dist/tex/generic/babel/txtbabel.def))
+(/usr/local/texlive/2021/texmf-dist/tex/generic/babel-english/english.ldf)))
+(/usr/local/texlive/2021/texmf-dist/tex/latex/blindtext/blindtext.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/tools/xspace.sty)) (./_header.tex
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty))
+
+LaTeX Warning: Unused global option(s):
+    [letter].
+
+
+(/Users/nals_macbook_124/Downloads/paper-latex-master/public/projects/resume/ou
+tput/resume.aux) (/usr/local/texlive/2021/texmf-dist/tex/latex/base/ts1cmr.fd)
+*geometry* driver: auto-detecting
+*geometry* detected driver: xetex
+(/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/nameref.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/refcount/refcount.sty)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/gettitlestring/gettitlestring.s
+ty))
+(/Users/nals_macbook_124/Downloads/paper-latex-master/public/projects/resume/ou
+tput/resume.out)
+(/Users/nals_macbook_124/Downloads/paper-latex-master/public/projects/resume/ou
+tput/resume.out) (./sections/objective.tex) (./sections/skills.tex)
+Overfull \hbox (7.97499pt too wide) in paragraph at lines 4--33
+[]  
+(./sections/experience.tex
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\hfill' on input line 8.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\hfill' on input line 21.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\hfill' on input line 32.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\hfill' on input line 44.
+
+) (./sections/education.tex) (./sections/activities.tex) [1]
+(/Users/nals_macbook_124/Downloads/paper-latex-master/public/projects/resume/ou
+tput/resume.aux) )
+(see the transcript file for additional information)
+Output written on /Users/nals_macbook_124/Downloads/paper-latex-master/public/p
+rojects/resume/output/resume.xdv (1 page, 35756 bytes).
+Transcript written on /Users/nals_macbook_124/Downloads/paper-latex-master/publ
+ic/projects/resume/output/resume.log.
+Latexmk: Examining '/Users/nals_macbook_124/Downloads/paper-latex-master/public/projects/resume/output/resume.log'
+=== TeX engine is 'XeTeX'
+Latexmk: applying rule 'xelatex'...
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex)
+ restricted \write18 enabled.
+entering extended mode
+(./resume.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2022-02-21>
+(/usr/local/texlive/2021/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
+(/usr/local/texlive/2021/texmf-dist/tex/latex/base/size10.clo))
+(/usr/local/texlive/2021/texmf-dist/tex/latex/base/inputenc.sty
+
+Package inputenc Warning: inputenc package ignored with utf8 based engines.
+
+) (./TLCresume.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/base/fontenc.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/lm/t1lmr.fd))
+(/usr/local/texlive/2021/texmf-dist/tex/latex/sourcesanspro/sourcesanspro.sty
+(/usr/local/texlive/2021/texmf-dist/tex/generic/iftex/ifxetex.sty
+(/usr/local/texlive/2021/texmf-dist/tex/generic/iftex/iftex.sty))
+(/usr/local/texlive/2021/texmf-dist/tex/generic/iftex/ifluatex.sty)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+(/usr/local/texlive/2021/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/usr/local/texlive/2021/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+(/usr/local/texlive/2021/texmf-dist/tex/generic/xkeyval/keyval.tex))))
+(/usr/local/texlive/2021/texmf-dist/tex/latex/fontspec/fontspec.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/l3kernel/expl3.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
+(|extractbb --version))))
+(/usr/local/texlive/2021/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/base/fontenc.sty)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/fontspec/fontspec.cfg))))
+(/usr/local/texlive/2021/texmf-dist/tex/latex/moresize/moresize.sty)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/anyfontsize/anyfontsize.sty)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/csquotes/csquotes.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/etoolbox/etoolbox.sty)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/csquotes/csquotes.def)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/csquotes/csquotes.cfg))
+(/usr/local/texlive/2021/texmf-dist/tex/latex/geometry/geometry.sty
+(/usr/local/texlive/2021/texmf-dist/tex/generic/iftex/ifvtex.sty))
+(/usr/local/texlive/2021/texmf-dist/tex/latex/xcolor/xcolor.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics-cfg/color.cfg)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics-def/xetex.def))
+(/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/hyperref.sty
+(/usr/local/texlive/2021/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+(/usr/local/texlive/2021/texmf-dist/tex/generic/infwarerr/infwarerr.sty))
+(/usr/local/texlive/2021/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pdfescape/pdfescape.sty)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/hycolor/hycolor.sty)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/auxhook/auxhook.sty)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/kvoptions/kvoptions.sty)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/pd1enc.def)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/hyperref-langpatches.def
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/intcalc/intcalc.sty)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/etexcmds/etexcmds.sty)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/puenc.def)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/url/url.sty)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/bitset/bitset.sty
+(/usr/local/texlive/2021/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty))
+(/usr/local/texlive/2021/texmf-dist/tex/latex/base/atbegshi-ltx.sty))
+(/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/hxetex.def
+(/usr/local/texlive/2021/texmf-dist/tex/generic/stringenc/stringenc.sty)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/base/atveryend-ltx.sty)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+))) (/usr/local/texlive/2021/texmf-dist/tex/latex/enumitem/enumitem.sty)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/titlesec/titlesec.sty)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/standalone/standalone.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/tools/shellesc.sty)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/currfile/currfile.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/filehook/filehook.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/filehook/filehook-2020.sty)))
+(/usr/local/texlive/2021/texmf-dist/tex/latex/gincltex/gincltex.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/svn-prov/svn-prov.sty)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/adjustbox/adjustbox.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/adjustbox/adjcalc.sty)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/adjustbox/trimclip.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/graphicx.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/graphics.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/trig.sty)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics-cfg/graphics.cfg)))
+(/usr/local/texlive/2021/texmf-dist/tex/latex/collectbox/collectbox.sty)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/adjustbox/tc-xetex.def))
+(/usr/local/texlive/2021/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/varwidth/varwidth.sty))))
+(/usr/local/texlive/2021/texmf-dist/tex/generic/babel/babel.sty
+(/usr/local/texlive/2021/texmf-dist/tex/generic/babel/xebabel.def
+(/usr/local/texlive/2021/texmf-dist/tex/generic/babel/txtbabel.def))
+(/usr/local/texlive/2021/texmf-dist/tex/generic/babel-english/english.ldf)))
+(/usr/local/texlive/2021/texmf-dist/tex/latex/blindtext/blindtext.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/tools/xspace.sty)) (./_header.tex
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty))
+
+LaTeX Warning: Unused global option(s):
+    [letter].
+
+
+(/Users/nals_macbook_124/Downloads/paper-latex-master/public/projects/resume/ou
+tput/resume.aux) (/usr/local/texlive/2021/texmf-dist/tex/latex/base/ts1cmr.fd)
+*geometry* driver: auto-detecting
+*geometry* detected driver: xetex
+(/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/nameref.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/refcount/refcount.sty)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/gettitlestring/gettitlestring.s
+ty))
+(/Users/nals_macbook_124/Downloads/paper-latex-master/public/projects/resume/ou
+tput/resume.out)
+(/Users/nals_macbook_124/Downloads/paper-latex-master/public/projects/resume/ou
+tput/resume.out) (./sections/objective.tex) (./sections/skills.tex)
+Overfull \hbox (7.97499pt too wide) in paragraph at lines 4--33
+[]  
+(./sections/experience.tex
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\hfill' on input line 8.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\hfill' on input line 21.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\hfill' on input line 32.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\hfill' on input line 44.
+
+) (./sections/education.tex) (./sections/activities.tex) [1]
+(/Users/nals_macbook_124/Downloads/paper-latex-master/public/projects/resume/ou
+tput/resume.aux) )
+(see the transcript file for additional information)
+Output written on /Users/nals_macbook_124/Downloads/paper-latex-master/public/p
+rojects/resume/output/resume.xdv (1 page, 35756 bytes).
+Transcript written on /Users/nals_macbook_124/Downloads/paper-latex-master/publ
+ic/projects/resume/output/resume.log.
+Latexmk: Examining '/Users/nals_macbook_124/Downloads/paper-latex-master/public/projects/resume/output/resume.log'
+=== TeX engine is 'XeTeX'
+Latexmk: applying rule 'xdvipdfmx'...
+Latexmk: All targets (/Users/nals_macbook_124/Downloads/paper-latex-master/public/projects/resume/output/resume.xdv /Users/nals_macbook_124/Downloads/paper-latex-master/public/projects/resume/output/resume.pdf) are up-to-date

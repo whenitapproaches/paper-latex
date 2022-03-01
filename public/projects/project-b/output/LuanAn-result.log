@@ -1,0 +1,3040 @@
+Latexmk: applying rule 'pdflatex'...
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/W32TeX) (preloaded format=pdflatex)
+ restricted \write18 enabled.
+entering extended mode
+(./LuanAn.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2022-01-21> (./vietkey.luanan.1.2.cls
+Document Class: vietkey.luanan.1.2 2016/08/16 v1.2 vietkey.luanan.1.2 class
+(c:/texlive/texmf-dist/tex/latex/base/report.cls
+Document Class: report 2021/10/04 v1.4n Standard LaTeX document class
+(c:/texlive/texmf-dist/tex/latex/base/size10.clo))
+(c:/texlive/texmf-dist/tex/generic/babel/babel.sty
+(c:/texlive/texmf-dist/tex/generic/babel/txtbabel.def)
+(c:/texlive/texmf-dist/tex/generic/babel-slovenian/slovene.ldf)
+(c:/texlive/texmf-dist/tex/generic/babel-english/english.ldf))
+(c:/texlive/texmf-dist/tex/latex/vntex/vietnam.sty
+(c:/texlive/texmf-dist/tex/latex/base/ifthen.sty)
+(c:/texlive/texmf-dist/tex/latex/base/fontenc.sty
+(c:/texlive/texmf-dist/tex/latex/vntex/t5enc.def
+(c:/texlive/texmf-dist/tex/latex/vntex/t5enc.dfu))
+(c:/texlive/texmf-dist/tex/latex/vntex/t5cmr.fd))
+(c:/texlive/texmf-dist/tex/latex/base/inputenc.sty)
+(c:/texlive/texmf-dist/tex/latex/vntex/vncaps.tex))
+(c:/texlive/texmf-dist/tex/latex/tools/enumerate.sty)
+(c:/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(c:/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+(c:/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty))
+(c:/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty)
+(c:/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty))
+(c:/texlive/texmf-dist/tex/latex/amsmath/amsxtra.sty)
+(c:/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+(c:/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty))
+(c:/texlive/texmf-dist/tex/latex/base/latexsym.sty)
+(c:/texlive/texmf-dist/tex/latex/amsmath/amscd.sty)
+(c:/texlive/texmf-dist/tex/latex/amscls/amsthm.sty)
+(c:/texlive/texmf-dist/tex/latex/tools/indentfirst.sty)
+(c:/texlive/texmf-dist/tex/latex/picinpar/picinpar.sty
+Pictures in Paragraphs. Version 1.2a, July 13, 1993
+) (c:/texlive/texmf-dist/tex/latex/floatflt/floatflt.sty)
+(c:/texlive/texmf-dist/tex/latex/eepic/epic.sty
+Enhancements to Picture Environment. Version 1.2 - Released June 1, 1986
+) (c:/texlive/texmf-dist/tex/latex/curves/curves.sty)
+(c:/texlive/texmf-dist/tex/latex/base/makeidx.sty)
+(c:/texlive/texmf-dist/tex/latex/tools/longtable.sty)
+(c:/texlive/texmf-dist/tex/latex/tools/multicol.sty)
+(c:/texlive/texmf-dist/tex/latex/listings/listings.sty
+(c:/texlive/texmf-dist/tex/latex/graphics/keyval.sty)
+(c:/texlive/texmf-dist/tex/latex/listings/lstmisc.sty)
+(c:/texlive/texmf-dist/tex/latex/listings/listings.cfg))
+(c:/texlive/texmf-dist/tex/latex/koma-script/scrextend.sty
+(c:/texlive/texmf-dist/tex/latex/koma-script/scrkbase.sty
+(c:/texlive/texmf-dist/tex/latex/koma-script/scrbase.sty
+(c:/texlive/texmf-dist/tex/latex/koma-script/scrlfile.sty
+(c:/texlive/texmf-dist/tex/latex/koma-script/scrlfile-hook.sty
+(c:/texlive/texmf-dist/tex/latex/koma-script/scrlogo.sty))))))
+(c:/texlive/texmf-dist/tex/latex/setspace/setspace.sty)
+(c:/texlive/texmf-dist/tex/latex/minitoc/minitoc.sty
+(c:/texlive/texmf-dist/tex/latex/minitoc/mtcmess.sty)
+(E:/paper-latex-4/public/projects/project-b/output/LuanAn.mtc0)
+(c:/texlive/texmf-dist/tex/latex/minitoc/english.mld)
+(c:/texlive/texmf-dist/tex/latex/minitoc/english.mld)
+(c:/texlive/texmf-dist/tex/latex/minitoc/vietnam.mld))
+(c:/texlive/texmf-dist/tex/latex/fancybox/fancybox.sty
+Style option: `fancybox' v1.4 <2010/05/15> (tvz)
+) (c:/texlive/texmf-dist/tex/latex/pdflscape/pdflscape.sty
+(c:/texlive/texmf-dist/tex/generic/iftex/iftex.sty)
+(c:/texlive/texmf-dist/tex/latex/graphics/lscape.sty
+(c:/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+(c:/texlive/texmf-dist/tex/latex/graphics/trig.sty)
+(c:/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg)
+(c:/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def))))
+(c:/texlive/texmf-dist/tex/latex/tcolorbox/tcolorbox.sty
+(c:/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+(c:/texlive/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
+(c:/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
+(c:/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-lists.tex))
+(c:/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def)
+(c:/texlive/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
+(c:/texlive/texmf-dist/tex/generic/pgf/pgf.revision.tex)))
+(c:/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
+(c:/texlive/texmf-dist/tex/latex/graphics/graphicx.sty)
+(c:/texlive/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
+(c:/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+(c:/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+(c:/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.code.tex))
+(c:/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg)
+(c:/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
+(c:/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def)))
+(c:/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex)
+(c:/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex))
+(c:/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+(c:/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg))
+(c:/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+(c:/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+(c:/texlive/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
+(c:/texlive/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
+(c:/texlive/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex)
+(c:/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex
+(c:/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code.tex)
+(c:/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonometric.code
+.tex)
+(c:/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.code.tex)
+(c:/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison.code.te
+x) (c:/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.tex)
+(c:/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code.tex)
+(c:/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex)
+(c:/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerarithmetics
+.code.tex))) (c:/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex)
+) (c:/texlive/texmf-dist/tex/generic/pgf/math/pgfint.code.tex)
+(c:/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex)
+(c:/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.code.tex
+) (c:/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code.tex)
+(c:/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex)
+(c:/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.tex)
+
+(c:/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformations.code.t
+ex) (c:/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex)
+(c:/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex)
+(c:/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing.code.te
+x) (c:/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex)
+(c:/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex)
+(c:/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+(c:/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex))
+(c:/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex)
+(c:/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.code.tex)
+ (c:/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.tex)
+(c:/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.tex)))
+(c:/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex)
+(c:/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex)
+(c:/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty)
+(c:/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty))
+(c:/texlive/texmf-dist/tex/latex/tools/verbatim.sty)
+(c:/texlive/texmf-dist/tex/latex/environ/environ.sty
+(c:/texlive/texmf-dist/tex/latex/trimspaces/trimspaces.sty))
+(c:/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty))
+(c:/texlive/texmf-dist/tex/latex/enumitem/enumitem.sty)
+(c:/texlive/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
+(c:/texlive/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
+(c:/texlive/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
+(c:/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex))
+(c:/texlive/texmf-dist/tex/latex/pgf/math/pgfmath.sty
+(c:/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex))
+(c:/texlive/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+(c:/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)))
+(c:/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+(c:/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers.code.te
+x) (c:/texlive/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex)
+(c:/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary
+topaths.code.tex)))
+(c:/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary
+calc.code.tex) (c:/texlive/texmf-dist/tex/latex/algorithms/algorithm.sty
+(c:/texlive/texmf-dist/tex/latex/float/float.sty))
+(c:/texlive/texmf-dist/tex/latex/algorithms/algorithmic.sty)
+Writing index file LuanAn.idx
+(c:/texlive/texmf-dist/tex/latex/eso-pic/eso-pic.sty)
+(c:/texlive/texmf-dist/tex/latex/tools/calc.sty)
+(c:/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+(c:/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty)
+(c:/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+(c:/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty))
+(c:/texlive/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty)
+(c:/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty)
+(c:/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty)
+(c:/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty)
+(c:/texlive/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty)
+(c:/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty)
+(c:/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty)
+(c:/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def)
+(c:/texlive/texmf-dist/tex/latex/hyperref/hyperref-langpatches.def)
+(c:/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty)
+(c:/texlive/texmf-dist/tex/generic/etexcmds/etexcmds.sty)
+(c:/texlive/texmf-dist/tex/latex/hyperref/puenc.def)
+
+Package hyperref Warning: Option `letterpaper' is no longer used.
+
+(c:/texlive/texmf-dist/tex/latex/url/url.sty)
+(c:/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+(c:/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty))
+(c:/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty))
+(c:/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+(c:/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty)
+(c:/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+(c:/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty)))
+(c:/texlive/texmf-dist/tex/latex/bookmark/bookmark.sty
+(c:/texlive/texmf-dist/tex/latex/bookmark/bkm-pdftex.def))
+(c:/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty)
+(c:/texlive/texmf-dist/tex/latex/tocloft/tocloft.sty)
+(c:/texlive/texmf-dist/tex/latex/thmtools/thmtools.sty
+(c:/texlive/texmf-dist/tex/latex/thmtools/thm-patch.sty
+(c:/texlive/texmf-dist/tex/latex/thmtools/parseargs.sty))
+(c:/texlive/texmf-dist/tex/latex/thmtools/thm-kv.sty)
+(c:/texlive/texmf-dist/tex/latex/thmtools/thm-autoref.sty
+(c:/texlive/texmf-dist/tex/latex/thmtools/aliasctr.sty))
+(c:/texlive/texmf-dist/tex/latex/thmtools/thm-listof.sty)
+(c:/texlive/texmf-dist/tex/latex/thmtools/thm-restate.sty)
+(c:/texlive/texmf-dist/tex/latex/thmtools/thm-amsthm.sty))
+(c:/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty)
+(c:/texlive/texmf-dist/tex/latex/caption/caption.sty
+(c:/texlive/texmf-dist/tex/latex/caption/caption3.sty)
+(c:/texlive/texmf-dist/tex/latex/caption/ltcaption.sty))
+(c:/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty)
+(c:/texlive/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+(c:/texlive/texmf-dist/tex/latex/pdfpages/pppdftex.def))
+(c:/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+(c:/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty))
+(c:/texlive/texmf-dist/tex/latex/biblatex/biblatex.sty
+(c:/texlive/texmf-dist/tex/latex/logreq/logreq.sty
+(c:/texlive/texmf-dist/tex/latex/logreq/logreq.def))
+(c:/texlive/texmf-dist/tex/latex/biblatex/blx-dm.def)
+(c:/texlive/texmf-dist/tex/latex/biblatex/blx-compat.def)
+(c:/texlive/texmf-dist/tex/latex/biblatex/blx-bibtex.def
+
+Package biblatex Warning: Using fall-back BibTeX(8) backend:
+(biblatex)                functionality may be reduced/unavailable.
+
+) (c:/texlive/texmf-dist/tex/latex/biblatex/biblatex.def) (./luanan.bbx
+(c:/texlive/texmf-dist/tex/latex/biblatex/bbx/standard.bbx)
+(c:/texlive/texmf-dist/tex/latex/biblatex/bbx/numeric.bbx))
+(c:/texlive/texmf-dist/tex/latex/biblatex/cbx/numeric.cbx)
+(c:/texlive/texmf-dist/tex/latex/biblatex/biblatex.cfg)
+
+Package biblatex Warning: 'babel' option is deprecated.
+(biblatex)                Please use 'autolang' instead.
+
+))
+
+Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
+(biblatex)                Loading 'csquotes' recommended.
+
+(c:/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def)
+(E:/paper-latex-4/public/projects/project-b/output/LuanAn.aux
+(E:/paper-latex-4/public/projects/project-b/output/trangbia.aux)
+(E:/paper-latex-4/public/projects/project-b/output/loicamdoan.aux)
+(E:/paper-latex-4/public/projects/project-b/output/loicamon.aux)
+(E:/paper-latex-4/public/projects/project-b/output/kyhieu.aux)
+(E:/paper-latex-4/public/projects/project-b/output/loinoidau.aux)
+(E:/paper-latex-4/public/projects/project-b/output/chuong_hien_trang.aux)
+(E:/paper-latex-4/public/projects/project-b/output/chuong_huong_dan_viet_luan_a
+n.aux
+
+LaTeX Warning: Label `mucchkydatp' multiply defined.
+
+) (E:/paper-latex-4/public/projects/project-b/output/chuong_mau.aux)
+(E:/paper-latex-4/public/projects/project-b/output/ketluan.aux)
+(E:/paper-latex-4/public/projects/project-b/output/chdanhmuccongbo.aux)
+(E:/paper-latex-4/public/projects/project-b/output/phuluccaidat.aux))
+
+Package minitoc(hints) Warning: W0099
+(minitoc(hints))                --- The titlesec package is loaded. 
+(minitoc(hints))                It is incompatible 
+(minitoc(hints))                with the minitoc package.
+
+
+Package minitoc(hints) Warning: W0030
+(minitoc(hints))                --- The \part command is altered 
+(minitoc(hints))                after minitoc.
+
+
+Package minitoc(hints) Warning: W0023
+(minitoc(hints))                --- It may be the consequence 
+(minitoc(hints))                of loading the ``hyperref'' package.
+
+
+Package minitoc(hints) Warning: W0028
+(minitoc(hints))                --- The \chapter command is altered 
+(minitoc(hints))                after minitoc.
+
+
+Package minitoc(hints) Warning: W0023
+(minitoc(hints))                --- It may be the consequence 
+(minitoc(hints))                of loading the ``hyperref'' package.
+
+(c:/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+) (c:/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+(c:/texlive/texmf-dist/tex/latex/grfext/grfext.sty)
+(c:/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg))
+(c:/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+(c:/texlive/texmf-dist/tex/latex/refcount/refcount.sty)
+(c:/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty))
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+(c:/texlive/texmf-dist/tex/latex/biblatex/lbx/english.lbx)
+(c:/texlive/texmf-dist/tex/latex/biblatex/lbx/slovene.lbx)
+(c:/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty)
+(c:/texlive/texmf-dist/tex/latex/biblatex/blx-case-expl3.sty
+(c:/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty))
+(E:/paper-latex-4/public/projects/project-b/output/LuanAn.bbl) (./trangbia.tex
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <13> not available
+(Font)              size <12> substituted on input line 12.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <6.5> not available
+(Font)              size <6> substituted on input line 12.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <13> not available
+(Font)              size <12> substituted on input line 12.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <6.5> not available
+(Font)              size <6> substituted on input line 12.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <13> not available
+(Font)              size <12> substituted on input line 12.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <6.5> not available
+(Font)              size <6> substituted on input line 12.
+
+(c:/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd)
+(c:/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd)
+(c:/texlive/texmf-dist/tex/latex/base/ulasy.fd)
+
+LaTeX Font Warning: Font shape `U/lasy/m/n' in size <13> not available
+(Font)              size <12> substituted on input line 12.
+
+
+LaTeX Font Warning: Font shape `U/lasy/m/n' in size <6.5> not available
+(Font)              size <6> substituted on input line 12.
+
+[1{c:/texlive/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+Underfull \hbox (badness 10000) in paragraph at lines 60--62
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 65--68
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.74 \end{titlepage}
+                     [1])
+
+LaTeX Font Warning: Font shape `TS1/cmr/m/n' in size <13> not available
+(Font)              size <12> substituted on input line 27.
+
+
+Overfull \hbox (64.81482pt too wide) in paragraph at lines 36--37
+[][] 
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[1 <./image3_gLrwE.png>]
+Overfull \hbox (1.57872pt too wide) in paragraph at lines 38--39
+[][] 
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[2 <./RBqEh.png>]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[3 <./geh6V.png>]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[4 <./oGA08.png>] (./loicamdoan.tex
+Underfull \hbox (badness 10000) in paragraph at lines 10--14
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--14
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--14
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--17
+
+)
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[5] (./loicamon.tex
+Underfull \hbox (badness 10000) in paragraph at lines 18--19
+
+
+LaTeX Warning: Command \j invalid in math mode on input line 22.
+
+
+LaTeX Warning: Command \j invalid in math mode on input line 22.
+
+)
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[6] (E:/paper-latex-4/public/projects/project-b/output/LuanAn.toc
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[7]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[8])
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[9] (./kyhieu.tex (c:/texlive/texmf-dist/tex/latex/amsfonts/ueuf.fd)
+Overfull \hbox (6.4588pt too wide) in paragraph at lines 5--28
+ [] 
+)
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[10] (E:/paper-latex-4/public/projects/project-b/output/LuanAn.lof)
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[11] (E:/paper-latex-4/public/projects/project-b/output/LuanAn.lot
+
+LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <13> not available
+(Font)              size <12> substituted on input line 16.
+
+
+LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <6.5> not available
+(Font)              size <6> substituted on input line 16.
+
+)
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[12] (./loinoidau.tex
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.19 
+      [1]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[2]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[3]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[4])
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[5] (./chuong_hien_trang.tex
+Ch\uhorn \ohorn ng 1.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[6]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[7]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[8]
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <15.59996> not available
+(Font)              size <14.4> substituted on input line 66.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <15.59996> not available
+(Font)              size <14.4> substituted on input line 66.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <15.59996> not available
+(Font)              size <14.4> substituted on input line 66.
+
+
+LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <15.59996> not available
+(Font)              size <14.4> substituted on input line 66.
+
+
+LaTeX Font Warning: Font shape `U/lasy/m/n' in size <15.59996> not available
+(Font)              size <14.4> substituted on input line 66.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[9]
+Overfull \hbox (29.4462pt too wide) in paragraph at lines 75--76
+[]\T5/cmr/m/n/13 L[]T[]X c� th� m� r�ng b�ng c�c g�i ph�n m�m tr�nh b�y t�i htt
+ps://www.ctan.org/
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[10])
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[11] (./chuong_huong_dan_viet_luan_an.tex
+Ch\uhorn \ohorn ng 2.
+
+Overfull \hbox (93.1381pt too wide) in paragraph at lines 17--18
+[]\T5/cmr/m/n/13 N�n c�i ^^_�t ph�n m�m so�n th�o L[]T[]X l� TeXS-tu-dio t� tra
+ng ch� http://www.texstudio.org/
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[12]
+Overfull \hbox (17.44395pt too wide) in paragraph at lines 46--47
+ [] 
+(c:/texlive/texmf-dist/tex/latex/vntex/t5cmtt.fd)
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[13]
+
+LaTeX Warning: Text page 14 contains only floats.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[14 <./master.png>]
+Overfull \hbox (11.62059pt too wide) in paragraph at lines 88--88
+[]\T5/cmtt/m/n/13 title  ="Nghi�n c�u, ph�t tri�n c�c l��c ^^_� ch� k� s� t�p t
+h�",[] 
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[15]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[16]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[17]
+Overfull \hbox (4.36394pt too wide) in paragraph at lines 144--145
+\T5/cmr/m/n/13 g�i v� \T5/cmr/bx/n/13 tu-an-vi-etkey@gmail.com \T5/cmr/m/n/13 h
+o�c th�ng qua \T5/cmr/bx/n/13 face-book.com/tuanvietkey\T5/cmr/m/n/13 . 
+)
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[18] (./chuong_mau.tex
+Ch\uhorn \ohorn ng 3.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[19 <./nhanelliptic.png>]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[20 <./kytapthe3.png>]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[21]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[22]
+
+LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <13> not available
+(Font)              size <12> substituted on input line 123.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <6.5> not available
+(Font)              size <6> substituted on input line 123.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/b/it' in size <13> not available
+(Font)              size <12> substituted on input line 123.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/b/it' in size <6.5> not available
+(Font)              size <6> substituted on input line 123.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/b/n' in size <13> not available
+(Font)              size <12> substituted on input line 123.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/b/n' in size <6.5> not available
+(Font)              size <6> substituted on input line 123.
+
+
+LaTeX Font Warning: Font shape `U/lasy/b/n' in size <13> not available
+(Font)              size <12> substituted on input line 123.
+
+
+LaTeX Font Warning: Font shape `U/lasy/m/n' in size <6.5> not available
+(Font)              size <6> substituted on input line 123.
+
+
+LaTeX Font Warning: Font shape `OT1/cmss/bx/n' in size <13> not available
+(Font)              size <12> substituted on input line 123.
+
+
+LaTeX Font Warning: Font shape `OT1/cmss/bx/n' in size <6.5> not available
+(Font)              size <6> substituted on input line 123.
+
+
+Overfull \hbox (36.03975pt too wide) in paragraph at lines 123--124
+[]$\T5/cmr/m/it/13 , $[]$, $[]$, $[]$, $[]$, $[]$,
+
+Overfull \hbox (8.41118pt too wide) in paragraph at lines 123--124
+[]$\T5/cmr/m/it/13 , $[]$, $[]$, $[]$, $[]$ ) c� thu�t
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[23]
+
+LaTeX Font Warning: Font shape `OT1/cmtt/m/n' in size <13> not available
+(Font)              size <12> substituted on input line 140.
+
+
+LaTeX Font Warning: Font shape `OT1/cmtt/m/n' in size <6.5> not available
+(Font)              size <6> substituted on input line 140.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[24]
+Overfull \hbox (48.51253pt too wide) detected at line 213
+[][][]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[25]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[26]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[27]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[28]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[29]
+
+LaTeX Warning: Reference `mangKy' on page 30 undefined on input line 319.
+
+
+LaTeX Warning: Reference `mangKy' on page 30 undefined on input line 319.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[30]
+Overfull \hbox (20.18445pt too wide) in paragraph at lines 345--346
+[]\T5/cmr/m/n/13 Ng��i x�c th�c ch� k� �y nhi�m sau khi nh�n v�n b�n $\OML/cmm/
+m/it/12 m[]$ \T5/cmr/m/n/13 v� ch� k� $\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 ^^[[];
+ V; w; U[]; \U/euf/m/n/13 V\OT1/cmr/m/n/12 )$
+
+LaTeX Font Warning: Font shape `T5/cmr/bx/sc' undefined
+(Font)              using `T5/cmr/bx/n' instead on input line 361.
+
+
+Overfull \hbox (4.06589pt too wide) detected at line 378
+[]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[31]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[32]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[33]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[34]
+Overfull \hbox (19.86653pt too wide) detected at line 463
+\OML/cmm/m/it/12 ^^O[]\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 k\OT1/cmr/m/n/12 ) [] [
+] []
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[35]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[36]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[37]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[38])
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[39] (./ketluan.tex
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[40])
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[41] (./chdanhmuccongbo.tex)
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[42]
+Overfull \hbox (7.87029pt too wide) in paragraph at lines 65--65
+\T5/cmr/m/n/13 Sig-na-tures'', \T5/cmr/m/it/13 Pro-ceed-ing of Pub-lic Key Cryp
+-tog-ra-phy, LNCS 3958\T5/cmr/m/n/13 , pp. 257^^U
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[43]
+Overfull \hbox (7.46051pt too wide) in paragraph at lines 65--65
+[]\T5/cmr/m/n/13 Qin Wang and Zhenfu Cao (2007), ``Iden-tity based proxy multi-
+signature'',
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[44] (./phuluccaidat.tex
+Ph\d {u} l\d {u}c A.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[1]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[2]
+Ph\d {u} l\d {u}c B.
+
+LaTeX Font Warning: Font shape `OT1/cmtt/m/n' in size <15.59996> not available
+(Font)              size <14.4> substituted on input line 72.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <7.58339> not available
+(Font)              size <8> substituted on input line 121.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <5.41673> not available
+(Font)              size <5> substituted on input line 121.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <7.58339> not available
+(Font)              size <8> substituted on input line 121.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <5.41673> not available
+(Font)              size <5> substituted on input line 121.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <7.58339> not available
+(Font)              size <8> substituted on input line 121.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <5.41673> not available
+(Font)              size <5> substituted on input line 121.
+
+
+LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <7.58339> not available
+(Font)              size <8> substituted on input line 121.
+
+
+LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <5.41673> not available
+(Font)              size <5> substituted on input line 121.
+
+
+LaTeX Font Warning: Font shape `OT1/cmtt/m/n' in size <7.58339> not available
+(Font)              size <8> substituted on input line 121.
+
+
+LaTeX Font Warning: Font shape `OT1/cmtt/m/n' in size <5.41673> not available
+(Font)              size <5> substituted on input line 121.
+
+
+LaTeX Font Warning: Font shape `U/lasy/m/n' in size <7.58339> not available
+(Font)              size <8> substituted on input line 121.
+
+
+LaTeX Font Warning: Font shape `U/lasy/m/n' in size <5.41673> not available
+(Font)              size <5> substituted on input line 121.
+
+
+Overfull \hbox (43.52275pt too wide) in paragraph at lines 504--505
+ [] 
+
+Package pgf Warning: Returning node center instead of a point on node border. D
+id you specify a point identical to the center of node ``q''? on input line 551
+.
+
+
+Package pgf Warning: Returning node center instead of a point on node border. D
+id you specify a point identical to the center of node ``q''? on input line 551
+.
+
+
+LaTeX Warning: \oval, \circle, or \line size unavailable on input line 579.
+
+
+Overfull \hbox (7.34805pt too wide) in paragraph at lines 579--580
+[][] 
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[3]
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <4.33336> not available
+(Font)              size <5> substituted on input line 595.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <4.33336> not available
+(Font)              size <5> substituted on input line 595.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <4.33336> not available
+(Font)              size <5> substituted on input line 595.
+
+
+LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <4.33336> not available
+(Font)              size <5> substituted on input line 595.
+
+
+LaTeX Font Warning: Font shape `OT1/cmtt/m/n' in size <4.33336> not available
+(Font)              size <5> substituted on input line 595.
+
+
+LaTeX Font Warning: Font shape `U/lasy/m/n' in size <4.33336> not available
+(Font)              size <5> substituted on input line 595.
+
+
+(c:/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary
+arrows.code.tex
+(c:/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.code.tex))
+(c:/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary
+automata.code.tex
+(c:/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary
+shapes.multipart.code.tex
+(c:/texlive/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshapes.multip
+art.code.tex)))
+(c:/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary
+positioning.code.tex)
+(c:/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary
+decorations.pathmorphing.code.tex
+(c:/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary
+decorations.code.tex
+(c:/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduledecorations.code.tex))
+(c:/texlive/texmf-dist/tex/generic/pgf/libraries/decorations/pgflibrarydecorati
+ons.pathmorphing.code.tex))
+(c:/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary
+matrix.code.tex)
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[4]
+
+LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <7.58339> not available
+(Font)              size <8> substituted on input line 765.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <5.41673> not available
+(Font)              size <5> substituted on input line 765.
+
+
+Overfull \hbox (33.52525pt too wide) in paragraph at lines 858--859
+ [] 
+
+LaTeX Font Warning: Font shape `OML/cmm/b/it' in size <7.58339> not available
+(Font)              size <8> substituted on input line 905.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/b/it' in size <5.41673> not available
+(Font)              size <5> substituted on input line 905.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/b/n' in size <7.58339> not available
+(Font)              size <8> substituted on input line 905.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/b/n' in size <5.41673> not available
+(Font)              size <5> substituted on input line 905.
+
+
+LaTeX Font Warning: Font shape `OT1/cmss/bx/n' in size <7.58339> not available
+(Font)              size <8> substituted on input line 905.
+
+
+LaTeX Font Warning: Font shape `OT1/cmss/bx/n' in size <5.41673> not available
+(Font)              size <5> substituted on input line 905.
+
+
+LaTeX Font Warning: Font shape `U/lasy/m/n' in size <7.58339> not available
+(Font)              size <8> substituted on input line 905.
+
+
+LaTeX Font Warning: Font shape `U/lasy/m/n' in size <5.41673> not available
+(Font)              size <5> substituted on input line 905.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[5]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[6])
+
+Package minitoc(hints) Warning: W0033
+(minitoc(hints))                The caption package should be 
+(minitoc(hints))                loaded BEFORE the minitoc package.
+
+
+Package minitoc(hints) Warning: W0024
+(minitoc(hints))                Some hints have been written 
+(minitoc(hints))                in the LuanAn.log file.
+
+(E:/paper-latex-4/public/projects/project-b/output/LuanAn.aux
+(E:/paper-latex-4/public/projects/project-b/output/trangbia.aux)
+(E:/paper-latex-4/public/projects/project-b/output/loicamdoan.aux)
+(E:/paper-latex-4/public/projects/project-b/output/loicamon.aux)
+(E:/paper-latex-4/public/projects/project-b/output/kyhieu.aux)
+(E:/paper-latex-4/public/projects/project-b/output/loinoidau.aux)
+(E:/paper-latex-4/public/projects/project-b/output/chuong_hien_trang.aux)
+(E:/paper-latex-4/public/projects/project-b/output/chuong_huong_dan_viet_luan_a
+n.aux) (E:/paper-latex-4/public/projects/project-b/output/chuong_mau.aux)
+(E:/paper-latex-4/public/projects/project-b/output/ketluan.aux)
+(E:/paper-latex-4/public/projects/project-b/output/chdanhmuccongbo.aux)
+(E:/paper-latex-4/public/projects/project-b/output/phuluccaidat.aux))
+
+ *File List*
+vietkey.luanan.1.2.cls    2016/08/16 v1.2 vietkey.luanan.1.2 class
+  report.cls    2021/10/04 v1.4n Standard LaTeX document class
+  size10.clo    2021/10/04 v1.4n Standard LaTeX file (size option)
+   babel.sty    2021/12/30 3.69 The Babel package
+ slovene.ldf    2021/02/06 v1.2n Slovene support from the babel system
+ english.ldf    2017/06/06 v3.3r English support from the babel system
+ vietnam.sty    2009/07/12 v1.3 support for Vietnamese
+  ifthen.sty    2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
+ fontenc.sty
+   t5enc.def    2006/11/21 v1.4 Vietnamese T5 encoding
+   t5enc.dfu    2006/08/19 v1.1 UTF8 support for Vietnamese
+   t5cmr.fd    1999/05/25 v2.5h Standard LaTeX font definitions
+inputenc.sty    2021/02/14 v1.3d Input encoding file
+  vncaps.tex    2006/06/07 v1.1 Captions in Vietnamese
+enumerate.sty    2015/07/23 v3.00 enumerate extensions (DPC)
+ amsmath.sty    2021/10/15 v2.17l AMS math features
+ amstext.sty    2021/08/26 v2.01 AMS text
+  amsgen.sty    1999/11/30 v2.0 generic functions
+  amsbsy.sty    1999/11/29 v1.2d Bold Symbols
+  amsopn.sty    2021/08/26 v2.02 operator names
+ amsxtra.sty    1999/11/15 v1.2c AMS extra commands
+ amssymb.sty    2013/01/14 v3.01 AMS font symbols
+amsfonts.sty    2013/01/14 v3.01 Basic AMSFonts support
+latexsym.sty    1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
+   amscd.sty    2017/04/14 v2.1 AMS Commutative Diagrams
+  amsthm.sty    2020/05/29 v2.20.6
+indentfirst.sty    1995/11/23 v1.03 Indent first paragraph (DPC)
+picinpar.sty    
+floatflt.sty    1997/07/16 v. 1.31
+    epic.sty    
+  curves.sty    2017/08/25 1.55 Curves for LaTeX picture environment
+ makeidx.sty    2021/10/04 v1.0m Standard LaTeX package
+longtable.sty    2021-09-01 v4.17 Multi-page Table package (DPC)
+multicol.sty    2021/10/28 v1.9b multicolumn formatting (FMi)
+listings.sty    2020/03/24 1.8d (Carsten Heinz)
+  keyval.sty    2014/10/28 v1.15 key=value parser (DPC)
+ lstmisc.sty    2020/03/24 1.8d (Carsten Heinz)
+listings.cfg    2020/03/24 1.8d listings configuration
+scrextend.sty    2021/11/13 v3.35 KOMA-Script package (extend other classes wit
+h features of KOMA-Script classes)
+scrkbase.sty    2021/11/13 v3.35 KOMA-Script package (KOMA-Script-dependent bas
+ics and keyval usage)
+ scrbase.sty    2021/11/13 v3.35 KOMA-Script package (KOMA-Script-independent b
+asics and keyval usage)
+scrlfile.sty    2021/11/13 v3.35 KOMA-Script package (file load hooks)
+scrlfile-hook.sty    2021/11/13 v3.35 KOMA-Script package (using LaTeX hooks)
+ scrlogo.sty    2021/11/13 v3.35 KOMA-Script package (logo)
+setspace.sty    2011/12/19 v6.7a set line spacing
+ minitoc.sty    2018/07/12 v62 Package minitoc
+ mtcmess.sty    2006/03/14
+  LuanAn.mtc0
+ english.mld    2006/01/13
+ english.mld    2006/01/13
+ vietnam.mld    1999/03/16
+fancybox.sty    2010/05/15 1.4
+pdflscape.sty    2019/12/05 v0.12 Display of landscape pages in PDF (HO)
+   iftex.sty    2020/03/06 v1.0d TeX engine tests
+  lscape.sty    2020/05/28 v3.02 Landscape Pages (DPC)
+graphics.sty    2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+    trig.sty    2021/08/11 v1.11 sin cos tan (DPC)
+graphics.cfg    2016/06/04 v1.11 sample graphics configuration
+  pdftex.def    2020/10/05 v1.2a Graphics/color driver for pdftex
+tcolorbox.sty    2022/01/07 version 5.0.2 text color boxes
+     pgf.sty    2021/05/15 v3.1.9a (3.1.9a)
+  pgfrcs.sty    2021/05/15 v3.1.9a (3.1.9a)
+pgfrcs.code.tex
+ pgfcore.sty    2021/05/15 v3.1.9a (3.1.9a)
+graphicx.sty    2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+  pgfsys.sty    2021/05/15 v3.1.9a (3.1.9a)
+pgfsys.code.tex
+pgfsyssoftpath.code.tex    2021/05/15 v3.1.9a (3.1.9a)
+pgfsysprotocol.code.tex    2021/05/15 v3.1.9a (3.1.9a)
+  xcolor.sty    2021/10/31 v2.13 LaTeX color extensions (UK)
+   color.cfg    2016/01/02 v1.6 sample color configuration
+pgfcore.code.tex
+pgfcomp-version-0-65.sty    2021/05/15 v3.1.9a (3.1.9a)
+pgfcomp-version-1-18.sty    2021/05/15 v3.1.9a (3.1.9a)
+verbatim.sty    2020-07-07 v1.5u LaTeX2e package for verbatim enhancements
+ environ.sty    2014/05/04 v0.3 A new way to define environments
+trimspaces.sty    2009/09/17 v1.1 Trim spaces around a token list
+etoolbox.sty    2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+enumitem.sty    2019/06/20 v3.9 Customized lists
+    tikz.sty    2021/05/15 v3.1.9a (3.1.9a)
+  pgffor.sty    2021/05/15 v3.1.9a (3.1.9a)
+ pgfkeys.sty    
+pgfkeys.code.tex
+ pgfmath.sty    
+pgfmath.code.tex
+pgffor.code.tex
+tikz.code.tex
+algorithm.sty    2009/08/24 v0.1 Document Style `algorithm' - floating environm
+ent
+   float.sty    2001/11/08 v1.3d Float enhancements (AL)
+algorithmic.sty    2009/08/24 v0.1 Document Style `algorithmic'
+ eso-pic.sty    2020/10/14 v3.0a eso-pic (RN)
+    calc.sty    2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+hyperref.sty    2021-06-07 v7.00m Hypertext links for LaTeX
+ ltxcmds.sty    2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+pdftexcmds.sty    2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+infwarerr.sty    2019/12/03 v1.5 Providing info/warning/error messages (HO)
+kvsetkeys.sty    2019/12/15 v1.18 Key value parser (HO)
+kvdefinekeys.sty    2019-12-19 v1.6 Define keys (HO)
+pdfescape.sty    2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+ hycolor.sty    2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+letltxmacro.sty    2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+ auxhook.sty    2019-12-17 v1.6 Hooks for auxiliary files (HO)
+kvoptions.sty    2020-10-07 v3.14 Key value format for package options (HO)
+  pd1enc.def    2021-06-07 v7.00m Hyperref: PDFDocEncoding definition (HO)
+hyperref-langpatches.def    2021-06-07 v7.00m Hyperref: patches for babel langu
+ages
+ intcalc.sty    2019/12/15 v1.3 Expandable calculations with integers (HO)
+etexcmds.sty    2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+   puenc.def    2021-06-07 v7.00m Hyperref: PDF Unicode definition (HO)
+     url.sty    2013/09/16  ver 3.4  Verb mode for urls, etc.
+  bitset.sty    2019/12/09 v1.3 Handle bit-vector datatype (HO)
+bigintcalc.sty    2019/12/15 v1.5 Expandable calculations on big integers (HO)
+atbegshi-ltx.sty    2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+ hpdftex.def    2021-06-07 v7.00m Hyperref driver for pdfTeX
+atveryend-ltx.sty    2020/08/19 v1.0a Emulation of the original atveryend packa
+ge
+with kernel methods
+rerunfilecheck.sty    2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+uniquecounter.sty    2019/12/15 v1.4 Provide unlimited unique counter (HO)
+bookmark.sty    2020-11-06 v1.29 PDF bookmarks (HO)
+bkm-pdftex.def    2020-11-06 v1.29 bookmark driver for pdfTeX (HO)
+titlesec.sty    2021/07/05 v2.14 Sectioning titles
+ tocloft.sty    2017/08/31 v2.3i parameterised ToC, etc., typesetting
+thmtools.sty    2020/08/01 v0.72
+thm-patch.sty    2020/08/01 v0.72
+parseargs.sty    2020/08/01 v0.72
+  thm-kv.sty    2020/08/01 v0.72
+thm-autoref.sty    2020/08/01 v0.72
+aliasctr.sty    2020/08/01 v0.72
+thm-listof.sty    2020/08/01 v0.72
+thm-restate.sty    2020/08/01 v0.72
+thm-amsthm.sty    2020/08/01 v0.72
+booktabs.sty    2020/01/12 v1.61803398 Publication quality tables
+ caption.sty    2020/10/26 v3.5g Customizing captions (AR)
+caption3.sty    2020/10/21 v2.2e caption3 kernel (AR)
+ltcaption.sty    2020/05/30 v1.4b longtable captions (AR)
+fancyhdr.sty    2021/01/28 v4.0.1 Extensive control of page headers and footers
+
+pdfpages.sty    2021/03/06 v0.5t Insert pages of external PDF documents (AM)
+pppdftex.def    2021/03/06 v0.5t Pdfpages driver for pdfTeX (AM)
+geometry.sty    2020/01/02 v5.9 Page Geometry
+  ifvtex.sty    2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+biblatex.sty    2020/12/31 v3.16 programmable bibliographies (PK/MW)
+  logreq.sty    2010/08/04 v1.0 xml request logger
+  logreq.def    2010/08/04 v1.0 logreq spec v1.0
+  blx-dm.def    2020/12/31 v3.16 biblatex localization (PK/MW)
+blx-compat.def    2020/12/31 v3.16 biblatex compatibility (PK/MW)
+blx-bibtex.def    2020/12/31 v3.16 biblatex compatibility (PK/MW)
+biblatex.def    2020/12/31 v3.16 biblatex compatibility (PK/MW)
+standard.bbx    2020/12/31 v3.16 biblatex bibliography style (PK/MW)
+ numeric.bbx    2020/12/31 v3.16 biblatex bibliography style (PK/MW)
+  luanan.bbx    
+ numeric.cbx    2020/12/31 v3.16 biblatex citation style (PK/MW)
+biblatex.cfg    
+l3backend-pdftex.def    2022-01-12 L3 backend support: PDF output (pdfTeX)
+supp-pdf.mkii
+epstopdf-base.sty    2020-01-24 v2.11 Base part for package epstopdf
+  grfext.sty    2019/12/03 v1.3 Manage graphics extensions (HO)
+epstopdf-sys.cfg    2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+ nameref.sty    2021-04-02 v2.47 Cross-referencing by name of section
+refcount.sty    2019/12/15 v3.6 Data extraction from label references (HO)
+gettitlestring.sty    2019/12/15 v1.6 Cleanup title references (HO)
+ english.lbx    2020/12/31 v3.16 biblatex localization (PK/MW)
+ slovene.lbx    2020/12/31 v3.16 biblatex localization (PK/MW)
+   expl3.sty    2022-01-21 L3 programming layer (loader) 
+blx-case-expl3.sty    2020/12/31 v3.16 expl3 case changing code for biblatex
+  xparse.sty    2022-01-12 L3 Experimental document command parser
+  LuanAn.bbl
+trangbia.tex
+    umsa.fd    2013/01/14 v3.01 AMS symbols A
+    umsb.fd    2013/01/14 v3.01 AMS symbols B
+   ulasy.fd    1998/08/17 v2.2e LaTeX symbol font definitions
+image3_gLrwE.png    Graphic file (type png)
+   RBqEh.png    Graphic file (type png)
+   geh6V.png    Graphic file (type png)
+   oGA08.png    Graphic file (type png)
+loicamdoan.tex
+loicamon.tex
+  kyhieu.tex
+    ueuf.fd    2013/01/14 v3.01 Euler Fraktur
+loinoidau.tex
+chuong_hien_trang.tex
+chuong_huong_dan_viet_luan_an.tex
+  master.png    Graphic file (type png)
+  t5cmtt.fd    1999/05/25 v2.5h Standard LaTeX font definitions
+chuong_mau.tex
+nhanelliptic.png    Graphic file (type png)
+kytapthe3.png    Graphic file (type png)
+ ketluan.tex
+chdanhmuccongbo.tex
+phuluccaidat.tex
+ ***********
+
+
+LaTeX Font Warning: Size substitutions with differences
+(Font)              up to 1.75pt have occurred.
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+
+Overfull \hbox (305.66318pt too wide) in paragraph at lines 70--70
+[]                                                                             
+                                                                               
+                                                                               
+                                                                      
+ )
+(see the transcript file for additional information)pdfTeX warning (dest): name
+{section.B.9} has been referenced but does not exist, replaced by a fixed one
+
+{c:/texlive/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}<c:/texlive/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmbsy10.pfb><c:/texlive/texmf-dist/font
+s/type1/public/amsfonts/cm/cmbx10.pfb><c:/texlive/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmex10.pfb><c:/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mmi10.pfb><c:/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><c:/
+texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb><c:/texlive/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmmi6.pfb><c:/texlive/texmf-dist/fonts/type1
+/public/amsfonts/cm/cmmi8.pfb><c:/texlive/texmf-dist/fonts/type1/public/amsfont
+s/cm/cmmi9.pfb><c:/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmib10.pf
+b><c:/texlive/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmmib9.pfb><c:/tex
+live/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/texmf-dist/fonts/type1/pu
+blic/amsfonts/cm/cmr5.pfb><c:/texlive/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmr6.pfb><c:/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/te
+xlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb><c:/texlive/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmss12.pfb><c:/texlive/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmss9.pfb><c:/texlive/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmssbx10.pfb><c:/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pf
+b><c:/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb><c:/texlive/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb><c:/texlive/texmf-dist/fonts
+/type1/public/amsfonts/cm/cmtt12.pfb><c:/texlive/texmf-dist/fonts/type1/public/
+amsfonts/cm/cmtt9.pfb><c:/texlive/texmf-dist/fonts/type1/public/amsfonts/euler/
+eufm10.pfb><c:/texlive/texmf-dist/fonts/type1/public/amsfonts/latxfont/lcircle1
+.pfb><c:/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb><c:/
+texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb><c:/texlive/t
+exmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb><c:/texlive/texmf-dist/fonts
+/type1/vntex/vnr/vnbx10.pfb><c:/texlive/texmf-dist/fonts/type1/vntex/vnr/vnbx12
+.pfb><c:/texlive/texmf-dist/fonts/type1/vntex/vnr/vnbx9.pfb><c:/texlive/texmf-d
+ist/fonts/type1/vntex/vnr/vnbxti10.pfb><c:/texlive/texmf-dist/fonts/type1/vntex
+/vnr/vncsc10.pfb><c:/texlive/texmf-dist/fonts/type1/vntex/vnr/vnr10.pfb><c:/tex
+live/texmf-dist/fonts/type1/vntex/vnr/vnr12.pfb><c:/texlive/texmf-dist/fonts/ty
+pe1/vntex/vnr/vnr17.pfb><c:/texlive/texmf-dist/fonts/type1/vntex/vnr/vnr9.pfb><
+c:/texlive/texmf-dist/fonts/type1/vntex/vnr/vnti12.pfb><c:/texlive/texmf-dist/f
+onts/type1/vntex/vnr/vnti9.pfb><c:/texlive/texmf-dist/fonts/type1/vntex/vnr/vnt
+t10.pfb><c:/texlive/texmf-dist/fonts/type1/vntex/vnr/vntt12.pfb>
+Output written on E:/paper-latex-4/public/projects/project-b/output/LuanAn.pdf 
+(64 pages, 1168449 bytes).
+Transcript written on E:/paper-latex-4/public/projects/project-b/output/LuanAn.
+log.
+Latexmk: Examining 'E:/paper-latex-4/public/projects/project-b/output/LuanAn.log'
+=== TeX engine is 'pdfTeX'
+Latexmk: applying rule 'bibtex E:/paper-latex-4/public/projects/project-b/output/LuanAn'...
+Latexmk: Change directory to 'E:/paper-latex-4/public/projects/project-b/output/'.
+To assist finding of files in document
+directory, I set
+  BIBINPUTS='E:/paper-latex-4/public/projects/project-b/storage;E:/paper-latex-4/public/projects/project-b/output;'
+  BSTINPUTS='E:/paper-latex-4/public/projects/project-b/storage;'.
+This is BibTeX, Version 0.99d (TeX Live 2021/W32TeX)
+The top-level auxiliary file: LuanAn.aux
+The style file: biblatex.bst
+Database file #1: LuanAn-blx.bib
+Database file #2: bibdmt.bib
+Biblatex version: 3.16
+Latexmk: Change directory back to 'E:/paper-latex-4/public/projects/project-b/storage'
+Latexmk: applying rule 'pdflatex'...
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/W32TeX) (preloaded format=pdflatex)
+ restricted \write18 enabled.
+entering extended mode
+(./LuanAn.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2022-01-21> (./vietkey.luanan.1.2.cls
+Document Class: vietkey.luanan.1.2 2016/08/16 v1.2 vietkey.luanan.1.2 class
+(c:/texlive/texmf-dist/tex/latex/base/report.cls
+Document Class: report 2021/10/04 v1.4n Standard LaTeX document class
+(c:/texlive/texmf-dist/tex/latex/base/size10.clo))
+(c:/texlive/texmf-dist/tex/generic/babel/babel.sty
+(c:/texlive/texmf-dist/tex/generic/babel/txtbabel.def)
+(c:/texlive/texmf-dist/tex/generic/babel-slovenian/slovene.ldf)
+(c:/texlive/texmf-dist/tex/generic/babel-english/english.ldf))
+(c:/texlive/texmf-dist/tex/latex/vntex/vietnam.sty
+(c:/texlive/texmf-dist/tex/latex/base/ifthen.sty)
+(c:/texlive/texmf-dist/tex/latex/base/fontenc.sty
+(c:/texlive/texmf-dist/tex/latex/vntex/t5enc.def
+(c:/texlive/texmf-dist/tex/latex/vntex/t5enc.dfu))
+(c:/texlive/texmf-dist/tex/latex/vntex/t5cmr.fd))
+(c:/texlive/texmf-dist/tex/latex/base/inputenc.sty)
+(c:/texlive/texmf-dist/tex/latex/vntex/vncaps.tex))
+(c:/texlive/texmf-dist/tex/latex/tools/enumerate.sty)
+(c:/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(c:/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+(c:/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty))
+(c:/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty)
+(c:/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty))
+(c:/texlive/texmf-dist/tex/latex/amsmath/amsxtra.sty)
+(c:/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+(c:/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty))
+(c:/texlive/texmf-dist/tex/latex/base/latexsym.sty)
+(c:/texlive/texmf-dist/tex/latex/amsmath/amscd.sty)
+(c:/texlive/texmf-dist/tex/latex/amscls/amsthm.sty)
+(c:/texlive/texmf-dist/tex/latex/tools/indentfirst.sty)
+(c:/texlive/texmf-dist/tex/latex/picinpar/picinpar.sty
+Pictures in Paragraphs. Version 1.2a, July 13, 1993
+) (c:/texlive/texmf-dist/tex/latex/floatflt/floatflt.sty)
+(c:/texlive/texmf-dist/tex/latex/eepic/epic.sty
+Enhancements to Picture Environment. Version 1.2 - Released June 1, 1986
+) (c:/texlive/texmf-dist/tex/latex/curves/curves.sty)
+(c:/texlive/texmf-dist/tex/latex/base/makeidx.sty)
+(c:/texlive/texmf-dist/tex/latex/tools/longtable.sty)
+(c:/texlive/texmf-dist/tex/latex/tools/multicol.sty)
+(c:/texlive/texmf-dist/tex/latex/listings/listings.sty
+(c:/texlive/texmf-dist/tex/latex/graphics/keyval.sty)
+(c:/texlive/texmf-dist/tex/latex/listings/lstmisc.sty)
+(c:/texlive/texmf-dist/tex/latex/listings/listings.cfg))
+(c:/texlive/texmf-dist/tex/latex/koma-script/scrextend.sty
+(c:/texlive/texmf-dist/tex/latex/koma-script/scrkbase.sty
+(c:/texlive/texmf-dist/tex/latex/koma-script/scrbase.sty
+(c:/texlive/texmf-dist/tex/latex/koma-script/scrlfile.sty
+(c:/texlive/texmf-dist/tex/latex/koma-script/scrlfile-hook.sty
+(c:/texlive/texmf-dist/tex/latex/koma-script/scrlogo.sty))))))
+(c:/texlive/texmf-dist/tex/latex/setspace/setspace.sty)
+(c:/texlive/texmf-dist/tex/latex/minitoc/minitoc.sty
+(c:/texlive/texmf-dist/tex/latex/minitoc/mtcmess.sty)
+(E:/paper-latex-4/public/projects/project-b/output/LuanAn.mtc0)
+(c:/texlive/texmf-dist/tex/latex/minitoc/english.mld)
+(c:/texlive/texmf-dist/tex/latex/minitoc/english.mld)
+(c:/texlive/texmf-dist/tex/latex/minitoc/vietnam.mld))
+(c:/texlive/texmf-dist/tex/latex/fancybox/fancybox.sty
+Style option: `fancybox' v1.4 <2010/05/15> (tvz)
+) (c:/texlive/texmf-dist/tex/latex/pdflscape/pdflscape.sty
+(c:/texlive/texmf-dist/tex/generic/iftex/iftex.sty)
+(c:/texlive/texmf-dist/tex/latex/graphics/lscape.sty
+(c:/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+(c:/texlive/texmf-dist/tex/latex/graphics/trig.sty)
+(c:/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg)
+(c:/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def))))
+(c:/texlive/texmf-dist/tex/latex/tcolorbox/tcolorbox.sty
+(c:/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+(c:/texlive/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
+(c:/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
+(c:/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-lists.tex))
+(c:/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def)
+(c:/texlive/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
+(c:/texlive/texmf-dist/tex/generic/pgf/pgf.revision.tex)))
+(c:/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
+(c:/texlive/texmf-dist/tex/latex/graphics/graphicx.sty)
+(c:/texlive/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
+(c:/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+(c:/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+(c:/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.code.tex))
+(c:/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg)
+(c:/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
+(c:/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def)))
+(c:/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex)
+(c:/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex))
+(c:/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+(c:/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg))
+(c:/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+(c:/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+(c:/texlive/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
+(c:/texlive/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
+(c:/texlive/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex)
+(c:/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex
+(c:/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code.tex)
+(c:/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonometric.code
+.tex)
+(c:/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.code.tex)
+(c:/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison.code.te
+x) (c:/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.tex)
+(c:/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code.tex)
+(c:/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex)
+(c:/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerarithmetics
+.code.tex))) (c:/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex)
+) (c:/texlive/texmf-dist/tex/generic/pgf/math/pgfint.code.tex)
+(c:/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex)
+(c:/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.code.tex
+) (c:/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code.tex)
+(c:/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex)
+(c:/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.tex)
+
+(c:/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformations.code.t
+ex) (c:/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex)
+(c:/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex)
+(c:/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing.code.te
+x) (c:/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex)
+(c:/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex)
+(c:/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+(c:/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex))
+(c:/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex)
+(c:/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.code.tex)
+ (c:/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.tex)
+(c:/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.tex)))
+(c:/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex)
+(c:/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex)
+(c:/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty)
+(c:/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty))
+(c:/texlive/texmf-dist/tex/latex/tools/verbatim.sty)
+(c:/texlive/texmf-dist/tex/latex/environ/environ.sty
+(c:/texlive/texmf-dist/tex/latex/trimspaces/trimspaces.sty))
+(c:/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty))
+(c:/texlive/texmf-dist/tex/latex/enumitem/enumitem.sty)
+(c:/texlive/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
+(c:/texlive/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
+(c:/texlive/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
+(c:/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex))
+(c:/texlive/texmf-dist/tex/latex/pgf/math/pgfmath.sty
+(c:/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex))
+(c:/texlive/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+(c:/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)))
+(c:/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+(c:/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers.code.te
+x) (c:/texlive/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex)
+(c:/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary
+topaths.code.tex)))
+(c:/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary
+calc.code.tex) (c:/texlive/texmf-dist/tex/latex/algorithms/algorithm.sty
+(c:/texlive/texmf-dist/tex/latex/float/float.sty))
+(c:/texlive/texmf-dist/tex/latex/algorithms/algorithmic.sty)
+Writing index file LuanAn.idx
+(c:/texlive/texmf-dist/tex/latex/eso-pic/eso-pic.sty)
+(c:/texlive/texmf-dist/tex/latex/tools/calc.sty)
+(c:/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+(c:/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty)
+(c:/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+(c:/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty))
+(c:/texlive/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty)
+(c:/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty)
+(c:/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty)
+(c:/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty)
+(c:/texlive/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty)
+(c:/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty)
+(c:/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty)
+(c:/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def)
+(c:/texlive/texmf-dist/tex/latex/hyperref/hyperref-langpatches.def)
+(c:/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty)
+(c:/texlive/texmf-dist/tex/generic/etexcmds/etexcmds.sty)
+(c:/texlive/texmf-dist/tex/latex/hyperref/puenc.def)
+
+Package hyperref Warning: Option `letterpaper' is no longer used.
+
+(c:/texlive/texmf-dist/tex/latex/url/url.sty)
+(c:/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+(c:/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty))
+(c:/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty))
+(c:/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+(c:/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty)
+(c:/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+(c:/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty)))
+(c:/texlive/texmf-dist/tex/latex/bookmark/bookmark.sty
+(c:/texlive/texmf-dist/tex/latex/bookmark/bkm-pdftex.def))
+(c:/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty)
+(c:/texlive/texmf-dist/tex/latex/tocloft/tocloft.sty)
+(c:/texlive/texmf-dist/tex/latex/thmtools/thmtools.sty
+(c:/texlive/texmf-dist/tex/latex/thmtools/thm-patch.sty
+(c:/texlive/texmf-dist/tex/latex/thmtools/parseargs.sty))
+(c:/texlive/texmf-dist/tex/latex/thmtools/thm-kv.sty)
+(c:/texlive/texmf-dist/tex/latex/thmtools/thm-autoref.sty
+(c:/texlive/texmf-dist/tex/latex/thmtools/aliasctr.sty))
+(c:/texlive/texmf-dist/tex/latex/thmtools/thm-listof.sty)
+(c:/texlive/texmf-dist/tex/latex/thmtools/thm-restate.sty)
+(c:/texlive/texmf-dist/tex/latex/thmtools/thm-amsthm.sty))
+(c:/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty)
+(c:/texlive/texmf-dist/tex/latex/caption/caption.sty
+(c:/texlive/texmf-dist/tex/latex/caption/caption3.sty)
+(c:/texlive/texmf-dist/tex/latex/caption/ltcaption.sty))
+(c:/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty)
+(c:/texlive/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+(c:/texlive/texmf-dist/tex/latex/pdfpages/pppdftex.def))
+(c:/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+(c:/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty))
+(c:/texlive/texmf-dist/tex/latex/biblatex/biblatex.sty
+(c:/texlive/texmf-dist/tex/latex/logreq/logreq.sty
+(c:/texlive/texmf-dist/tex/latex/logreq/logreq.def))
+(c:/texlive/texmf-dist/tex/latex/biblatex/blx-dm.def)
+(c:/texlive/texmf-dist/tex/latex/biblatex/blx-compat.def)
+(c:/texlive/texmf-dist/tex/latex/biblatex/blx-bibtex.def
+
+Package biblatex Warning: Using fall-back BibTeX(8) backend:
+(biblatex)                functionality may be reduced/unavailable.
+
+) (c:/texlive/texmf-dist/tex/latex/biblatex/biblatex.def) (./luanan.bbx
+(c:/texlive/texmf-dist/tex/latex/biblatex/bbx/standard.bbx)
+(c:/texlive/texmf-dist/tex/latex/biblatex/bbx/numeric.bbx))
+(c:/texlive/texmf-dist/tex/latex/biblatex/cbx/numeric.cbx)
+(c:/texlive/texmf-dist/tex/latex/biblatex/biblatex.cfg)
+
+Package biblatex Warning: 'babel' option is deprecated.
+(biblatex)                Please use 'autolang' instead.
+
+))
+
+Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
+(biblatex)                Loading 'csquotes' recommended.
+
+(c:/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def)
+(E:/paper-latex-4/public/projects/project-b/output/LuanAn.aux
+(E:/paper-latex-4/public/projects/project-b/output/trangbia.aux)
+(E:/paper-latex-4/public/projects/project-b/output/loicamdoan.aux)
+(E:/paper-latex-4/public/projects/project-b/output/loicamon.aux)
+(E:/paper-latex-4/public/projects/project-b/output/kyhieu.aux)
+(E:/paper-latex-4/public/projects/project-b/output/loinoidau.aux)
+(E:/paper-latex-4/public/projects/project-b/output/chuong_hien_trang.aux)
+(E:/paper-latex-4/public/projects/project-b/output/chuong_huong_dan_viet_luan_a
+n.aux
+
+LaTeX Warning: Label `mucchkydatp' multiply defined.
+
+) (E:/paper-latex-4/public/projects/project-b/output/chuong_mau.aux)
+(E:/paper-latex-4/public/projects/project-b/output/ketluan.aux)
+(E:/paper-latex-4/public/projects/project-b/output/chdanhmuccongbo.aux)
+(E:/paper-latex-4/public/projects/project-b/output/phuluccaidat.aux))
+
+Package minitoc(hints) Warning: W0099
+(minitoc(hints))                --- The titlesec package is loaded. 
+(minitoc(hints))                It is incompatible 
+(minitoc(hints))                with the minitoc package.
+
+
+Package minitoc(hints) Warning: W0030
+(minitoc(hints))                --- The \part command is altered 
+(minitoc(hints))                after minitoc.
+
+
+Package minitoc(hints) Warning: W0023
+(minitoc(hints))                --- It may be the consequence 
+(minitoc(hints))                of loading the ``hyperref'' package.
+
+
+Package minitoc(hints) Warning: W0028
+(minitoc(hints))                --- The \chapter command is altered 
+(minitoc(hints))                after minitoc.
+
+
+Package minitoc(hints) Warning: W0023
+(minitoc(hints))                --- It may be the consequence 
+(minitoc(hints))                of loading the ``hyperref'' package.
+
+(c:/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+) (c:/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+(c:/texlive/texmf-dist/tex/latex/grfext/grfext.sty)
+(c:/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg))
+(c:/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+(c:/texlive/texmf-dist/tex/latex/refcount/refcount.sty)
+(c:/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty))
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+(c:/texlive/texmf-dist/tex/latex/biblatex/lbx/english.lbx)
+(c:/texlive/texmf-dist/tex/latex/biblatex/lbx/slovene.lbx)
+(c:/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty)
+(c:/texlive/texmf-dist/tex/latex/biblatex/blx-case-expl3.sty
+(c:/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty))
+(E:/paper-latex-4/public/projects/project-b/output/LuanAn.bbl) (./trangbia.tex
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <13> not available
+(Font)              size <12> substituted on input line 12.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <6.5> not available
+(Font)              size <6> substituted on input line 12.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <13> not available
+(Font)              size <12> substituted on input line 12.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <6.5> not available
+(Font)              size <6> substituted on input line 12.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <13> not available
+(Font)              size <12> substituted on input line 12.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <6.5> not available
+(Font)              size <6> substituted on input line 12.
+
+(c:/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd)
+(c:/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd)
+(c:/texlive/texmf-dist/tex/latex/base/ulasy.fd)
+
+LaTeX Font Warning: Font shape `U/lasy/m/n' in size <13> not available
+(Font)              size <12> substituted on input line 12.
+
+
+LaTeX Font Warning: Font shape `U/lasy/m/n' in size <6.5> not available
+(Font)              size <6> substituted on input line 12.
+
+[1{c:/texlive/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+Underfull \hbox (badness 10000) in paragraph at lines 60--62
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 65--68
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.74 \end{titlepage}
+                     [1])
+
+LaTeX Font Warning: Font shape `TS1/cmr/m/n' in size <13> not available
+(Font)              size <12> substituted on input line 27.
+
+
+Overfull \hbox (64.81482pt too wide) in paragraph at lines 36--37
+[][] 
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[1 <./image3_gLrwE.png>]
+Overfull \hbox (1.57872pt too wide) in paragraph at lines 38--39
+[][] 
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[2 <./RBqEh.png>]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[3 <./geh6V.png>]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[4 <./oGA08.png>] (./loicamdoan.tex
+Underfull \hbox (badness 10000) in paragraph at lines 10--14
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--14
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--14
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--17
+
+)
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[5] (./loicamon.tex
+Underfull \hbox (badness 10000) in paragraph at lines 18--19
+
+
+LaTeX Warning: Command \j invalid in math mode on input line 22.
+
+
+LaTeX Warning: Command \j invalid in math mode on input line 22.
+
+)
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[6] (E:/paper-latex-4/public/projects/project-b/output/LuanAn.toc
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[7]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[8])
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[9] (./kyhieu.tex (c:/texlive/texmf-dist/tex/latex/amsfonts/ueuf.fd)
+Overfull \hbox (6.4588pt too wide) in paragraph at lines 5--28
+ [] 
+)
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[10] (E:/paper-latex-4/public/projects/project-b/output/LuanAn.lof)
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[11] (E:/paper-latex-4/public/projects/project-b/output/LuanAn.lot
+
+LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <13> not available
+(Font)              size <12> substituted on input line 16.
+
+
+LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <6.5> not available
+(Font)              size <6> substituted on input line 16.
+
+)
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[12] (./loinoidau.tex
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.19 
+      [1]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[2]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[3]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[4])
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[5] (./chuong_hien_trang.tex
+Ch\uhorn \ohorn ng 1.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[6]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[7]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[8]
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <15.59996> not available
+(Font)              size <14.4> substituted on input line 66.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <15.59996> not available
+(Font)              size <14.4> substituted on input line 66.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <15.59996> not available
+(Font)              size <14.4> substituted on input line 66.
+
+
+LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <15.59996> not available
+(Font)              size <14.4> substituted on input line 66.
+
+
+LaTeX Font Warning: Font shape `U/lasy/m/n' in size <15.59996> not available
+(Font)              size <14.4> substituted on input line 66.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[9]
+Overfull \hbox (29.4462pt too wide) in paragraph at lines 75--76
+[]\T5/cmr/m/n/13 L[]T[]X c� th� m� r�ng b�ng c�c g�i ph�n m�m tr�nh b�y t�i htt
+ps://www.ctan.org/
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[10])
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[11] (./chuong_huong_dan_viet_luan_an.tex
+Ch\uhorn \ohorn ng 2.
+
+Overfull \hbox (93.1381pt too wide) in paragraph at lines 17--18
+[]\T5/cmr/m/n/13 N�n c�i ^^_�t ph�n m�m so�n th�o L[]T[]X l� TeXS-tu-dio t� tra
+ng ch� http://www.texstudio.org/
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[12]
+Overfull \hbox (17.44395pt too wide) in paragraph at lines 46--47
+ [] 
+(c:/texlive/texmf-dist/tex/latex/vntex/t5cmtt.fd)
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[13]
+
+LaTeX Warning: Text page 14 contains only floats.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[14 <./master.png>]
+Overfull \hbox (11.62059pt too wide) in paragraph at lines 88--88
+[]\T5/cmtt/m/n/13 title  ="Nghi�n c�u, ph�t tri�n c�c l��c ^^_� ch� k� s� t�p t
+h�",[] 
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[15]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[16]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[17]
+Overfull \hbox (4.36394pt too wide) in paragraph at lines 144--145
+\T5/cmr/m/n/13 g�i v� \T5/cmr/bx/n/13 tu-an-vi-etkey@gmail.com \T5/cmr/m/n/13 h
+o�c th�ng qua \T5/cmr/bx/n/13 face-book.com/tuanvietkey\T5/cmr/m/n/13 . 
+)
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[18] (./chuong_mau.tex
+Ch\uhorn \ohorn ng 3.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[19 <./nhanelliptic.png>]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[20 <./kytapthe3.png>]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[21]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[22]
+
+LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <13> not available
+(Font)              size <12> substituted on input line 123.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <6.5> not available
+(Font)              size <6> substituted on input line 123.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/b/it' in size <13> not available
+(Font)              size <12> substituted on input line 123.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/b/it' in size <6.5> not available
+(Font)              size <6> substituted on input line 123.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/b/n' in size <13> not available
+(Font)              size <12> substituted on input line 123.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/b/n' in size <6.5> not available
+(Font)              size <6> substituted on input line 123.
+
+
+LaTeX Font Warning: Font shape `U/lasy/b/n' in size <13> not available
+(Font)              size <12> substituted on input line 123.
+
+
+LaTeX Font Warning: Font shape `U/lasy/m/n' in size <6.5> not available
+(Font)              size <6> substituted on input line 123.
+
+
+LaTeX Font Warning: Font shape `OT1/cmss/bx/n' in size <13> not available
+(Font)              size <12> substituted on input line 123.
+
+
+LaTeX Font Warning: Font shape `OT1/cmss/bx/n' in size <6.5> not available
+(Font)              size <6> substituted on input line 123.
+
+
+Overfull \hbox (36.03975pt too wide) in paragraph at lines 123--124
+[]$\T5/cmr/m/it/13 , $[]$, $[]$, $[]$, $[]$, $[]$,
+
+Overfull \hbox (8.41118pt too wide) in paragraph at lines 123--124
+[]$\T5/cmr/m/it/13 , $[]$, $[]$, $[]$, $[]$ ) c� thu�t
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[23]
+
+LaTeX Font Warning: Font shape `OT1/cmtt/m/n' in size <13> not available
+(Font)              size <12> substituted on input line 140.
+
+
+LaTeX Font Warning: Font shape `OT1/cmtt/m/n' in size <6.5> not available
+(Font)              size <6> substituted on input line 140.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[24]
+Overfull \hbox (48.51253pt too wide) detected at line 213
+[][][]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[25]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[26]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[27]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[28]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[29]
+
+LaTeX Warning: Reference `mangKy' on page 30 undefined on input line 319.
+
+
+LaTeX Warning: Reference `mangKy' on page 30 undefined on input line 319.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[30]
+Overfull \hbox (20.18445pt too wide) in paragraph at lines 345--346
+[]\T5/cmr/m/n/13 Ng��i x�c th�c ch� k� �y nhi�m sau khi nh�n v�n b�n $\OML/cmm/
+m/it/12 m[]$ \T5/cmr/m/n/13 v� ch� k� $\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 ^^[[];
+ V; w; U[]; \U/euf/m/n/13 V\OT1/cmr/m/n/12 )$
+
+LaTeX Font Warning: Font shape `T5/cmr/bx/sc' undefined
+(Font)              using `T5/cmr/bx/n' instead on input line 361.
+
+
+Overfull \hbox (4.06589pt too wide) detected at line 378
+[]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[31]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[32]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[33]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[34]
+Overfull \hbox (19.86653pt too wide) detected at line 463
+\OML/cmm/m/it/12 ^^O[]\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 k\OT1/cmr/m/n/12 ) [] [
+] []
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[35]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[36]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[37]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[38])
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[39] (./ketluan.tex
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[40])
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[41] (./chdanhmuccongbo.tex)
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[42]
+Overfull \hbox (7.87029pt too wide) in paragraph at lines 65--65
+\T5/cmr/m/n/13 Sig-na-tures'', \T5/cmr/m/it/13 Pro-ceed-ing of Pub-lic Key Cryp
+-tog-ra-phy, LNCS 3958\T5/cmr/m/n/13 , pp. 257^^U
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[43]
+Overfull \hbox (7.46051pt too wide) in paragraph at lines 65--65
+[]\T5/cmr/m/n/13 Qin Wang and Zhenfu Cao (2007), ``Iden-tity based proxy multi-
+signature'',
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[44] (./phuluccaidat.tex
+Ph\d {u} l\d {u}c A.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[1]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[2]
+Ph\d {u} l\d {u}c B.
+
+LaTeX Font Warning: Font shape `OT1/cmtt/m/n' in size <15.59996> not available
+(Font)              size <14.4> substituted on input line 72.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <7.58339> not available
+(Font)              size <8> substituted on input line 121.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <5.41673> not available
+(Font)              size <5> substituted on input line 121.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <7.58339> not available
+(Font)              size <8> substituted on input line 121.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <5.41673> not available
+(Font)              size <5> substituted on input line 121.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <7.58339> not available
+(Font)              size <8> substituted on input line 121.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <5.41673> not available
+(Font)              size <5> substituted on input line 121.
+
+
+LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <7.58339> not available
+(Font)              size <8> substituted on input line 121.
+
+
+LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <5.41673> not available
+(Font)              size <5> substituted on input line 121.
+
+
+LaTeX Font Warning: Font shape `OT1/cmtt/m/n' in size <7.58339> not available
+(Font)              size <8> substituted on input line 121.
+
+
+LaTeX Font Warning: Font shape `OT1/cmtt/m/n' in size <5.41673> not available
+(Font)              size <5> substituted on input line 121.
+
+
+LaTeX Font Warning: Font shape `U/lasy/m/n' in size <7.58339> not available
+(Font)              size <8> substituted on input line 121.
+
+
+LaTeX Font Warning: Font shape `U/lasy/m/n' in size <5.41673> not available
+(Font)              size <5> substituted on input line 121.
+
+
+Overfull \hbox (43.52275pt too wide) in paragraph at lines 504--505
+ [] 
+
+Package pgf Warning: Returning node center instead of a point on node border. D
+id you specify a point identical to the center of node ``q''? on input line 551
+.
+
+
+Package pgf Warning: Returning node center instead of a point on node border. D
+id you specify a point identical to the center of node ``q''? on input line 551
+.
+
+
+LaTeX Warning: \oval, \circle, or \line size unavailable on input line 579.
+
+
+Overfull \hbox (7.34805pt too wide) in paragraph at lines 579--580
+[][] 
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[3]
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <4.33336> not available
+(Font)              size <5> substituted on input line 595.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <4.33336> not available
+(Font)              size <5> substituted on input line 595.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <4.33336> not available
+(Font)              size <5> substituted on input line 595.
+
+
+LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <4.33336> not available
+(Font)              size <5> substituted on input line 595.
+
+
+LaTeX Font Warning: Font shape `OT1/cmtt/m/n' in size <4.33336> not available
+(Font)              size <5> substituted on input line 595.
+
+
+LaTeX Font Warning: Font shape `U/lasy/m/n' in size <4.33336> not available
+(Font)              size <5> substituted on input line 595.
+
+
+(c:/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary
+arrows.code.tex
+(c:/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.code.tex))
+(c:/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary
+automata.code.tex
+(c:/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary
+shapes.multipart.code.tex
+(c:/texlive/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshapes.multip
+art.code.tex)))
+(c:/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary
+positioning.code.tex)
+(c:/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary
+decorations.pathmorphing.code.tex
+(c:/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary
+decorations.code.tex
+(c:/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduledecorations.code.tex))
+(c:/texlive/texmf-dist/tex/generic/pgf/libraries/decorations/pgflibrarydecorati
+ons.pathmorphing.code.tex))
+(c:/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary
+matrix.code.tex)
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[4]
+
+LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <7.58339> not available
+(Font)              size <8> substituted on input line 765.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <5.41673> not available
+(Font)              size <5> substituted on input line 765.
+
+
+Overfull \hbox (33.52525pt too wide) in paragraph at lines 858--859
+ [] 
+
+LaTeX Font Warning: Font shape `OML/cmm/b/it' in size <7.58339> not available
+(Font)              size <8> substituted on input line 905.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/b/it' in size <5.41673> not available
+(Font)              size <5> substituted on input line 905.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/b/n' in size <7.58339> not available
+(Font)              size <8> substituted on input line 905.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/b/n' in size <5.41673> not available
+(Font)              size <5> substituted on input line 905.
+
+
+LaTeX Font Warning: Font shape `OT1/cmss/bx/n' in size <7.58339> not available
+(Font)              size <8> substituted on input line 905.
+
+
+LaTeX Font Warning: Font shape `OT1/cmss/bx/n' in size <5.41673> not available
+(Font)              size <5> substituted on input line 905.
+
+
+LaTeX Font Warning: Font shape `U/lasy/m/n' in size <7.58339> not available
+(Font)              size <8> substituted on input line 905.
+
+
+LaTeX Font Warning: Font shape `U/lasy/m/n' in size <5.41673> not available
+(Font)              size <5> substituted on input line 905.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[5]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[6])
+
+Package minitoc(hints) Warning: W0033
+(minitoc(hints))                The caption package should be 
+(minitoc(hints))                loaded BEFORE the minitoc package.
+
+
+Package minitoc(hints) Warning: W0024
+(minitoc(hints))                Some hints have been written 
+(minitoc(hints))                in the LuanAn.log file.
+
+(E:/paper-latex-4/public/projects/project-b/output/LuanAn.aux
+(E:/paper-latex-4/public/projects/project-b/output/trangbia.aux)
+(E:/paper-latex-4/public/projects/project-b/output/loicamdoan.aux)
+(E:/paper-latex-4/public/projects/project-b/output/loicamon.aux)
+(E:/paper-latex-4/public/projects/project-b/output/kyhieu.aux)
+(E:/paper-latex-4/public/projects/project-b/output/loinoidau.aux)
+(E:/paper-latex-4/public/projects/project-b/output/chuong_hien_trang.aux)
+(E:/paper-latex-4/public/projects/project-b/output/chuong_huong_dan_viet_luan_a
+n.aux) (E:/paper-latex-4/public/projects/project-b/output/chuong_mau.aux)
+(E:/paper-latex-4/public/projects/project-b/output/ketluan.aux)
+(E:/paper-latex-4/public/projects/project-b/output/chdanhmuccongbo.aux)
+(E:/paper-latex-4/public/projects/project-b/output/phuluccaidat.aux))
+
+ *File List*
+vietkey.luanan.1.2.cls    2016/08/16 v1.2 vietkey.luanan.1.2 class
+  report.cls    2021/10/04 v1.4n Standard LaTeX document class
+  size10.clo    2021/10/04 v1.4n Standard LaTeX file (size option)
+   babel.sty    2021/12/30 3.69 The Babel package
+ slovene.ldf    2021/02/06 v1.2n Slovene support from the babel system
+ english.ldf    2017/06/06 v3.3r English support from the babel system
+ vietnam.sty    2009/07/12 v1.3 support for Vietnamese
+  ifthen.sty    2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
+ fontenc.sty
+   t5enc.def    2006/11/21 v1.4 Vietnamese T5 encoding
+   t5enc.dfu    2006/08/19 v1.1 UTF8 support for Vietnamese
+   t5cmr.fd    1999/05/25 v2.5h Standard LaTeX font definitions
+inputenc.sty    2021/02/14 v1.3d Input encoding file
+  vncaps.tex    2006/06/07 v1.1 Captions in Vietnamese
+enumerate.sty    2015/07/23 v3.00 enumerate extensions (DPC)
+ amsmath.sty    2021/10/15 v2.17l AMS math features
+ amstext.sty    2021/08/26 v2.01 AMS text
+  amsgen.sty    1999/11/30 v2.0 generic functions
+  amsbsy.sty    1999/11/29 v1.2d Bold Symbols
+  amsopn.sty    2021/08/26 v2.02 operator names
+ amsxtra.sty    1999/11/15 v1.2c AMS extra commands
+ amssymb.sty    2013/01/14 v3.01 AMS font symbols
+amsfonts.sty    2013/01/14 v3.01 Basic AMSFonts support
+latexsym.sty    1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
+   amscd.sty    2017/04/14 v2.1 AMS Commutative Diagrams
+  amsthm.sty    2020/05/29 v2.20.6
+indentfirst.sty    1995/11/23 v1.03 Indent first paragraph (DPC)
+picinpar.sty    
+floatflt.sty    1997/07/16 v. 1.31
+    epic.sty    
+  curves.sty    2017/08/25 1.55 Curves for LaTeX picture environment
+ makeidx.sty    2021/10/04 v1.0m Standard LaTeX package
+longtable.sty    2021-09-01 v4.17 Multi-page Table package (DPC)
+multicol.sty    2021/10/28 v1.9b multicolumn formatting (FMi)
+listings.sty    2020/03/24 1.8d (Carsten Heinz)
+  keyval.sty    2014/10/28 v1.15 key=value parser (DPC)
+ lstmisc.sty    2020/03/24 1.8d (Carsten Heinz)
+listings.cfg    2020/03/24 1.8d listings configuration
+scrextend.sty    2021/11/13 v3.35 KOMA-Script package (extend other classes wit
+h features of KOMA-Script classes)
+scrkbase.sty    2021/11/13 v3.35 KOMA-Script package (KOMA-Script-dependent bas
+ics and keyval usage)
+ scrbase.sty    2021/11/13 v3.35 KOMA-Script package (KOMA-Script-independent b
+asics and keyval usage)
+scrlfile.sty    2021/11/13 v3.35 KOMA-Script package (file load hooks)
+scrlfile-hook.sty    2021/11/13 v3.35 KOMA-Script package (using LaTeX hooks)
+ scrlogo.sty    2021/11/13 v3.35 KOMA-Script package (logo)
+setspace.sty    2011/12/19 v6.7a set line spacing
+ minitoc.sty    2018/07/12 v62 Package minitoc
+ mtcmess.sty    2006/03/14
+  LuanAn.mtc0
+ english.mld    2006/01/13
+ english.mld    2006/01/13
+ vietnam.mld    1999/03/16
+fancybox.sty    2010/05/15 1.4
+pdflscape.sty    2019/12/05 v0.12 Display of landscape pages in PDF (HO)
+   iftex.sty    2020/03/06 v1.0d TeX engine tests
+  lscape.sty    2020/05/28 v3.02 Landscape Pages (DPC)
+graphics.sty    2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+    trig.sty    2021/08/11 v1.11 sin cos tan (DPC)
+graphics.cfg    2016/06/04 v1.11 sample graphics configuration
+  pdftex.def    2020/10/05 v1.2a Graphics/color driver for pdftex
+tcolorbox.sty    2022/01/07 version 5.0.2 text color boxes
+     pgf.sty    2021/05/15 v3.1.9a (3.1.9a)
+  pgfrcs.sty    2021/05/15 v3.1.9a (3.1.9a)
+pgfrcs.code.tex
+ pgfcore.sty    2021/05/15 v3.1.9a (3.1.9a)
+graphicx.sty    2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+  pgfsys.sty    2021/05/15 v3.1.9a (3.1.9a)
+pgfsys.code.tex
+pgfsyssoftpath.code.tex    2021/05/15 v3.1.9a (3.1.9a)
+pgfsysprotocol.code.tex    2021/05/15 v3.1.9a (3.1.9a)
+  xcolor.sty    2021/10/31 v2.13 LaTeX color extensions (UK)
+   color.cfg    2016/01/02 v1.6 sample color configuration
+pgfcore.code.tex
+pgfcomp-version-0-65.sty    2021/05/15 v3.1.9a (3.1.9a)
+pgfcomp-version-1-18.sty    2021/05/15 v3.1.9a (3.1.9a)
+verbatim.sty    2020-07-07 v1.5u LaTeX2e package for verbatim enhancements
+ environ.sty    2014/05/04 v0.3 A new way to define environments
+trimspaces.sty    2009/09/17 v1.1 Trim spaces around a token list
+etoolbox.sty    2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+enumitem.sty    2019/06/20 v3.9 Customized lists
+    tikz.sty    2021/05/15 v3.1.9a (3.1.9a)
+  pgffor.sty    2021/05/15 v3.1.9a (3.1.9a)
+ pgfkeys.sty    
+pgfkeys.code.tex
+ pgfmath.sty    
+pgfmath.code.tex
+pgffor.code.tex
+tikz.code.tex
+algorithm.sty    2009/08/24 v0.1 Document Style `algorithm' - floating environm
+ent
+   float.sty    2001/11/08 v1.3d Float enhancements (AL)
+algorithmic.sty    2009/08/24 v0.1 Document Style `algorithmic'
+ eso-pic.sty    2020/10/14 v3.0a eso-pic (RN)
+    calc.sty    2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+hyperref.sty    2021-06-07 v7.00m Hypertext links for LaTeX
+ ltxcmds.sty    2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+pdftexcmds.sty    2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+infwarerr.sty    2019/12/03 v1.5 Providing info/warning/error messages (HO)
+kvsetkeys.sty    2019/12/15 v1.18 Key value parser (HO)
+kvdefinekeys.sty    2019-12-19 v1.6 Define keys (HO)
+pdfescape.sty    2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+ hycolor.sty    2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+letltxmacro.sty    2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+ auxhook.sty    2019-12-17 v1.6 Hooks for auxiliary files (HO)
+kvoptions.sty    2020-10-07 v3.14 Key value format for package options (HO)
+  pd1enc.def    2021-06-07 v7.00m Hyperref: PDFDocEncoding definition (HO)
+hyperref-langpatches.def    2021-06-07 v7.00m Hyperref: patches for babel langu
+ages
+ intcalc.sty    2019/12/15 v1.3 Expandable calculations with integers (HO)
+etexcmds.sty    2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+   puenc.def    2021-06-07 v7.00m Hyperref: PDF Unicode definition (HO)
+     url.sty    2013/09/16  ver 3.4  Verb mode for urls, etc.
+  bitset.sty    2019/12/09 v1.3 Handle bit-vector datatype (HO)
+bigintcalc.sty    2019/12/15 v1.5 Expandable calculations on big integers (HO)
+atbegshi-ltx.sty    2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+ hpdftex.def    2021-06-07 v7.00m Hyperref driver for pdfTeX
+atveryend-ltx.sty    2020/08/19 v1.0a Emulation of the original atveryend packa
+ge
+with kernel methods
+rerunfilecheck.sty    2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+uniquecounter.sty    2019/12/15 v1.4 Provide unlimited unique counter (HO)
+bookmark.sty    2020-11-06 v1.29 PDF bookmarks (HO)
+bkm-pdftex.def    2020-11-06 v1.29 bookmark driver for pdfTeX (HO)
+titlesec.sty    2021/07/05 v2.14 Sectioning titles
+ tocloft.sty    2017/08/31 v2.3i parameterised ToC, etc., typesetting
+thmtools.sty    2020/08/01 v0.72
+thm-patch.sty    2020/08/01 v0.72
+parseargs.sty    2020/08/01 v0.72
+  thm-kv.sty    2020/08/01 v0.72
+thm-autoref.sty    2020/08/01 v0.72
+aliasctr.sty    2020/08/01 v0.72
+thm-listof.sty    2020/08/01 v0.72
+thm-restate.sty    2020/08/01 v0.72
+thm-amsthm.sty    2020/08/01 v0.72
+booktabs.sty    2020/01/12 v1.61803398 Publication quality tables
+ caption.sty    2020/10/26 v3.5g Customizing captions (AR)
+caption3.sty    2020/10/21 v2.2e caption3 kernel (AR)
+ltcaption.sty    2020/05/30 v1.4b longtable captions (AR)
+fancyhdr.sty    2021/01/28 v4.0.1 Extensive control of page headers and footers
+
+pdfpages.sty    2021/03/06 v0.5t Insert pages of external PDF documents (AM)
+pppdftex.def    2021/03/06 v0.5t Pdfpages driver for pdfTeX (AM)
+geometry.sty    2020/01/02 v5.9 Page Geometry
+  ifvtex.sty    2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+biblatex.sty    2020/12/31 v3.16 programmable bibliographies (PK/MW)
+  logreq.sty    2010/08/04 v1.0 xml request logger
+  logreq.def    2010/08/04 v1.0 logreq spec v1.0
+  blx-dm.def    2020/12/31 v3.16 biblatex localization (PK/MW)
+blx-compat.def    2020/12/31 v3.16 biblatex compatibility (PK/MW)
+blx-bibtex.def    2020/12/31 v3.16 biblatex compatibility (PK/MW)
+biblatex.def    2020/12/31 v3.16 biblatex compatibility (PK/MW)
+standard.bbx    2020/12/31 v3.16 biblatex bibliography style (PK/MW)
+ numeric.bbx    2020/12/31 v3.16 biblatex bibliography style (PK/MW)
+  luanan.bbx    
+ numeric.cbx    2020/12/31 v3.16 biblatex citation style (PK/MW)
+biblatex.cfg    
+l3backend-pdftex.def    2022-01-12 L3 backend support: PDF output (pdfTeX)
+supp-pdf.mkii
+epstopdf-base.sty    2020-01-24 v2.11 Base part for package epstopdf
+  grfext.sty    2019/12/03 v1.3 Manage graphics extensions (HO)
+epstopdf-sys.cfg    2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+ nameref.sty    2021-04-02 v2.47 Cross-referencing by name of section
+refcount.sty    2019/12/15 v3.6 Data extraction from label references (HO)
+gettitlestring.sty    2019/12/15 v1.6 Cleanup title references (HO)
+ english.lbx    2020/12/31 v3.16 biblatex localization (PK/MW)
+ slovene.lbx    2020/12/31 v3.16 biblatex localization (PK/MW)
+   expl3.sty    2022-01-21 L3 programming layer (loader) 
+blx-case-expl3.sty    2020/12/31 v3.16 expl3 case changing code for biblatex
+  xparse.sty    2022-01-12 L3 Experimental document command parser
+  LuanAn.bbl
+trangbia.tex
+    umsa.fd    2013/01/14 v3.01 AMS symbols A
+    umsb.fd    2013/01/14 v3.01 AMS symbols B
+   ulasy.fd    1998/08/17 v2.2e LaTeX symbol font definitions
+image3_gLrwE.png    Graphic file (type png)
+   RBqEh.png    Graphic file (type png)
+   geh6V.png    Graphic file (type png)
+   oGA08.png    Graphic file (type png)
+loicamdoan.tex
+loicamon.tex
+  kyhieu.tex
+    ueuf.fd    2013/01/14 v3.01 Euler Fraktur
+loinoidau.tex
+chuong_hien_trang.tex
+chuong_huong_dan_viet_luan_an.tex
+  master.png    Graphic file (type png)
+  t5cmtt.fd    1999/05/25 v2.5h Standard LaTeX font definitions
+chuong_mau.tex
+nhanelliptic.png    Graphic file (type png)
+kytapthe3.png    Graphic file (type png)
+ ketluan.tex
+chdanhmuccongbo.tex
+phuluccaidat.tex
+ ***********
+
+
+LaTeX Font Warning: Size substitutions with differences
+(Font)              up to 1.75pt have occurred.
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+
+Overfull \hbox (305.66318pt too wide) in paragraph at lines 70--70
+[]                                                                             
+                                                                               
+                                                                               
+                                                                      
+ )
+(see the transcript file for additional information)pdfTeX warning (dest): name
+{section.B.9} has been referenced but does not exist, replaced by a fixed one
+
+{c:/texlive/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}<c:/texlive/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmbsy10.pfb><c:/texlive/texmf-dist/font
+s/type1/public/amsfonts/cm/cmbx10.pfb><c:/texlive/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmex10.pfb><c:/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mmi10.pfb><c:/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><c:/
+texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb><c:/texlive/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmmi6.pfb><c:/texlive/texmf-dist/fonts/type1
+/public/amsfonts/cm/cmmi8.pfb><c:/texlive/texmf-dist/fonts/type1/public/amsfont
+s/cm/cmmi9.pfb><c:/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmib10.pf
+b><c:/texlive/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmmib9.pfb><c:/tex
+live/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/texmf-dist/fonts/type1/pu
+blic/amsfonts/cm/cmr5.pfb><c:/texlive/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmr6.pfb><c:/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/te
+xlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb><c:/texlive/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmss12.pfb><c:/texlive/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmss9.pfb><c:/texlive/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmssbx10.pfb><c:/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pf
+b><c:/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb><c:/texlive/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb><c:/texlive/texmf-dist/fonts
+/type1/public/amsfonts/cm/cmtt12.pfb><c:/texlive/texmf-dist/fonts/type1/public/
+amsfonts/cm/cmtt9.pfb><c:/texlive/texmf-dist/fonts/type1/public/amsfonts/euler/
+eufm10.pfb><c:/texlive/texmf-dist/fonts/type1/public/amsfonts/latxfont/lcircle1
+.pfb><c:/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb><c:/
+texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb><c:/texlive/t
+exmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb><c:/texlive/texmf-dist/fonts
+/type1/vntex/vnr/vnbx10.pfb><c:/texlive/texmf-dist/fonts/type1/vntex/vnr/vnbx12
+.pfb><c:/texlive/texmf-dist/fonts/type1/vntex/vnr/vnbx9.pfb><c:/texlive/texmf-d
+ist/fonts/type1/vntex/vnr/vnbxti10.pfb><c:/texlive/texmf-dist/fonts/type1/vntex
+/vnr/vncsc10.pfb><c:/texlive/texmf-dist/fonts/type1/vntex/vnr/vnr10.pfb><c:/tex
+live/texmf-dist/fonts/type1/vntex/vnr/vnr12.pfb><c:/texlive/texmf-dist/fonts/ty
+pe1/vntex/vnr/vnr17.pfb><c:/texlive/texmf-dist/fonts/type1/vntex/vnr/vnr9.pfb><
+c:/texlive/texmf-dist/fonts/type1/vntex/vnr/vnti12.pfb><c:/texlive/texmf-dist/f
+onts/type1/vntex/vnr/vnti9.pfb><c:/texlive/texmf-dist/fonts/type1/vntex/vnr/vnt
+t10.pfb><c:/texlive/texmf-dist/fonts/type1/vntex/vnr/vntt12.pfb>
+Output written on E:/paper-latex-4/public/projects/project-b/output/LuanAn.pdf 
+(64 pages, 1168452 bytes).
+Transcript written on E:/paper-latex-4/public/projects/project-b/output/LuanAn.
+log.
+Latexmk: Examining 'E:/paper-latex-4/public/projects/project-b/output/LuanAn.log'
+=== TeX engine is 'pdfTeX'
+Latexmk: All targets (E:/paper-latex-4/public/projects/project-b/output/LuanAn.pdf) are up-to-date

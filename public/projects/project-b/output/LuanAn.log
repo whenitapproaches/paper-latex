@@ -1,0 +1,3388 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2022.1.24)  25 FEB 2022 19:22
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**LuanAn.tex
+(./LuanAn.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2022-01-21> (./vietkey.luanan.1.2.cls
+Document Class: vietkey.luanan.1.2 2016/08/16 v1.2 vietkey.luanan.1.2 class
+(c:/texlive/texmf-dist/tex/latex/base/report.cls
+Document Class: report 2021/10/04 v1.4n Standard LaTeX document class
+(c:/texlive/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@chapter=\count186
+\c@section=\count187
+\c@subsection=\count188
+\c@subsubsection=\count189
+\c@paragraph=\count190
+\c@subparagraph=\count191
+\c@figure=\count192
+\c@table=\count193
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(c:/texlive/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2021/12/30 3.69 The Babel package
+\babel@savecnt=\count194
+\U@D=\dimen139
+\l@unhyphenated=\language87
+
+(c:/texlive/texmf-dist/tex/generic/babel/txtbabel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count195
+
+(c:/texlive/texmf-dist/tex/generic/babel-slovenian/slovene.ldf
+Language: slovene 2021/02/06 v1.2n Slovene support from the babel system
+Package babel Info: Making " an active character on input line 79.
+)
+(c:/texlive/texmf-dist/tex/generic/babel-english/english.ldf
+Language: english 2017/06/06 v3.3r English support from the babel system
+Package babel Info: Hyphen rules for 'canadian' set to \l@english
+(babel)             (\language0). Reported on input line 102.
+Package babel Info: Hyphen rules for 'australian' set to \l@ukenglish
+(babel)             (\language21). Reported on input line 105.
+Package babel Info: Hyphen rules for 'newzealand' set to \l@ukenglish
+(babel)             (\language21). Reported on input line 108.
+))
+(c:/texlive/texmf-dist/tex/latex/vntex/vietnam.sty
+Package: vietnam 2009/07/12 v1.3 support for Vietnamese
+
+(c:/texlive/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(c:/texlive/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+
+(c:/texlive/texmf-dist/tex/latex/vntex/t5enc.def
+File: t5enc.def 2006/11/21 v1.4 Vietnamese T5 encoding
+Now handling font encoding T5 ...
+... processing UTF-8 mapping file for font encoding T5
+
+(c:/texlive/texmf-dist/tex/latex/vntex/t5enc.dfu
+File: t5enc.dfu 2006/08/19 v1.1 UTF8 support for Vietnamese
+   defining Unicode char U+00AB (decimal 171)
+   defining Unicode char U+00BB (decimal 187)
+   defining Unicode char U+00C0 (decimal 192)
+   defining Unicode char U+00C1 (decimal 193)
+   defining Unicode char U+00C2 (decimal 194)
+   defining Unicode char U+00C3 (decimal 195)
+   defining Unicode char U+00C8 (decimal 200)
+   defining Unicode char U+00C9 (decimal 201)
+   defining Unicode char U+00CA (decimal 202)
+   defining Unicode char U+00CC (decimal 204)
+   defining Unicode char U+00CD (decimal 205)
+   defining Unicode char U+00D2 (decimal 210)
+   defining Unicode char U+00D3 (decimal 211)
+   defining Unicode char U+00D4 (decimal 212)
+   defining Unicode char U+00D5 (decimal 213)
+   defining Unicode char U+00D9 (decimal 217)
+   defining Unicode char U+00DA (decimal 218)
+   defining Unicode char U+00DD (decimal 221)
+   defining Unicode char U+00E0 (decimal 224)
+   defining Unicode char U+00E1 (decimal 225)
+   defining Unicode char U+00E2 (decimal 226)
+   defining Unicode char U+00E3 (decimal 227)
+   defining Unicode char U+00E8 (decimal 232)
+   defining Unicode char U+00E9 (decimal 233)
+   defining Unicode char U+00EA (decimal 234)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00F2 (decimal 242)
+   defining Unicode char U+00F3 (decimal 243)
+   defining Unicode char U+00F4 (decimal 244)
+   defining Unicode char U+00F5 (decimal 245)
+   defining Unicode char U+00F9 (decimal 249)
+   defining Unicode char U+00FA (decimal 250)
+   defining Unicode char U+00FD (decimal 253)
+   defining Unicode char U+0102 (decimal 258)
+   defining Unicode char U+0103 (decimal 259)
+   defining Unicode char U+0110 (decimal 272)
+   defining Unicode char U+0111 (decimal 273)
+   defining Unicode char U+0128 (decimal 296)
+   defining Unicode char U+0129 (decimal 297)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0168 (decimal 360)
+   defining Unicode char U+0169 (decimal 361)
+   defining Unicode char U+01A0 (decimal 416)
+   defining Unicode char U+01A1 (decimal 417)
+   defining Unicode char U+01AF (decimal 431)
+   defining Unicode char U+01B0 (decimal 432)
+   defining Unicode char U+1EA0 (decimal 7840)
+   defining Unicode char U+1EA1 (decimal 7841)
+   defining Unicode char U+1EA2 (decimal 7842)
+   defining Unicode char U+1EA3 (decimal 7843)
+   defining Unicode char U+1EA4 (decimal 7844)
+   defining Unicode char U+1EA5 (decimal 7845)
+   defining Unicode char U+1EA6 (decimal 7846)
+   defining Unicode char U+1EA7 (decimal 7847)
+   defining Unicode char U+1EA8 (decimal 7848)
+   defining Unicode char U+1EA9 (decimal 7849)
+   defining Unicode char U+1EAA (decimal 7850)
+   defining Unicode char U+1EAB (decimal 7851)
+   defining Unicode char U+1EAC (decimal 7852)
+   defining Unicode char U+1EAD (decimal 7853)
+   defining Unicode char U+1EAE (decimal 7854)
+   defining Unicode char U+1EAF (decimal 7855)
+   defining Unicode char U+1EB0 (decimal 7856)
+   defining Unicode char U+1EB1 (decimal 7857)
+   defining Unicode char U+1EB2 (decimal 7858)
+   defining Unicode char U+1EB3 (decimal 7859)
+   defining Unicode char U+1EB4 (decimal 7860)
+   defining Unicode char U+1EB5 (decimal 7861)
+   defining Unicode char U+1EB6 (decimal 7862)
+   defining Unicode char U+1EB7 (decimal 7863)
+   defining Unicode char U+1EB8 (decimal 7864)
+   defining Unicode char U+1EB9 (decimal 7865)
+   defining Unicode char U+1EBA (decimal 7866)
+   defining Unicode char U+1EBB (decimal 7867)
+   defining Unicode char U+1EBC (decimal 7868)
+   defining Unicode char U+1EBD (decimal 7869)
+   defining Unicode char U+1EBE (decimal 7870)
+   defining Unicode char U+1EBF (decimal 7871)
+   defining Unicode char U+1EC0 (decimal 7872)
+   defining Unicode char U+1EC1 (decimal 7873)
+   defining Unicode char U+1EC2 (decimal 7874)
+   defining Unicode char U+1EC3 (decimal 7875)
+   defining Unicode char U+1EC4 (decimal 7876)
+   defining Unicode char U+1EC5 (decimal 7877)
+   defining Unicode char U+1EC6 (decimal 7878)
+   defining Unicode char U+1EC7 (decimal 7879)
+   defining Unicode char U+1EC8 (decimal 7880)
+   defining Unicode char U+1EC9 (decimal 7881)
+   defining Unicode char U+1ECA (decimal 7882)
+   defining Unicode char U+1ECB (decimal 7883)
+   defining Unicode char U+1ECC (decimal 7884)
+   defining Unicode char U+1ECD (decimal 7885)
+   defining Unicode char U+1ECE (decimal 7886)
+   defining Unicode char U+1ECF (decimal 7887)
+   defining Unicode char U+1ED0 (decimal 7888)
+   defining Unicode char U+1ED1 (decimal 7889)
+   defining Unicode char U+1ED2 (decimal 7890)
+   defining Unicode char U+1ED3 (decimal 7891)
+   defining Unicode char U+1ED4 (decimal 7892)
+   defining Unicode char U+1ED5 (decimal 7893)
+   defining Unicode char U+1ED6 (decimal 7894)
+   defining Unicode char U+1ED7 (decimal 7895)
+   defining Unicode char U+1ED8 (decimal 7896)
+   defining Unicode char U+1ED9 (decimal 7897)
+   defining Unicode char U+1EDA (decimal 7898)
+   defining Unicode char U+1EDB (decimal 7899)
+   defining Unicode char U+1EDC (decimal 7900)
+   defining Unicode char U+1EDD (decimal 7901)
+   defining Unicode char U+1EDE (decimal 7902)
+   defining Unicode char U+1EDF (decimal 7903)
+   defining Unicode char U+1EE0 (decimal 7904)
+   defining Unicode char U+1EE1 (decimal 7905)
+   defining Unicode char U+1EE2 (decimal 7906)
+   defining Unicode char U+1EE3 (decimal 7907)
+   defining Unicode char U+1EE4 (decimal 7908)
+   defining Unicode char U+1EE5 (decimal 7909)
+   defining Unicode char U+1EE6 (decimal 7910)
+   defining Unicode char U+1EE7 (decimal 7911)
+   defining Unicode char U+1EE8 (decimal 7912)
+   defining Unicode char U+1EE9 (decimal 7913)
+   defining Unicode char U+1EEA (decimal 7914)
+   defining Unicode char U+1EEB (decimal 7915)
+   defining Unicode char U+1EEC (decimal 7916)
+   defining Unicode char U+1EED (decimal 7917)
+   defining Unicode char U+1EEE (decimal 7918)
+   defining Unicode char U+1EEF (decimal 7919)
+   defining Unicode char U+1EF0 (decimal 7920)
+   defining Unicode char U+1EF1 (decimal 7921)
+   defining Unicode char U+1EF2 (decimal 7922)
+   defining Unicode char U+1EF3 (decimal 7923)
+   defining Unicode char U+1EF4 (decimal 7924)
+   defining Unicode char U+1EF5 (decimal 7925)
+   defining Unicode char U+1EF6 (decimal 7926)
+   defining Unicode char U+1EF7 (decimal 7927)
+   defining Unicode char U+1EF8 (decimal 7928)
+   defining Unicode char U+1EF9 (decimal 7929)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201A (decimal 8218)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+201E (decimal 8222)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+2039 (decimal 8249)
+   defining Unicode char U+203A (decimal 8250)
+   defining Unicode char U+2423 (decimal 9251)
+))
+LaTeX Font Info:    Trying to load font information for T5+cmr on input line 11
+2.
+
+(c:/texlive/texmf-dist/tex/latex/vntex/t5cmr.fd
+File: t5cmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+))
+(c:/texlive/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks16
+\inpenc@posthook=\toks17
+)
+(c:/texlive/texmf-dist/tex/latex/vntex/vncaps.tex
+File: vncaps.tex 2006/06/07 v1.1 Captions in Vietnamese
+))
+(c:/texlive/texmf-dist/tex/latex/tools/enumerate.sty
+Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
+\@enLab=\toks18
+)
+(c:/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2021/10/15 v2.17l AMS math features
+\@mathmargin=\skip49
+
+For additional information on amsmath, use the `?' option.
+(c:/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+
+(c:/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks19
+\ex@=\dimen140
+))
+(c:/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen141
+)
+(c:/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2021/08/26 v2.02 operator names
+)
+\inf@bad=\count196
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count197
+\leftroot@=\count198
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count199
+\DOTSCASE@=\count266
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box50
+\strutbox@=\box51
+\big@size=\dimen142
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count267
+\c@MaxMatrixCols=\count268
+\dotsspace@=\muskip16
+\c@parentequation=\count269
+\dspbrk@lvl=\count270
+\tag@help=\toks20
+\row@=\count271
+\column@=\count272
+\maxfields@=\count273
+\andhelp@=\toks21
+\eqnshift@=\dimen143
+\alignsep@=\dimen144
+\tagshift@=\dimen145
+\tagwidth@=\dimen146
+\totwidth@=\dimen147
+\lineht@=\dimen148
+\@envbody=\toks22
+\multlinegap=\skip50
+\multlinetaggap=\skip51
+\mathdisplay@stack=\toks23
+LaTeX Info: Redefining \[ on input line 2938.
+LaTeX Info: Redefining \] on input line 2939.
+)
+(c:/texlive/texmf-dist/tex/latex/amsmath/amsxtra.sty
+Package: amsxtra 1999/11/15 v1.2c AMS extra commands
+LaTeX Info: Redefining \nobreakspace on input line 54.
+)
+(c:/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(c:/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(c:/texlive/texmf-dist/tex/latex/base/latexsym.sty
+Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
+\symlasy=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
+(Font)                  U/lasy/m/n --> U/lasy/b/n on input line 52.
+)
+(c:/texlive/texmf-dist/tex/latex/amsmath/amscd.sty
+Package: amscd 2017/04/14 v2.1 AMS Commutative Diagrams
+\athelp@=\toks24
+\minaw@=\dimen149
+\bigaw@=\dimen150
+\minCDarrowwidth=\dimen151
+)
+(c:/texlive/texmf-dist/tex/latex/amscls/amsthm.sty
+Package: amsthm 2020/05/29 v2.20.6
+\thm@style=\toks25
+\thm@bodyfont=\toks26
+\thm@headfont=\toks27
+\thm@notefont=\toks28
+\thm@headpunct=\toks29
+\thm@preskip=\skip52
+\thm@postskip=\skip53
+\thm@headsep=\skip54
+\dth@everypar=\toks30
+)
+(c:/texlive/texmf-dist/tex/latex/tools/indentfirst.sty
+Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
+)
+(c:/texlive/texmf-dist/tex/latex/picinpar/picinpar.sty
+Pictures in Paragraphs. Version 1.2a, July 13, 1993
+\br=\count274
+\bl=\count275
+\na=\count276
+\nb=\count277
+\tcdsav=\count278
+\tcl=\count279
+\tcd=\count280
+\tcn=\count281
+\cumtcl=\count282
+\cumpartcl=\count283
+\lftside=\dimen152
+\rtside=\dimen153
+\hpic=\dimen154
+\vpic=\dimen155
+\strutilg=\dimen156
+\picwd=\dimen157
+\topheight=\dimen158
+\ilg=\dimen159
+\lpic=\dimen160
+\lwindowsep=\dimen161
+\rwindowsep=\dimen162
+\cumpar=\dimen163
+\twa=\toks31
+\la=\toks32
+\ra=\toks33
+\ha=\toks34
+\pictoc=\toks35
+\rawtext=\box52
+\holder=\box53
+\windowbox=\box54
+\wartext=\box55
+\finaltext=\box56
+\aslice=\box57
+\bslice=\box58
+\wbox=\box59
+\wstrutbox=\box60
+\picbox=\box61
+\waslice=\box62
+\wbslice=\box63
+\fslice=\box64
+) (c:/texlive/texmf-dist/tex/latex/floatflt/floatflt.sty
+Package: floatflt 1997/07/16 v. 1.31
+\c@OptionTest=\count284
+\figbox=\box65
+\tabbox=\box66
+\pagebox=\box67
+\ffigcount=\count285
+\ftabcount=\count286
+\fftest=\count287
+\hangcount=\count288
+\nosuccesstryfig=\count289
+\nosuccesstrytab=\count290
+\figgutter=\dimen164
+\tabgutter=\dimen165
+\htdone=\dimen166
+\pageht=\dimen167
+\startpageht=\dimen168
+\tabbredd=\dimen169
+\floatfltwidth=\dimen170
+\fltitemwidth=\dimen171
+\outputpretest=\toks36
+)
+(c:/texlive/texmf-dist/tex/latex/eepic/epic.sty
+Enhancements to Picture Environment. Version 1.2 - Released June 1, 1986
+\@@multicnt=\count291
+\d@lta=\count292
+\@delta=\dimen172
+\@@delta=\dimen173
+\@gridcnt=\count293
+\@joinkind=\count294
+\@dotgap=\dimen174
+\@ddotgap=\dimen175
+\@x@diff=\count295
+\@y@diff=\count296
+\x@diff=\dimen176
+\y@diff=\dimen177
+\@dotbox=\box68
+\num@segments=\count297
+\num@segmentsi=\count298
+\@datafile=\read3
+) (c:/texlive/texmf-dist/tex/latex/curves/curves.sty
+Package: curves 2017/08/25 1.55 Curves for LaTeX picture environment
+\;sc=\count299
+\;scp=\count300
+\;t=\count301
+\;cc=\count302
+\;cnd=\count303
+\;mcnd=\count304
+\;np=\count305
+\;overhang=\count306
+\;pbs=\count307
+\;pns=\count308
+\;psc=\count309
+\;rc=\count310
+\;rtc=\count311
+\;tc=\count312
+\csdiameter=\skip55
+\curvelength=\skip56
+\overhang=\skip57
+\;x=\skip58
+\;dx=\skip59
+\;ddx=\skip60
+\;y=\skip61
+\;dy=\skip62
+\;ddy=\skip63
+\;pl=\skip64
+\;ucd=\skip65
+\;csbox=\box69
+\;pt=\box70
+\;strline=\toks37
+\m;ssingcoord=\toks38
+\;negdash=\toks39
+\;oddcoord=\toks40
+\;wc=\count313
+\;X=\skip66
+\;Y=\skip67
+)
+(c:/texlive/texmf-dist/tex/latex/base/makeidx.sty
+Package: makeidx 2021/10/04 v1.0m Standard LaTeX package
+)
+(c:/texlive/texmf-dist/tex/latex/tools/longtable.sty
+Package: longtable 2021-09-01 v4.17 Multi-page Table package (DPC)
+\LTleft=\skip68
+\LTright=\skip69
+\LTpre=\skip70
+\LTpost=\skip71
+\LTchunksize=\count314
+\LTcapwidth=\dimen178
+\LT@head=\box71
+\LT@firsthead=\box72
+\LT@foot=\box73
+\LT@lastfoot=\box74
+\LT@gbox=\box75
+\LT@cols=\count315
+\LT@rows=\count316
+\c@LT@tables=\count317
+\c@LT@chunks=\count318
+\LT@p@ftn=\toks41
+)
+(c:/texlive/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2021/10/28 v1.9b multicolumn formatting (FMi)
+\c@tracingmulticols=\count319
+\mult@box=\box76
+\multicol@leftmargin=\dimen179
+\c@unbalance=\count320
+\c@collectmore=\count321
+\doublecol@number=\count322
+\multicoltolerance=\count323
+\multicolpretolerance=\count324
+\full@width=\dimen180
+\page@free=\dimen181
+\premulticols=\dimen182
+\postmulticols=\dimen183
+\multicolsep=\skip72
+\multicolbaselineskip=\skip73
+\partial@page=\box77
+\last@line=\box78
+\maxbalancingoverflow=\dimen184
+\mult@rightbox=\box79
+\mult@grightbox=\box80
+\mult@firstbox=\box81
+\mult@gfirstbox=\box82
+\@tempa=\box83
+\@tempa=\box84
+\@tempa=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\@tempa=\box89
+\@tempa=\box90
+\@tempa=\box91
+\@tempa=\box92
+\@tempa=\box93
+\@tempa=\box94
+\@tempa=\box95
+\@tempa=\box96
+\@tempa=\box97
+\@tempa=\box98
+\@tempa=\box99
+\@tempa=\box100
+\@tempa=\box101
+\@tempa=\box102
+\@tempa=\box103
+\@tempa=\box104
+\@tempa=\box105
+\@tempa=\box106
+\@tempa=\box107
+\@tempa=\box108
+\@tempa=\box109
+\@tempa=\box110
+\@tempa=\box111
+\@tempa=\box112
+\@tempa=\box113
+\@tempa=\box114
+\@tempa=\box115
+\@tempa=\box116
+\@tempa=\box117
+\@tempa=\box118
+\c@minrows=\count325
+\c@columnbadness=\count326
+\c@finalcolumnbadness=\count327
+\last@try=\dimen185
+\multicolovershoot=\dimen186
+\multicolundershoot=\dimen187
+\mult@nat@firstbox=\box119
+\colbreak@box=\box120
+\mc@col@check@num=\count328
+)
+(c:/texlive/texmf-dist/tex/latex/listings/listings.sty
+(c:/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks42
+)
+\lst@mode=\count329
+\lst@gtempboxa=\box121
+\lst@token=\toks43
+\lst@length=\count330
+\lst@currlwidth=\dimen188
+\lst@column=\count331
+\lst@pos=\count332
+\lst@lostspace=\dimen189
+\lst@width=\dimen190
+\lst@newlines=\count333
+\lst@lineno=\count334
+\lst@maxwidth=\dimen191
+
+(c:/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
+\c@lstnumber=\count335
+\lst@skipnumbers=\count336
+\lst@framebox=\box122
+)
+(c:/texlive/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2020/03/24 1.8d listings configuration
+))
+Package: listings 2020/03/24 1.8d (Carsten Heinz)
+
+(c:/texlive/texmf-dist/tex/latex/koma-script/scrextend.sty
+Package: scrextend 2021/11/13 v3.35 KOMA-Script package (extend other classes w
+ith features of KOMA-Script classes)
+
+(c:/texlive/texmf-dist/tex/latex/koma-script/scrkbase.sty
+Package: scrkbase 2021/11/13 v3.35 KOMA-Script package (KOMA-Script-dependent b
+asics and keyval usage)
+
+(c:/texlive/texmf-dist/tex/latex/koma-script/scrbase.sty
+Package: scrbase 2021/11/13 v3.35 KOMA-Script package (KOMA-Script-independent 
+basics and keyval usage)
+
+(c:/texlive/texmf-dist/tex/latex/koma-script/scrlfile.sty
+Package: scrlfile 2021/11/13 v3.35 KOMA-Script package (file load hooks)
+
+(c:/texlive/texmf-dist/tex/latex/koma-script/scrlfile-hook.sty
+Package: scrlfile-hook 2021/11/13 v3.35 KOMA-Script package (using LaTeX hooks)
+
+
+(c:/texlive/texmf-dist/tex/latex/koma-script/scrlogo.sty
+Package: scrlogo 2021/11/13 v3.35 KOMA-Script package (logo)
+)))
+Applying: [2021/05/01] Usage of raw or classic option list on input line 252.
+Already applied: [0000/00/00] Usage of raw or classic option list on input line
+ 368.
+)))
+(c:/texlive/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+(c:/texlive/texmf-dist/tex/latex/minitoc/minitoc.sty
+Package: minitoc 2018/07/12 v62 Package minitoc
+
+(c:/texlive/texmf-dist/tex/latex/minitoc/mtcmess.sty
+Package: mtcmess 2006/03/14
+)
+Package minitoc Info: I0001
+(minitoc)             *** minitoc package, version 62 ***.
+\tf@mtc=\write3
+\mtcindent=\skip74
+\mtcskipamount=\skip75
+Package minitoc Info: I0005
+(minitoc)             compatible with hyperref.
+Package minitoc Info: I0023
+(minitoc)             part level macros available.
+Package minitoc Info: I0003
+(minitoc)             chapter level macros available.
+\mtc@toks=\toks44
+\mtc@strutbox=\box123
+\mtc@hstrutbox=\box124
+Package minitoc Info: I0002
+(minitoc)             Autoconfiguration of extensions.
+\openout3 = `LuanAn.mtc0'.
+
+\openout3 = `LuanAn.mtc'.
+
+
+(E:/paper-latex-4/public/projects/project-b/output/LuanAn.mtc0)
+Package minitoc Info: I0012
+(minitoc)             Long extensions (Unix-like) will be used.
+Package minitoc Info: I0031
+(minitoc)             ==> this version is configured for UNIX-like 
+(minitoc)                 (long extensions) file names.
+\openout3 = `LuanAn.mtc'.
+
+\openout3 = `LuanAn.mtc0'.
+
+\c@mtc=\count337
+\c@minitocdepth=\count338
+\c@ptc=\count339
+\c@parttocdepth=\count340
+\ptcindent=\skip76
+Package minitoc Info: I0010
+(minitoc)             The english language is selected.
+(minitoc)              on input line 4910.
+
+(c:/texlive/texmf-dist/tex/latex/minitoc/english.mld
+File: english.mld 2006/01/13
+)
+(c:/texlive/texmf-dist/tex/latex/minitoc/english.mld
+File: english.mld 2006/01/13
+)
+Package minitoc Info: I0010
+(minitoc)             The vietnam language is selected.
+(minitoc)              on input line 4911.
+
+(c:/texlive/texmf-dist/tex/latex/minitoc/vietnam.mld
+File: vietnam.mld 1999/03/16
+))
+(c:/texlive/texmf-dist/tex/latex/fancybox/fancybox.sty
+Package: fancybox 2010/05/15 1.4
+
+Style option: `fancybox' v1.4 <2010/05/15> (tvz)
+\@fancybox=\box125
+\shadowsize=\dimen192
+\@Sbox=\box126
+\do@VerbBox=\toks45
+\the@fancyput=\toks46
+\this@fancyput=\toks47
+\EndVerbatimTokens=\toks48
+\Verbatim@Outfile=\write4
+\Verbatim@Infile=\read4
+) (c:/texlive/texmf-dist/tex/latex/pdflscape/pdflscape.sty
+Package: pdflscape 2019/12/05 v0.12 Display of landscape pages in PDF (HO)
+
+(c:/texlive/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+)
+(c:/texlive/texmf-dist/tex/latex/graphics/lscape.sty
+Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
+
+(c:/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+
+(c:/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(c:/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(c:/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+)))
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+)
+(c:/texlive/texmf-dist/tex/latex/tcolorbox/tcolorbox.sty
+Package: tcolorbox 2022/01/07 version 5.0.2 text color boxes
+
+(c:/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+(c:/texlive/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
+(c:/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
+\pgfutil@everybye=\toks49
+\pgfutil@tempdima=\dimen193
+\pgfutil@tempdimb=\dimen194
+
+(c:/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-lists.tex))
+(c:/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box127
+)
+(c:/texlive/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
+(c:/texlive/texmf-dist/tex/generic/pgf/pgf.revision.tex)
+Package: pgfrcs 2021/05/15 v3.1.9a (3.1.9a)
+))
+Package: pgf 2021/05/15 v3.1.9a (3.1.9a)
+
+(c:/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
+(c:/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+\Gin@req@height=\dimen195
+\Gin@req@width=\dimen196
+)
+(c:/texlive/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
+(c:/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2021/05/15 v3.1.9a (3.1.9a)
+
+(c:/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks50
+\pgfkeys@temptoks=\toks51
+
+(c:/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.code.tex
+\pgfkeys@tmptoks=\toks52
+))
+\pgf@x=\dimen197
+\pgf@y=\dimen198
+\pgf@xa=\dimen199
+\pgf@ya=\dimen256
+\pgf@xb=\dimen257
+\pgf@yb=\dimen258
+\pgf@xc=\dimen259
+\pgf@yc=\dimen260
+\pgf@xd=\dimen261
+\pgf@yd=\dimen262
+\w@pgf@writea=\write5
+\r@pgf@reada=\read5
+\c@pgf@counta=\count341
+\c@pgf@countb=\count342
+\c@pgf@countc=\count343
+\c@pgf@countd=\count344
+\t@pgf@toka=\toks53
+\t@pgf@tokb=\toks54
+\t@pgf@tokc=\toks55
+\pgf@sys@id@count=\count345
+
+(c:/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2021/05/15 v3.1.9a (3.1.9a)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(c:/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2021/05/15 v3.1.9a (3.1.9a)
+
+(c:/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2021/05/15 v3.1.9a (3.1.9a)
+)))
+(c:/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfsyssoftpath@smallbuffer@items=\count346
+\pgfsyssoftpath@bigbuffer@items=\count347
+)
+(c:/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+))
+(c:/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2021/10/31 v2.13 LaTeX color extensions (UK)
+
+(c:/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 227.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1352.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1356.
+Package xcolor Info: Model `RGB' extended on input line 1368.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1370.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1371.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1374.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1375.
+)
+(c:/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2021/05/15 v3.1.9a (3.1.9a)
+
+(c:/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+(c:/texlive/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
+(c:/texlive/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
+(c:/texlive/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen263
+\pgfmath@count=\count348
+\pgfmath@box=\box128
+\pgfmath@toks=\toks56
+\pgfmath@stack@operand=\toks57
+\pgfmath@stack@operation=\toks58
+)
+(c:/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex
+(c:/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code.tex)
+(c:/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonometric.code
+.tex)
+(c:/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.code.tex)
+(c:/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison.code.te
+x) (c:/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.tex)
+(c:/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code.tex)
+(c:/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex)
+(c:/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerarithmetics
+.code.tex))) (c:/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count349
+)) (c:/texlive/texmf-dist/tex/generic/pgf/math/pgfint.code.tex)
+(c:/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
+File: pgfcorepoints.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@picminx=\dimen264
+\pgf@picmaxx=\dimen265
+\pgf@picminy=\dimen266
+\pgf@picmaxy=\dimen267
+\pgf@pathminx=\dimen268
+\pgf@pathmaxx=\dimen269
+\pgf@pathminy=\dimen270
+\pgf@pathmaxy=\dimen271
+\pgf@xx=\dimen272
+\pgf@xy=\dimen273
+\pgf@yx=\dimen274
+\pgf@yy=\dimen275
+\pgf@zx=\dimen276
+\pgf@zy=\dimen277
+)
+(c:/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@path@lastx=\dimen278
+\pgf@path@lasty=\dimen279
+) (c:/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code.tex
+File: pgfcorepathusage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@shorten@end@additional=\dimen280
+\pgf@shorten@start@additional=\dimen281
+)
+(c:/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
+File: pgfcorescopes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfpic=\box129
+\pgf@hbox=\box130
+\pgf@layerbox@main=\box131
+\pgf@picture@serial@count=\count350
+)
+(c:/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgflinewidth=\dimen282
+)
+(c:/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformations.code.t
+ex
+File: pgfcoretransformations.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@pt@x=\dimen283
+\pgf@pt@y=\dimen284
+\pgf@pt@temp=\dimen285
+) (c:/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(c:/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(c:/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing.code.te
+x
+File: pgfcorepathprocessing.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+) (c:/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
+File: pgfcorearrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfarrowsep=\dimen286
+)
+(c:/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@max=\dimen287
+\pgf@sys@shading@range@num=\count351
+\pgf@shadingcount=\count352
+)
+(c:/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+
+(c:/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfexternal@startupbox=\box132
+))
+(c:/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
+File: pgfcorelayers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(c:/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.code.tex
+File: pgfcoretransparency.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+) (c:/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(c:/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.tex
+File: pgfcorerdf.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)))
+(c:/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfnodeparttextbox=\box133
+)
+(c:/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(c:/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty
+Package: pgfcomp-version-0-65 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@nodesepstart=\dimen288
+\pgf@nodesepend=\dimen289
+)
+(c:/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
+Package: pgfcomp-version-1-18 2021/05/15 v3.1.9a (3.1.9a)
+))
+(c:/texlive/texmf-dist/tex/latex/tools/verbatim.sty
+Package: verbatim 2020-07-07 v1.5u LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks59
+\verbatim@line=\toks60
+\verbatim@in@stream=\read6
+)
+(c:/texlive/texmf-dist/tex/latex/environ/environ.sty
+Package: environ 2014/05/04 v0.3 A new way to define environments
+
+(c:/texlive/texmf-dist/tex/latex/trimspaces/trimspaces.sty
+Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
+))
+(c:/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count353
+)
+\tcb@titlebox=\box134
+\tcb@upperbox=\box135
+\tcb@lowerbox=\box136
+\tcb@phantombox=\box137
+\c@tcbbreakpart=\count354
+\c@tcblayer=\count355
+\c@tcolorbox@number=\count356
+\tcb@temp=\box138
+\tcb@temp=\box139
+\tcb@temp=\box140
+\tcb@temp=\box141
+)
+(c:/texlive/texmf-dist/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\labelindent=\skip77
+\enit@outerparindent=\dimen290
+\enit@toks=\toks61
+\enit@inbox=\box142
+\enit@count@id=\count357
+\enitdp@description=\count358
+)
+(c:/texlive/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
+(c:/texlive/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
+(c:/texlive/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
+(c:/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex))
+(c:/texlive/texmf-dist/tex/latex/pgf/math/pgfmath.sty
+(c:/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex))
+(c:/texlive/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2021/05/15 v3.1.9a (3.1.9a)
+
+(c:/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
+\pgffor@iter=\dimen291
+\pgffor@skip=\dimen292
+\pgffor@stack=\toks62
+\pgffor@toks=\toks63
+))
+(c:/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+Package: tikz 2021/05/15 v3.1.9a (3.1.9a)
+
+(c:/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers.code.te
+x
+File: pgflibraryplothandlers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@plot@mark@count=\count359
+\pgfplotmarksize=\dimen293
+)
+\tikz@lastx=\dimen294
+\tikz@lasty=\dimen295
+\tikz@lastxsaved=\dimen296
+\tikz@lastysaved=\dimen297
+\tikz@lastmovetox=\dimen298
+\tikz@lastmovetoy=\dimen299
+\tikzleveldistance=\dimen300
+\tikzsiblingdistance=\dimen301
+\tikz@figbox=\box143
+\tikz@figbox@bg=\box144
+\tikz@tempbox=\box145
+\tikz@tempbox@bg=\box146
+\tikztreelevel=\count360
+\tikznumberofchildren=\count361
+\tikznumberofcurrentchild=\count362
+\tikz@fig@count=\count363
+ (c:/texlive/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfmatrixcurrentrow=\count364
+\pgfmatrixcurrentcolumn=\count365
+\pgf@matrix@numberofcolumns=\count366
+)
+\tikz@expandcount=\count367
+
+(c:/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary
+topaths.code.tex
+File: tikzlibrarytopaths.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)))
+(c:/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary
+calc.code.tex
+File: tikzlibrarycalc.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+) (c:/texlive/texmf-dist/tex/latex/algorithms/algorithm.sty
+Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating enviro
+nment
+
+(c:/texlive/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count368
+\float@exts=\toks64
+\float@box=\box147
+\@float@everytoks=\toks65
+\@floatcapt=\box148
+)
+\@float@every@algorithm=\toks66
+\c@algorithm=\count369
+)
+(c:/texlive/texmf-dist/tex/latex/algorithms/algorithmic.sty
+Package: algorithmic 2009/08/24 v0.1 Document Style `algorithmic'
+\c@ALC@unique=\count370
+\c@ALC@line=\count371
+\c@ALC@rem=\count372
+\c@ALC@depth=\count373
+\ALC@tlm=\skip78
+\algorithmicindent=\skip79
+)
+\@indexfile=\write6
+\openout6 = `LuanAn.idx'.
+
+
+Writing index file LuanAn.idx
+(c:/texlive/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+Package: eso-pic 2020/10/14 v3.0a eso-pic (RN)
+\ESO@tempdima=\dimen302
+\ESO@tempdimb=\dimen303
+)
+(c:/texlive/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count374
+\calc@Bcount=\count375
+\calc@Adimen=\dimen304
+\calc@Bdimen=\dimen305
+\calc@Askip=\skip80
+\calc@Bskip=\skip81
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count376
+\calc@Cskip=\skip82
+)
+(c:/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2021-06-07 v7.00m Hypertext links for LaTeX
+
+(c:/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+(c:/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(c:/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(c:/texlive/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)
+(c:/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(c:/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+)
+(c:/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(c:/texlive/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(c:/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+(c:/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+)
+\@linkdim=\dimen306
+\Hy@linkcounter=\count377
+\Hy@pagecounter=\count378
+
+(c:/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2021-06-07 v7.00m Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(c:/texlive/texmf-dist/tex/latex/hyperref/hyperref-langpatches.def
+File: hyperref-langpatches.def 2021-06-07 v7.00m Hyperref: patches for babel la
+nguages
+)
+(c:/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+(c:/texlive/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count379
+
+(c:/texlive/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2021-06-07 v7.00m Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Option `unicode' set `true' on input line 4073.
+
+
+Package hyperref Warning: Option `letterpaper' is no longer used.
+
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 4073.
+Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 4073
+.
+Package hyperref Info: Hyper figures OFF on input line 4192.
+Package hyperref Info: Link nesting OFF on input line 4197.
+Package hyperref Info: Hyper index ON on input line 4200.
+Package hyperref Info: Plain pages OFF on input line 4207.
+Package hyperref Info: Backreferencing OFF on input line 4212.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4445.
+\c@Hy@tempcnt=\count380
+(c:/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4804.
+\XeTeXLinkMargin=\dimen307
+
+(c:/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(c:/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count381
+\Field@Width=\dimen308
+\Fld@charsize=\dimen309
+Package hyperref Info: Hyper figures OFF on input line 6076.
+Package hyperref Info: Link nesting OFF on input line 6081.
+Package hyperref Info: Hyper index ON on input line 6084.
+Package hyperref Info: backreferencing OFF on input line 6091.
+Package hyperref Info: Link coloring OFF on input line 6096.
+Package hyperref Info: Link coloring with OCG OFF on input line 6101.
+Package hyperref Info: PDF/A mode OFF on input line 6106.
+LaTeX Info: Redefining \ref on input line 6146.
+LaTeX Info: Redefining \pageref on input line 6150.
+
+(c:/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count382
+\c@Item=\count383
+\c@Hfootnote=\count384
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+(c:/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2021-06-07 v7.00m Hyperref driver for pdfTeX
+
+(c:/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
+kage
+with kernel methods
+)
+\Fld@listcount=\count385
+\c@bookmark@seq@number=\count386
+
+(c:/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+
+(c:/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+86.
+)
+\Hy@SectionHShift=\skip83
+)
+(c:/texlive/texmf-dist/tex/latex/bookmark/bookmark.sty
+Package: bookmark 2020-11-06 v1.29 PDF bookmarks (HO)
+
+(c:/texlive/texmf-dist/tex/latex/bookmark/bkm-pdftex.def
+File: bkm-pdftex.def 2020-11-06 v1.29 bookmark driver for pdfTeX (HO)
+\BKM@id=\count387
+))
+(c:/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2021/07/05 v2.14 Sectioning titles
+\ttl@box=\box149
+\beforetitleunit=\skip84
+\aftertitleunit=\skip85
+\ttl@plus=\dimen310
+\ttl@minus=\dimen311
+\ttl@toksa=\toks67
+\titlewidth=\dimen312
+\titlewidthlast=\dimen313
+\titlewidthfirst=\dimen314
+)
+(c:/texlive/texmf-dist/tex/latex/tocloft/tocloft.sty
+Package: tocloft 2017/08/31 v2.3i parameterised ToC, etc., typesetting
+Package tocloft Info: The document has chapter divisions on input line 51.
+\cftparskip=\skip86
+\cftbeforetoctitleskip=\skip87
+\cftaftertoctitleskip=\skip88
+\cftbeforepartskip=\skip89
+\cftpartnumwidth=\skip90
+\cftpartindent=\skip91
+\cftbeforechapskip=\skip92
+\cftchapindent=\skip93
+\cftchapnumwidth=\skip94
+\cftbeforesecskip=\skip95
+\cftsecindent=\skip96
+\cftsecnumwidth=\skip97
+\cftbeforesubsecskip=\skip98
+\cftsubsecindent=\skip99
+\cftsubsecnumwidth=\skip100
+\cftbeforesubsubsecskip=\skip101
+\cftsubsubsecindent=\skip102
+\cftsubsubsecnumwidth=\skip103
+\cftbeforeparaskip=\skip104
+\cftparaindent=\skip105
+\cftparanumwidth=\skip106
+\cftbeforesubparaskip=\skip107
+\cftsubparaindent=\skip108
+\cftsubparanumwidth=\skip109
+\cftbeforeloftitleskip=\skip110
+\cftafterloftitleskip=\skip111
+\cftbeforefigskip=\skip112
+\cftfigindent=\skip113
+\cftfignumwidth=\skip114
+\c@lofdepth=\count388
+\c@lotdepth=\count389
+\cftbeforelottitleskip=\skip115
+\cftafterlottitleskip=\skip116
+\cftbeforetabskip=\skip117
+\cfttabindent=\skip118
+\cfttabnumwidth=\skip119
+)
+(c:/texlive/texmf-dist/tex/latex/thmtools/thmtools.sty
+Package: thmtools 2020/08/01 v0.72
+\thmt@toks=\toks68
+\c@thmt@dummyctr=\count390
+
+(c:/texlive/texmf-dist/tex/latex/thmtools/thm-patch.sty
+Package: thm-patch 2020/08/01 v0.72
+
+(c:/texlive/texmf-dist/tex/latex/thmtools/parseargs.sty
+Package: parseargs 2020/08/01 v0.72
+\@parsespec=\toks69
+))
+(c:/texlive/texmf-dist/tex/latex/thmtools/thm-kv.sty
+Package: thm-kv 2020/08/01 v0.72
+Package thm-kv Info: Theorem names will be uppercased on input line 42.
+Package thm-kv Info: kvsetkeys patch (v1.16 or later) on input line 158.
+)
+(c:/texlive/texmf-dist/tex/latex/thmtools/thm-autoref.sty
+Package: thm-autoref 2020/08/01 v0.72
+
+(c:/texlive/texmf-dist/tex/latex/thmtools/aliasctr.sty
+Package: aliasctr 2020/08/01 v0.72
+))
+(c:/texlive/texmf-dist/tex/latex/thmtools/thm-listof.sty
+Package: thm-listof 2020/08/01 v0.72
+)
+(c:/texlive/texmf-dist/tex/latex/thmtools/thm-restate.sty
+Package: thm-restate 2020/08/01 v0.72
+)
+(c:/texlive/texmf-dist/tex/latex/thmtools/thm-amsthm.sty
+Package: thm-amsthm 2020/08/01 v0.72
+\thmt@style@headstyle=\toks70
+))
+\c@theorem=\count391
+\c@definition=\count392
+
+(c:/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen315
+\lightrulewidth=\dimen316
+\cmidrulewidth=\dimen317
+\belowrulesep=\dimen318
+\belowbottomsep=\dimen319
+\aboverulesep=\dimen320
+\abovetopsep=\dimen321
+\cmidrulesep=\dimen322
+\cmidrulekern=\dimen323
+\defaultaddspace=\dimen324
+\@cmidla=\count393
+\@cmidlb=\count394
+\@aboverulesep=\dimen325
+\@belowrulesep=\dimen326
+\@thisruleclass=\count395
+\@lastruleclass=\count396
+\@thisrulewidth=\dimen327
+)
+(c:/texlive/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2020/10/26 v3.5g Customizing captions (AR)
+
+(c:/texlive/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
+\captionmargin=\dimen328
+\captionmargin@=\dimen329
+\captionwidth=\dimen330
+\caption@tempdima=\dimen331
+\caption@indent=\dimen332
+\caption@parindent=\dimen333
+\caption@hangindent=\dimen334
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count397
+\c@continuedfloat=\count398
+Package caption Info: float package is loaded.
+Package caption Info: floatflt package is loaded.
+Package caption Info: hyperref package is loaded.
+Package caption Info: listings package is loaded.
+Package caption Info: longtable package is loaded.
+
+(c:/texlive/texmf-dist/tex/latex/caption/ltcaption.sty
+Package: ltcaption 2020/05/30 v1.4b longtable captions (AR)
+)
+Package caption Info: picinpar package is loaded.
+)
+(c:/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2021/01/28 v4.0.1 Extensive control of page headers and foote
+rs
+\f@nch@headwidth=\skip120
+\f@nch@O@elh=\skip121
+\f@nch@O@erh=\skip122
+\f@nch@O@olh=\skip123
+\f@nch@O@orh=\skip124
+\f@nch@O@elf=\skip125
+\f@nch@O@erf=\skip126
+\f@nch@O@olf=\skip127
+\f@nch@O@orf=\skip128
+)
+(c:/texlive/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+Package: pdfpages 2021/03/06 v0.5t Insert pages of external PDF documents (AM)
+\AM@pagewidth=\dimen335
+\AM@pageheight=\dimen336
+\AM@fboxrule=\dimen337
+
+(c:/texlive/texmf-dist/tex/latex/pdfpages/pppdftex.def
+File: pppdftex.def 2021/03/06 v0.5t Pdfpages driver for pdfTeX (AM)
+)
+\pdfpages@includegraphics@status=\count399
+\AM@pagebox=\box150
+\AM@global@opts=\toks71
+\AM@pagecnt=\count400
+\AM@toc@title=\toks72
+\c@AM@survey=\count401
+\AM@templatesizebox=\box151
+)
+(c:/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(c:/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count402
+\Gm@cntv=\count403
+\c@Gm@tempcnt=\count404
+\Gm@bindingoffset=\dimen338
+\Gm@wd@mp=\dimen339
+\Gm@odd@mp=\dimen340
+\Gm@even@mp=\dimen341
+\Gm@layoutwidth=\dimen342
+\Gm@layoutheight=\dimen343
+\Gm@layouthoffset=\dimen344
+\Gm@layoutvoffset=\dimen345
+\Gm@dimlist=\toks73
+)
+(c:/texlive/texmf-dist/tex/latex/biblatex/biblatex.sty
+Package: biblatex 2020/12/31 v3.16 programmable bibliographies (PK/MW)
+
+(c:/texlive/texmf-dist/tex/latex/logreq/logreq.sty
+Package: logreq 2010/08/04 v1.0 xml request logger
+\lrq@indent=\count405
+
+(c:/texlive/texmf-dist/tex/latex/logreq/logreq.def
+File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
+))
+\c@tabx@nest=\count406
+\c@listtotal=\count407
+\c@listcount=\count408
+\c@liststart=\count409
+\c@liststop=\count410
+\c@citecount=\count411
+\c@citetotal=\count412
+\c@multicitecount=\count413
+\c@multicitetotal=\count414
+\c@instcount=\count415
+\c@maxnames=\count416
+\c@minnames=\count417
+\c@maxitems=\count418
+\c@minitems=\count419
+\c@citecounter=\count420
+\c@maxcitecounter=\count421
+\c@savedcitecounter=\count422
+\c@uniquelist=\count423
+\c@uniquename=\count424
+\c@refsection=\count425
+\c@refsegment=\count426
+\c@maxextratitle=\count427
+\c@maxextratitleyear=\count428
+\c@maxextraname=\count429
+\c@maxextradate=\count430
+\c@maxextraalpha=\count431
+\c@abbrvpenalty=\count432
+\c@highnamepenalty=\count433
+\c@lownamepenalty=\count434
+\c@maxparens=\count435
+\c@parenlevel=\count436
+\blx@tempcnta=\count437
+\blx@tempcntb=\count438
+\blx@tempcntc=\count439
+\blx@maxsection=\count440
+\blx@maxsegment@0=\count441
+\blx@notetype=\count442
+\blx@parenlevel@text=\count443
+\blx@parenlevel@foot=\count444
+\blx@sectionciteorder@0=\count445
+\blx@entrysetcounter=\count446
+\blx@biblioinstance=\count447
+\labelnumberwidth=\skip129
+\labelalphawidth=\skip130
+\biblabelsep=\skip131
+\bibitemsep=\skip132
+\bibnamesep=\skip133
+\bibinitsep=\skip134
+\bibparsep=\skip135
+\bibhang=\skip136
+\blx@bcfin=\read7
+\blx@bcfout=\write7
+\blx@langwohyphens=\language88
+\c@mincomprange=\count448
+\c@maxcomprange=\count449
+\c@mincompwidth=\count450
+Package biblatex Info: Trying to load biblatex default data model...
+Package biblatex Info: ... file 'blx-dm.def' found.
+
+(c:/texlive/texmf-dist/tex/latex/biblatex/blx-dm.def
+File: blx-dm.def 2020/12/31 v3.16 biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load biblatex bibstyle data model...
+Package biblatex Info: ... file 'luanan.dbx' not found.
+Package biblatex Info: Trying to load biblatex custom data model...
+Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
+\c@afterword=\count451
+\c@savedafterword=\count452
+\c@annotator=\count453
+\c@savedannotator=\count454
+\c@author=\count455
+\c@savedauthor=\count456
+\c@bookauthor=\count457
+\c@savedbookauthor=\count458
+\c@commentator=\count459
+\c@savedcommentator=\count460
+\c@editor=\count461
+\c@savededitor=\count462
+\c@editora=\count463
+\c@savededitora=\count464
+\c@editorb=\count465
+\c@savededitorb=\count466
+\c@editorc=\count467
+\c@savededitorc=\count468
+\c@foreword=\count469
+\c@savedforeword=\count470
+\c@holder=\count471
+\c@savedholder=\count472
+\c@introduction=\count473
+\c@savedintroduction=\count474
+\c@namea=\count475
+\c@savednamea=\count476
+\c@nameb=\count477
+\c@savednameb=\count478
+\c@namec=\count479
+\c@savednamec=\count480
+\c@translator=\count481
+\c@savedtranslator=\count482
+\c@shortauthor=\count483
+\c@savedshortauthor=\count484
+\c@shorteditor=\count485
+\c@savedshorteditor=\count486
+\c@labelname=\count487
+\c@savedlabelname=\count488
+\c@institution=\count489
+\c@savedinstitution=\count490
+\c@lista=\count491
+\c@savedlista=\count492
+\c@listb=\count493
+\c@savedlistb=\count494
+\c@listc=\count495
+\c@savedlistc=\count496
+\c@listd=\count497
+\c@savedlistd=\count498
+\c@liste=\count499
+\c@savedliste=\count500
+\c@listf=\count501
+\c@savedlistf=\count502
+\c@location=\count503
+\c@savedlocation=\count504
+\c@organization=\count505
+\c@savedorganization=\count506
+\c@origlocation=\count507
+\c@savedoriglocation=\count508
+\c@origpublisher=\count509
+\c@savedorigpublisher=\count510
+\c@publisher=\count511
+\c@savedpublisher=\count512
+\c@language=\count513
+\c@savedlanguage=\count514
+\c@origlanguage=\count515
+\c@savedoriglanguage=\count516
+\c@pageref=\count517
+\c@savedpageref=\count518
+\shorthandwidth=\skip137
+\shortjournalwidth=\skip138
+\shortserieswidth=\skip139
+\shorttitlewidth=\skip140
+\shortauthorwidth=\skip141
+\shorteditorwidth=\skip142
+\locallabelnumberwidth=\skip143
+\locallabelalphawidth=\skip144
+\localshorthandwidth=\skip145
+\localshortjournalwidth=\skip146
+\localshortserieswidth=\skip147
+\localshorttitlewidth=\skip148
+\localshortauthorwidth=\skip149
+\localshorteditorwidth=\skip150
+Package biblatex Info: Trying to load compatibility code...
+Package biblatex Info: ... file 'blx-compat.def' found.
+
+(c:/texlive/texmf-dist/tex/latex/biblatex/blx-compat.def
+File: blx-compat.def 2020/12/31 v3.16 biblatex compatibility (PK/MW)
+)
+Package biblatex Info: Trying to load BibTeX backend compatibility...
+Package biblatex Info: ... file 'blx-bibtex.def' found.
+
+(c:/texlive/texmf-dist/tex/latex/biblatex/blx-bibtex.def
+File: blx-bibtex.def 2020/12/31 v3.16 biblatex compatibility (PK/MW)
+
+
+Package biblatex Warning: Using fall-back BibTeX(8) backend:
+(biblatex)                functionality may be reduced/unavailable.
+
+)
+Package biblatex Info: Trying to load generic definitions...
+Package biblatex Info: ... file 'biblatex.def' found.
+ (c:/texlive/texmf-dist/tex/latex/biblatex/biblatex.def
+File: biblatex.def 2020/12/31 v3.16 biblatex compatibility (PK/MW)
+\c@textcitecount=\count519
+\c@textcitetotal=\count520
+\c@textcitemaxnames=\count521
+\c@biburlbigbreakpenalty=\count522
+\c@biburlbreakpenalty=\count523
+\c@biburlnumpenalty=\count524
+\c@biburlucpenalty=\count525
+\c@biburllcpenalty=\count526
+\biburlbigskip=\muskip18
+\biburlnumskip=\muskip19
+\biburlucskip=\muskip20
+\biburllcskip=\muskip21
+\c@smartand=\count527
+)
+Package biblatex Info: Trying to load bibliography style 'luanan'...
+Package biblatex Info: ... file 'luanan.bbx' found.
+ (./luanan.bbx
+File: luanan.bbx 
+Package biblatex Info: Trying to load bibliography style 'standard'...
+Package biblatex Info: ... file 'standard.bbx' found.
+
+(c:/texlive/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
+File: standard.bbx 2020/12/31 v3.16 biblatex bibliography style (PK/MW)
+\c@bbx:relatedcount=\count528
+\c@bbx:relatedtotal=\count529
+)
+Package biblatex Info: Trying to load bibliography style 'numeric'...
+Package biblatex Info: ... file 'numeric.bbx' found.
+
+(c:/texlive/texmf-dist/tex/latex/biblatex/bbx/numeric.bbx
+File: numeric.bbx 2020/12/31 v3.16 biblatex bibliography style (PK/MW)
+))
+Package biblatex Info: Trying to load citation style 'numeric'...
+Package biblatex Info: ... file 'numeric.cbx' found.
+
+(c:/texlive/texmf-dist/tex/latex/biblatex/cbx/numeric.cbx
+File: numeric.cbx 2020/12/31 v3.16 biblatex citation style (PK/MW)
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\parencite'.
+Package biblatex Info: Redefining '\footcite'.
+Package biblatex Info: Redefining '\footcitetext'.
+Package biblatex Info: Redefining '\smartcite'.
+Package biblatex Info: Redefining '\supercite'.
+Package biblatex Info: Redefining '\textcite'.
+Package biblatex Info: Redefining '\textcites'.
+Package biblatex Info: Redefining '\cites'.
+Package biblatex Info: Redefining '\parencites'.
+Package biblatex Info: Redefining '\smartcites'.
+)
+Package biblatex Info: Trying to load configuration file...
+Package biblatex Info: ... file 'biblatex.cfg' found.
+
+(c:/texlive/texmf-dist/tex/latex/biblatex/biblatex.cfg
+File: biblatex.cfg 
+)
+
+Package biblatex Warning: 'babel' option is deprecated.
+(biblatex)                Please use 'autolang' instead.
+
+))
+
+Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
+(biblatex)                Loading 'csquotes' recommended.
+
+\@quotelevel=\count530
+\@quotereset=\count531
+(c:/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2022-01-12 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count532
+\l__pdf_internal_box=\box152
+)
+(E:/paper-latex-4/public/projects/project-b/output/LuanAn.aux
+(E:/paper-latex-4/public/projects/project-b/output/trangbia.aux)
+(E:/paper-latex-4/public/projects/project-b/output/loicamdoan.aux)
+(E:/paper-latex-4/public/projects/project-b/output/loicamon.aux)
+(E:/paper-latex-4/public/projects/project-b/output/kyhieu.aux)
+(E:/paper-latex-4/public/projects/project-b/output/loinoidau.aux)
+(E:/paper-latex-4/public/projects/project-b/output/chuong_hien_trang.aux)
+(E:/paper-latex-4/public/projects/project-b/output/chuong_huong_dan_viet_luan_a
+n.aux
+
+LaTeX Warning: Label `mucchkydatp' multiply defined.
+
+) (E:/paper-latex-4/public/projects/project-b/output/chuong_mau.aux)
+(E:/paper-latex-4/public/projects/project-b/output/ketluan.aux)
+(E:/paper-latex-4/public/projects/project-b/output/chdanhmuccongbo.aux)
+(E:/paper-latex-4/public/projects/project-b/output/phuluccaidat.aux))
+\openout1 = `LuanAn.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for T5/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+\c@lstlisting=\count533
+\c@minilofdepth=\count534
+\c@minilotdepth=\count535
+\c@partlofdepth=\count536
+\c@partlotdepth=\count537
+\c@sectlofdepth=\count538
+\c@sectlotdepth=\count539
+Package minitoc(hints) Info: I0049
+(minitoc(hints))             ==> You requested the hints option. 
+(minitoc(hints))             Some hints are eventually given below.
+Package minitoc(hints) Info: I0047
+(minitoc(hints))             --- The tocloft package is loaded. 
+(minitoc(hints))             See the minitoc package documentation 
+(minitoc(hints))             for specific precautions.
+
+
+Package minitoc(hints) Warning: W0099
+(minitoc(hints))                --- The titlesec package is loaded. 
+(minitoc(hints))                It is incompatible 
+(minitoc(hints))                with the minitoc package.
+
+
+Package minitoc(hints) Warning: W0030
+(minitoc(hints))                --- The \part command is altered 
+(minitoc(hints))                after minitoc.
+
+
+Package minitoc(hints) Warning: W0023
+(minitoc(hints))                --- It may be the consequence 
+(minitoc(hints))                of loading the ``hyperref'' package.
+
+
+Package minitoc(hints) Warning: W0028
+(minitoc(hints))                --- The \chapter command is altered 
+(minitoc(hints))                after minitoc.
+
+
+Package minitoc(hints) Warning: W0023
+(minitoc(hints))                --- It may be the consequence 
+(minitoc(hints))                of loading the ``hyperref'' package.
+
+(c:/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count540
+\scratchdimen=\dimen346
+\scratchbox=\box153
+\nofMPsegments=\count541
+\nofMParguments=\count542
+\everyMPshowfont=\toks74
+\MPscratchCnt=\count543
+\MPscratchDim=\dimen347
+\MPnumerator=\count544
+\makeMPintoPDFobject=\count545
+\everyMPtoPDFconversion=\toks75
+) (c:/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+
+(c:/texlive/texmf-dist/tex/latex/grfext/grfext.sty
+Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 504.
+
+(c:/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+Package hyperref Info: Link coloring OFF on input line 16.
+
+(c:/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
+
+(c:/texlive/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(c:/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count546
+)
+LaTeX Info: Redefining \ref on input line 16.
+LaTeX Info: Redefining \pageref on input line 16.
+LaTeX Info: Redefining \nameref on input line 16.
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(99.58464pt, 441.01773pt, 56.9055pt)
+* v-part:(T,H,B)=(99.58464pt, 660.10394pt, 85.35826pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=441.01773pt
+* \textheight=660.10394pt
+* \oddsidemargin=27.31465pt
+* \evensidemargin=27.31465pt
+* \topmargin=3.31465pt
+* \headheight=12.0pt
+* \headsep=12.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=57.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=11.69997pt plus 5.19942pt minus 2.60054pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
+(c:/texlive/texmf-dist/tex/latex/biblatex/lbx/english.lbx
+File: english.lbx 2020/12/31 v3.16 biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load language 'slovene'...
+Package biblatex Info: ... file 'slovene.lbx' found.
+
+(c:/texlive/texmf-dist/tex/latex/biblatex/lbx/slovene.lbx
+File: slovene.lbx 2020/12/31 v3.16 biblatex localization (PK/MW)
+)
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Automatic encoding selection.
+(biblatex)             Assuming data encoding 'utf8'.
+Package biblatex Info: Input encoding 'utf8' specified.
+Package biblatex Info: Data encoding 'utf8' specified.
+(biblatex)             No need to reencode data.
+Package biblatex Info: Document encoding is UTF8 ....
+
+(c:/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2022-01-21 L3 programming layer (loader) 
+)
+Package biblatex Info: ... and expl3
+(biblatex)             2022-01-21 L3 programming layer (loader) 
+(biblatex)             is new enough (at least 2020/04/06),
+(biblatex)             setting 'casechanger=expl3'.
+
+(c:/texlive/texmf-dist/tex/latex/biblatex/blx-case-expl3.sty
+(c:/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+Package: xparse 2022-01-12 L3 Experimental document command parser
+)
+Package: blx-case-expl3 2020/12/31 v3.16 expl3 case changing code for biblatex
+)
+\openout7 = `LuanAn-blx.bib'.
+
+Package biblatex Info: Trying to load bibliographic data...
+Package biblatex Info: ... file 'LuanAn.bbl' found.
+
+(E:/paper-latex-4/public/projects/project-b/output/LuanAn.bbl)
+Package biblatex Info: Reference section=0 on input line 16.
+Package biblatex Info: Reference segment=0 on input line 16.
+\openout2 = `trangbia.aux'.
+
+ (./trangbia.tex
+LaTeX Font Info:    Calculating math sizes for size <13> on input line 12.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <13> not available
+(Font)              size <12> substituted on input line 12.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <6.5> not available
+(Font)              size <6> substituted on input line 12.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <13> not available
+(Font)              size <12> substituted on input line 12.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <6.5> not available
+(Font)              size <6> substituted on input line 12.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <13> not available
+(Font)              size <12> substituted on input line 12.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <6.5> not available
+(Font)              size <6> substituted on input line 12.
+
+LaTeX Font Info:    Trying to load font information for U+msa on input line 12.
+
+(c:/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 12.
+
+
+(c:/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Trying to load font information for U+lasy on input line 12
+.
+
+(c:/texlive/texmf-dist/tex/latex/base/ulasy.fd
+File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
+)
+
+LaTeX Font Warning: Font shape `U/lasy/m/n' in size <13> not available
+(Font)              size <12> substituted on input line 12.
+
+
+LaTeX Font Warning: Font shape `U/lasy/m/n' in size <6.5> not available
+(Font)              size <6> substituted on input line 12.
+
+[1
+
+
+{c:/texlive/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+Underfull \hbox (badness 10000) in paragraph at lines 60--62
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 65--68
+
+ []
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.74 \end{titlepage}
+                     [1])
+
+LaTeX Font Warning: Font shape `TS1/cmr/m/n' in size <13> not available
+(Font)              size <12> substituted on input line 27.
+
+<image3_gLrwE.png, id=18, 179.92218pt x 79.04532pt>
+File: image3_gLrwE.png Graphic file (type png)
+<use image3_gLrwE.png>
+Package pdftex.def Info: image3_gLrwE.png  used on input line 32.
+(pdftex.def)             Requested size: 89.96086pt x 39.52255pt.
+<RBqEh.png, id=20, 490.83376pt x 350.81062pt>
+File: RBqEh.png Graphic file (type png)
+<use RBqEh.png>
+Package pdftex.def Info: RBqEh.png  used on input line 36.
+(pdftex.def)             Requested size: 490.83255pt x 350.80975pt.
+
+Overfull \hbox (64.81482pt too wide) in paragraph at lines 36--37
+[][] 
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[1
+
+
+ <./image3_gLrwE.png>]
+<geh6V.png, id=34, 427.5975pt x 376.40625pt>
+File: geh6V.png Graphic file (type png)
+<use geh6V.png>
+Package pdftex.def Info: geh6V.png  used on input line 38.
+(pdftex.def)             Requested size: 427.59645pt x 376.40532pt.
+
+Overfull \hbox (1.57872pt too wide) in paragraph at lines 38--39
+[][] 
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[2 <./RBqEh.png>]
+<oGA08.png, id=40, 291.33844pt x 299.61937pt>
+File: oGA08.png Graphic file (type png)
+<use oGA08.png>
+Package pdftex.def Info: oGA08.png  used on input line 40.
+(pdftex.def)             Requested size: 291.33772pt x 299.61864pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[3 <./geh6V.png>]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[4 <./oGA08.png>]
+\openout2 = `loicamdoan.aux'.
+
+ (./loicamdoan.tex
+Underfull \hbox (badness 10000) in paragraph at lines 10--14
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--14
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--14
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--17
+
+ []
+
+)
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[5
+
+
+]
+\openout2 = `loicamon.aux'.
+
+ (./loicamon.tex
+Underfull \hbox (badness 10000) in paragraph at lines 18--19
+
+ []
+
+
+LaTeX Warning: Command \j invalid in math mode on input line 22.
+
+
+LaTeX Warning: Command \j invalid in math mode on input line 22.
+
+)
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[6
+
+
+
+
+] (E:/paper-latex-4/public/projects/project-b/output/LuanAn.toc
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[7
+
+
+
+]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[8])
+\tf@toc=\write8
+\openout8 = `LuanAn.toc'.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[9]
+\openout2 = `kyhieu.aux'.
+
+ (./kyhieu.tex
+LaTeX Font Info:    Trying to load font information for U+euf on input line 11.
+
+ (c:/texlive/texmf-dist/tex/latex/amsfonts/ueuf.fd
+File: ueuf.fd 2013/01/14 v3.01 Euler Fraktur
+)
+Overfull \hbox (6.4588pt too wide) in paragraph at lines 5--28
+ [] 
+ []
+
+)
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[10
+
+
+] (E:/paper-latex-4/public/projects/project-b/output/LuanAn.lof)
+\tf@lof=\write9
+\openout9 = `LuanAn.lof'.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[11
+
+
+
+] (E:/paper-latex-4/public/projects/project-b/output/LuanAn.lot
+
+LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <13> not available
+(Font)              size <12> substituted on input line 16.
+
+
+LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <6.5> not available
+(Font)              size <6> substituted on input line 16.
+
+)
+\tf@lot=\write10
+\openout10 = `LuanAn.lot'.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[12
+
+]
+\openout2 = `loinoidau.aux'.
+
+ (./loinoidau.tex
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.19 
+      [1
+
+
+]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[2]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[3]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[4])
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[5]
+\openout2 = `chuong_hien_trang.aux'.
+
+ (./chuong_hien_trang.tex
+Ch\uhorn \ohorn ng 1.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[6
+
+
+
+
+]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[7]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[8]
+LaTeX Font Info:    Calculating math sizes for size <15.59996> on input line 66
+.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <15.59996> not available
+(Font)              size <14.4> substituted on input line 66.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <15.59996> not available
+(Font)              size <14.4> substituted on input line 66.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <15.59996> not available
+(Font)              size <14.4> substituted on input line 66.
+
+
+LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <15.59996> not available
+(Font)              size <14.4> substituted on input line 66.
+
+
+LaTeX Font Warning: Font shape `U/lasy/m/n' in size <15.59996> not available
+(Font)              size <14.4> substituted on input line 66.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[9]
+Overfull \hbox (29.4462pt too wide) in paragraph at lines 75--76
+[]\T5/cmr/m/n/13 L[]T[]X câ thº mð rëng b¬ng c¡c gâi ph¦n m·m tr¼nh b y t¤i htt
+ps://www.ctan.org/
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[10])
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[11]
+\openout2 = `chuong_huong_dan_viet_luan_an.aux'.
+
+ (./chuong_huong_dan_viet_luan_an.tex
+Ch\uhorn \ohorn ng 2.
+
+Overfull \hbox (93.1381pt too wide) in paragraph at lines 17--18
+[]\T5/cmr/m/n/13 N¶n c i ^^_°t ph¦n m·m so¤n th£o L[]T[]X l  TeXS-tu-dio tø tra
+ng chõ http://www.texstudio.org/
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[12
+
+
+
+
+]
+<master.png, id=278, 458.46281pt x 577.40718pt>
+File: master.png Graphic file (type png)
+<use master.png>
+Package pdftex.def Info: master.png  used on input line 46.
+(pdftex.def)             Requested size: 458.46169pt x 577.40578pt.
+
+Overfull \hbox (17.44395pt too wide) in paragraph at lines 46--47
+ [] 
+ []
+
+LaTeX Font Info:    Trying to load font information for T5+cmtt on input line 6
+5.
+(c:/texlive/texmf-dist/tex/latex/vntex/t5cmtt.fd
+File: t5cmtt.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[13]
+
+LaTeX Warning: Text page 14 contains only floats.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[14 <./master.png>]
+Overfull \hbox (11.62059pt too wide) in paragraph at lines 88--88
+[]\T5/cmtt/m/n/13 title  ="Nghi¶n cùu, ph¡t triºn c¡c l÷ñc ^^_ç chú kþ sè tªp t
+hº",[] 
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[15]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[16]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[17]
+Overfull \hbox (4.36394pt too wide) in paragraph at lines 144--145
+\T5/cmr/m/n/13 gûi v· \T5/cmr/bx/n/13 tu-an-vi-etkey@gmail.com \T5/cmr/m/n/13 h
+o°c thæng qua \T5/cmr/bx/n/13 face-book.com/tuanvietkey\T5/cmr/m/n/13 . 
+ []
+
+)
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[18]
+\openout2 = `chuong_mau.aux'.
+
+ (./chuong_mau.tex
+Ch\uhorn \ohorn ng 3.
+<nhanelliptic.png, id=329, 432.86719pt x 397.485pt>
+File: nhanelliptic.png Graphic file (type png)
+<use nhanelliptic.png>
+Package pdftex.def Info: nhanelliptic.png  used on input line 16.
+(pdftex.def)             Requested size: 346.2942pt x 317.98842pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[19
+
+
+
+
+ <./nhanelliptic.png>]
+<kytapthe3.png, id=334, 300.3722pt x 396.7322pt>
+File: kytapthe3.png Graphic file (type png)
+<use kytapthe3.png>
+Package pdftex.def Info: kytapthe3.png  used on input line 28.
+(pdftex.def)             Requested size: 150.18571pt x 198.3656pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[20 <./kytapthe3.png>]
+Package hyperref Info: bookmark level for unknown algorithm defaults to 0 on in
+put line 53.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[21]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[22]
+Package hyperref Info: bookmark level for unknown defi defaults to 0 on input l
+ine 123.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <13> not available
+(Font)              size <12> substituted on input line 123.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <6.5> not available
+(Font)              size <6> substituted on input line 123.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/b/it' in size <13> not available
+(Font)              size <12> substituted on input line 123.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/b/it' in size <6.5> not available
+(Font)              size <6> substituted on input line 123.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/b/n' in size <13> not available
+(Font)              size <12> substituted on input line 123.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/b/n' in size <6.5> not available
+(Font)              size <6> substituted on input line 123.
+
+
+LaTeX Font Warning: Font shape `U/lasy/b/n' in size <13> not available
+(Font)              size <12> substituted on input line 123.
+
+LaTeX Font Info:    Font shape `U/lasy/b/n' in size <9.09996> not available
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 123.
+LaTeX Font Info:    Font shape `U/lasy/b/n' in size <6.5> not available
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 123.
+
+LaTeX Font Warning: Font shape `U/lasy/m/n' in size <6.5> not available
+(Font)              size <6> substituted on input line 123.
+
+
+LaTeX Font Warning: Font shape `OT1/cmss/bx/n' in size <13> not available
+(Font)              size <12> substituted on input line 123.
+
+
+LaTeX Font Warning: Font shape `OT1/cmss/bx/n' in size <6.5> not available
+(Font)              size <6> substituted on input line 123.
+
+
+Overfull \hbox (36.03975pt too wide) in paragraph at lines 123--124
+[]$\T5/cmr/m/it/13 , $[]$, $[]$, $[]$, $[]$, $[]$,
+ []
+
+
+Overfull \hbox (8.41118pt too wide) in paragraph at lines 123--124
+[]$\T5/cmr/m/it/13 , $[]$, $[]$, $[]$, $[]$ ) câ thuªt
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[23]
+
+LaTeX Font Warning: Font shape `OT1/cmtt/m/n' in size <13> not available
+(Font)              size <12> substituted on input line 140.
+
+
+LaTeX Font Warning: Font shape `OT1/cmtt/m/n' in size <6.5> not available
+(Font)              size <6> substituted on input line 140.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[24]
+Overfull \hbox (48.51253pt too wide) detected at line 213
+[][][]
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[25]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[26]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[27]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[28]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[29]
+
+LaTeX Warning: Reference `mangKy' on page 30 undefined on input line 319.
+
+
+LaTeX Warning: Reference `mangKy' on page 30 undefined on input line 319.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[30]
+Overfull \hbox (20.18445pt too wide) in paragraph at lines 345--346
+[]\T5/cmr/m/n/13 Ng÷íi x¡c thüc chú kþ õy nhi»m sau khi nhªn v«n b£n $\OML/cmm/
+m/it/12 m[]$ \T5/cmr/m/n/13 v  chú kþ $\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 ^^[[];
+ V; w; U[]; \U/euf/m/n/13 V\OT1/cmr/m/n/12 )$
+ []
+
+
+LaTeX Font Warning: Font shape `T5/cmr/bx/sc' undefined
+(Font)              using `T5/cmr/bx/n' instead on input line 361.
+
+Package hyperref Info: bookmark level for unknown theorem defaults to 0 on inpu
+t line 361.
+
+Overfull \hbox (4.06589pt too wide) detected at line 378
+[]
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[31]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[32]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[33]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[34]
+Overfull \hbox (19.86653pt too wide) detected at line 463
+\OML/cmm/m/it/12 ^^O[]\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 k\OT1/cmr/m/n/12 ) [] [
+] []
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[35]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[36]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[37]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[38])
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[39]
+\openout2 = `ketluan.aux'.
+
+ (./ketluan.tex
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[40
+
+
+
+
+])
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[41]
+\openout2 = `chdanhmuccongbo.aux'.
+
+ (./chdanhmuccongbo.tex)
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[42
+
+
+
+
+]
+Overfull \hbox (7.87029pt too wide) in paragraph at lines 65--65
+\T5/cmr/m/n/13 Sig-na-tures'', \T5/cmr/m/it/13 Pro-ceed-ing of Pub-lic Key Cryp
+-tog-ra-phy, LNCS 3958\T5/cmr/m/n/13 , pp. 257^^U
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[43
+
+
+]
+Overfull \hbox (7.46051pt too wide) in paragraph at lines 65--65
+[]\T5/cmr/m/n/13 Qin Wang and Zhenfu Cao (2007), ``Iden-tity based proxy multi-
+signature'',
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[44]
+\openout2 = `phuluccaidat.aux'.
+
+ (./phuluccaidat.tex
+Ph\d {u} l\d {u}c A.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[1]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[2]
+Ph\d {u} l\d {u}c B.
+
+LaTeX Font Warning: Font shape `OT1/cmtt/m/n' in size <15.59996> not available
+(Font)              size <14.4> substituted on input line 72.
+
+LaTeX Font Info:    Calculating math sizes for size <10.83347> on input line 12
+1.
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <7.58339> not available
+(Font)              size <8> substituted on input line 121.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <5.41673> not available
+(Font)              size <5> substituted on input line 121.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <7.58339> not available
+(Font)              size <8> substituted on input line 121.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <5.41673> not available
+(Font)              size <5> substituted on input line 121.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <7.58339> not available
+(Font)              size <8> substituted on input line 121.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <5.41673> not available
+(Font)              size <5> substituted on input line 121.
+
+
+LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <7.58339> not available
+(Font)              size <8> substituted on input line 121.
+
+
+LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <5.41673> not available
+(Font)              size <5> substituted on input line 121.
+
+
+LaTeX Font Warning: Font shape `OT1/cmtt/m/n' in size <7.58339> not available
+(Font)              size <8> substituted on input line 121.
+
+
+LaTeX Font Warning: Font shape `OT1/cmtt/m/n' in size <5.41673> not available
+(Font)              size <5> substituted on input line 121.
+
+
+LaTeX Font Warning: Font shape `U/lasy/m/n' in size <7.58339> not available
+(Font)              size <8> substituted on input line 121.
+
+
+LaTeX Font Warning: Font shape `U/lasy/m/n' in size <5.41673> not available
+(Font)              size <5> substituted on input line 121.
+
+
+Overfull \hbox (43.52275pt too wide) in paragraph at lines 504--505
+ [] 
+ []
+
+
+Package pgf Warning: Returning node center instead of a point on node border. D
+id you specify a point identical to the center of node ``q''? on input line 551
+.
+
+
+Package pgf Warning: Returning node center instead of a point on node border. D
+id you specify a point identical to the center of node ``q''? on input line 551
+.
+
+
+LaTeX Warning: \oval, \circle, or \line size unavailable on input line 579.
+
+
+Overfull \hbox (7.34805pt too wide) in paragraph at lines 579--580
+[][] 
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[3]
+LaTeX Font Info:    Calculating math sizes for size <8.66673> on input line 595
+.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <4.33336> not available
+(Font)              size <5> substituted on input line 595.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <4.33336> not available
+(Font)              size <5> substituted on input line 595.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <4.33336> not available
+(Font)              size <5> substituted on input line 595.
+
+
+LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <4.33336> not available
+(Font)              size <5> substituted on input line 595.
+
+
+LaTeX Font Warning: Font shape `OT1/cmtt/m/n' in size <4.33336> not available
+(Font)              size <5> substituted on input line 595.
+
+
+LaTeX Font Warning: Font shape `U/lasy/m/n' in size <4.33336> not available
+(Font)              size <5> substituted on input line 595.
+
+
+(c:/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary
+arrows.code.tex
+File: tikzlibraryarrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+
+(c:/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.code.tex
+File: pgflibraryarrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\arrowsize=\dimen348
+))
+(c:/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary
+automata.code.tex
+File: tikzlibraryautomata.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+
+(c:/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary
+shapes.multipart.code.tex
+File: tikzlibraryshapes.multipart.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+
+(c:/texlive/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshapes.multip
+art.code.tex
+File: pgflibraryshapes.multipart.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfnodepartlowerbox=\box154
+\pgfnodeparttwobox=\box155
+\pgfnodepartthreebox=\box156
+\pgfnodepartfourbox=\box157
+\pgfnodeparttwentybox=\box158
+\pgfnodepartnineteenbox=\box159
+\pgfnodeparteighteenbox=\box160
+\pgfnodepartseventeenbox=\box161
+\pgfnodepartsixteenbox=\box162
+\pgfnodepartfifteenbox=\box163
+\pgfnodepartfourteenbox=\box164
+\pgfnodepartthirteenbox=\box165
+\pgfnodeparttwelvebox=\box166
+\pgfnodepartelevenbox=\box167
+\pgfnodeparttenbox=\box168
+\pgfnodepartninebox=\box169
+\pgfnodeparteightbox=\box170
+\pgfnodepartsevenbox=\box171
+\pgfnodepartsixbox=\box172
+\pgfnodepartfivebox=\box173
+)))
+(c:/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary
+positioning.code.tex
+File: tikzlibrarypositioning.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(c:/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary
+decorations.pathmorphing.code.tex
+(c:/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary
+decorations.code.tex
+(c:/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduledecorations.code.tex
+\pgfdecoratedcompleteddistance=\dimen349
+\pgfdecoratedremainingdistance=\dimen350
+\pgfdecoratedinputsegmentcompleteddistance=\dimen351
+\pgfdecoratedinputsegmentremainingdistance=\dimen352
+\pgf@decorate@distancetomove=\dimen353
+\pgf@decorate@repeatstate=\count547
+\pgfdecorationsegmentamplitude=\dimen354
+\pgfdecorationsegmentlength=\dimen355
+)
+\tikz@lib@dec@box=\box174
+)
+(c:/texlive/texmf-dist/tex/generic/pgf/libraries/decorations/pgflibrarydecorati
+ons.pathmorphing.code.tex))
+(c:/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary
+matrix.code.tex
+File: tikzlibrarymatrix.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+LaTeX Font Info:    Calculating math sizes for size <11.86258> on input line 66
+7.
+LaTeX Font Info:    Font shape `U/lasy/b/n' in size <8.30376> not available
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 667.
+LaTeX Font Info:    Font shape `U/lasy/b/n' in size <5.93129> not available
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 667.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[4]
+
+LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <7.58339> not available
+(Font)              size <8> substituted on input line 765.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <5.41673> not available
+(Font)              size <5> substituted on input line 765.
+
+
+Overfull \hbox (33.52525pt too wide) in paragraph at lines 858--859
+ [] 
+ []
+
+
+LaTeX Font Warning: Font shape `OML/cmm/b/it' in size <7.58339> not available
+(Font)              size <8> substituted on input line 905.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/b/it' in size <5.41673> not available
+(Font)              size <5> substituted on input line 905.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/b/n' in size <7.58339> not available
+(Font)              size <8> substituted on input line 905.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/b/n' in size <5.41673> not available
+(Font)              size <5> substituted on input line 905.
+
+
+LaTeX Font Warning: Font shape `OT1/cmss/bx/n' in size <7.58339> not available
+(Font)              size <8> substituted on input line 905.
+
+
+LaTeX Font Warning: Font shape `OT1/cmss/bx/n' in size <5.41673> not available
+(Font)              size <5> substituted on input line 905.
+
+LaTeX Font Info:    Font shape `U/lasy/b/n' in size <7.58339> not available
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 905.
+
+LaTeX Font Warning: Font shape `U/lasy/m/n' in size <7.58339> not available
+(Font)              size <8> substituted on input line 905.
+
+LaTeX Font Info:    Font shape `U/lasy/b/n' in size <5.41673> not available
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 905.
+
+LaTeX Font Warning: Font shape `U/lasy/m/n' in size <5.41673> not available
+(Font)              size <5> substituted on input line 905.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[5]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.59995pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.59995pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.59995pt}.
+
+[6]
+\c@wavenum=\count548
+)
+Package minitoc Info: I0009
+(minitoc)             Listing minitoc auxiliary files. 
+(minitoc)             Creating the LuanAn.maf file.
+\openout3 = `LuanAn.maf'.
+
+
+
+Package minitoc(hints) Warning: W0033
+(minitoc(hints))                The caption package should be 
+(minitoc(hints))                loaded BEFORE the minitoc package.
+
+Package minitoc(hints) Info: I0053
+(minitoc(hints))             You have loaded the float package; 
+(minitoc(hints))             please be aware that the minitoc package 
+(minitoc(hints))             facilities can not be used for new types 
+(minitoc(hints))             of floats defined by the float package.
+
+Package minitoc(hints) Warning: W0024
+(minitoc(hints))                Some hints have been written 
+(minitoc(hints))                in the LuanAn.log file.
+
+(E:/paper-latex-4/public/projects/project-b/output/LuanAn.aux
+(E:/paper-latex-4/public/projects/project-b/output/trangbia.aux)
+(E:/paper-latex-4/public/projects/project-b/output/loicamdoan.aux)
+(E:/paper-latex-4/public/projects/project-b/output/loicamon.aux)
+(E:/paper-latex-4/public/projects/project-b/output/kyhieu.aux)
+(E:/paper-latex-4/public/projects/project-b/output/loinoidau.aux)
+(E:/paper-latex-4/public/projects/project-b/output/chuong_hien_trang.aux)
+(E:/paper-latex-4/public/projects/project-b/output/chuong_huong_dan_viet_luan_a
+n.aux) (E:/paper-latex-4/public/projects/project-b/output/chuong_mau.aux)
+(E:/paper-latex-4/public/projects/project-b/output/ketluan.aux)
+(E:/paper-latex-4/public/projects/project-b/output/chdanhmuccongbo.aux)
+(E:/paper-latex-4/public/projects/project-b/output/phuluccaidat.aux))
+
+ *File List*
+vietkey.luanan.1.2.cls    2016/08/16 v1.2 vietkey.luanan.1.2 class
+  report.cls    2021/10/04 v1.4n Standard LaTeX document class
+  size10.clo    2021/10/04 v1.4n Standard LaTeX file (size option)
+   babel.sty    2021/12/30 3.69 The Babel package
+ slovene.ldf    2021/02/06 v1.2n Slovene support from the babel system
+ english.ldf    2017/06/06 v3.3r English support from the babel system
+ vietnam.sty    2009/07/12 v1.3 support for Vietnamese
+  ifthen.sty    2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
+ fontenc.sty
+   t5enc.def    2006/11/21 v1.4 Vietnamese T5 encoding
+   t5enc.dfu    2006/08/19 v1.1 UTF8 support for Vietnamese
+   t5cmr.fd    1999/05/25 v2.5h Standard LaTeX font definitions
+inputenc.sty    2021/02/14 v1.3d Input encoding file
+  vncaps.tex    2006/06/07 v1.1 Captions in Vietnamese
+enumerate.sty    2015/07/23 v3.00 enumerate extensions (DPC)
+ amsmath.sty    2021/10/15 v2.17l AMS math features
+ amstext.sty    2021/08/26 v2.01 AMS text
+  amsgen.sty    1999/11/30 v2.0 generic functions
+  amsbsy.sty    1999/11/29 v1.2d Bold Symbols
+  amsopn.sty    2021/08/26 v2.02 operator names
+ amsxtra.sty    1999/11/15 v1.2c AMS extra commands
+ amssymb.sty    2013/01/14 v3.01 AMS font symbols
+amsfonts.sty    2013/01/14 v3.01 Basic AMSFonts support
+latexsym.sty    1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
+   amscd.sty    2017/04/14 v2.1 AMS Commutative Diagrams
+  amsthm.sty    2020/05/29 v2.20.6
+indentfirst.sty    1995/11/23 v1.03 Indent first paragraph (DPC)
+picinpar.sty    
+floatflt.sty    1997/07/16 v. 1.31
+    epic.sty    
+  curves.sty    2017/08/25 1.55 Curves for LaTeX picture environment
+ makeidx.sty    2021/10/04 v1.0m Standard LaTeX package
+longtable.sty    2021-09-01 v4.17 Multi-page Table package (DPC)
+multicol.sty    2021/10/28 v1.9b multicolumn formatting (FMi)
+listings.sty    2020/03/24 1.8d (Carsten Heinz)
+  keyval.sty    2014/10/28 v1.15 key=value parser (DPC)
+ lstmisc.sty    2020/03/24 1.8d (Carsten Heinz)
+listings.cfg    2020/03/24 1.8d listings configuration
+scrextend.sty    2021/11/13 v3.35 KOMA-Script package (extend other classes wit
+h features of KOMA-Script classes)
+scrkbase.sty    2021/11/13 v3.35 KOMA-Script package (KOMA-Script-dependent bas
+ics and keyval usage)
+ scrbase.sty    2021/11/13 v3.35 KOMA-Script package (KOMA-Script-independent b
+asics and keyval usage)
+scrlfile.sty    2021/11/13 v3.35 KOMA-Script package (file load hooks)
+scrlfile-hook.sty    2021/11/13 v3.35 KOMA-Script package (using LaTeX hooks)
+ scrlogo.sty    2021/11/13 v3.35 KOMA-Script package (logo)
+setspace.sty    2011/12/19 v6.7a set line spacing
+ minitoc.sty    2018/07/12 v62 Package minitoc
+ mtcmess.sty    2006/03/14
+  LuanAn.mtc0
+ english.mld    2006/01/13
+ english.mld    2006/01/13
+ vietnam.mld    1999/03/16
+fancybox.sty    2010/05/15 1.4
+pdflscape.sty    2019/12/05 v0.12 Display of landscape pages in PDF (HO)
+   iftex.sty    2020/03/06 v1.0d TeX engine tests
+  lscape.sty    2020/05/28 v3.02 Landscape Pages (DPC)
+graphics.sty    2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+    trig.sty    2021/08/11 v1.11 sin cos tan (DPC)
+graphics.cfg    2016/06/04 v1.11 sample graphics configuration
+  pdftex.def    2020/10/05 v1.2a Graphics/color driver for pdftex
+tcolorbox.sty    2022/01/07 version 5.0.2 text color boxes
+     pgf.sty    2021/05/15 v3.1.9a (3.1.9a)
+  pgfrcs.sty    2021/05/15 v3.1.9a (3.1.9a)
+pgfrcs.code.tex
+ pgfcore.sty    2021/05/15 v3.1.9a (3.1.9a)
+graphicx.sty    2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+  pgfsys.sty    2021/05/15 v3.1.9a (3.1.9a)
+pgfsys.code.tex
+pgfsyssoftpath.code.tex    2021/05/15 v3.1.9a (3.1.9a)
+pgfsysprotocol.code.tex    2021/05/15 v3.1.9a (3.1.9a)
+  xcolor.sty    2021/10/31 v2.13 LaTeX color extensions (UK)
+   color.cfg    2016/01/02 v1.6 sample color configuration
+pgfcore.code.tex
+pgfcomp-version-0-65.sty    2021/05/15 v3.1.9a (3.1.9a)
+pgfcomp-version-1-18.sty    2021/05/15 v3.1.9a (3.1.9a)
+verbatim.sty    2020-07-07 v1.5u LaTeX2e package for verbatim enhancements
+ environ.sty    2014/05/04 v0.3 A new way to define environments
+trimspaces.sty    2009/09/17 v1.1 Trim spaces around a token list
+etoolbox.sty    2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+enumitem.sty    2019/06/20 v3.9 Customized lists
+    tikz.sty    2021/05/15 v3.1.9a (3.1.9a)
+  pgffor.sty    2021/05/15 v3.1.9a (3.1.9a)
+ pgfkeys.sty    
+pgfkeys.code.tex
+ pgfmath.sty    
+pgfmath.code.tex
+pgffor.code.tex
+tikz.code.tex
+algorithm.sty    2009/08/24 v0.1 Document Style `algorithm' - floating environm
+ent
+   float.sty    2001/11/08 v1.3d Float enhancements (AL)
+algorithmic.sty    2009/08/24 v0.1 Document Style `algorithmic'
+ eso-pic.sty    2020/10/14 v3.0a eso-pic (RN)
+    calc.sty    2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+hyperref.sty    2021-06-07 v7.00m Hypertext links for LaTeX
+ ltxcmds.sty    2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+pdftexcmds.sty    2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+infwarerr.sty    2019/12/03 v1.5 Providing info/warning/error messages (HO)
+kvsetkeys.sty    2019/12/15 v1.18 Key value parser (HO)
+kvdefinekeys.sty    2019-12-19 v1.6 Define keys (HO)
+pdfescape.sty    2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+ hycolor.sty    2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+letltxmacro.sty    2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+ auxhook.sty    2019-12-17 v1.6 Hooks for auxiliary files (HO)
+kvoptions.sty    2020-10-07 v3.14 Key value format for package options (HO)
+  pd1enc.def    2021-06-07 v7.00m Hyperref: PDFDocEncoding definition (HO)
+hyperref-langpatches.def    2021-06-07 v7.00m Hyperref: patches for babel langu
+ages
+ intcalc.sty    2019/12/15 v1.3 Expandable calculations with integers (HO)
+etexcmds.sty    2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+   puenc.def    2021-06-07 v7.00m Hyperref: PDF Unicode definition (HO)
+     url.sty    2013/09/16  ver 3.4  Verb mode for urls, etc.
+  bitset.sty    2019/12/09 v1.3 Handle bit-vector datatype (HO)
+bigintcalc.sty    2019/12/15 v1.5 Expandable calculations on big integers (HO)
+atbegshi-ltx.sty    2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+ hpdftex.def    2021-06-07 v7.00m Hyperref driver for pdfTeX
+atveryend-ltx.sty    2020/08/19 v1.0a Emulation of the original atveryend packa
+ge
+with kernel methods
+rerunfilecheck.sty    2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+uniquecounter.sty    2019/12/15 v1.4 Provide unlimited unique counter (HO)
+bookmark.sty    2020-11-06 v1.29 PDF bookmarks (HO)
+bkm-pdftex.def    2020-11-06 v1.29 bookmark driver for pdfTeX (HO)
+titlesec.sty    2021/07/05 v2.14 Sectioning titles
+ tocloft.sty    2017/08/31 v2.3i parameterised ToC, etc., typesetting
+thmtools.sty    2020/08/01 v0.72
+thm-patch.sty    2020/08/01 v0.72
+parseargs.sty    2020/08/01 v0.72
+  thm-kv.sty    2020/08/01 v0.72
+thm-autoref.sty    2020/08/01 v0.72
+aliasctr.sty    2020/08/01 v0.72
+thm-listof.sty    2020/08/01 v0.72
+thm-restate.sty    2020/08/01 v0.72
+thm-amsthm.sty    2020/08/01 v0.72
+booktabs.sty    2020/01/12 v1.61803398 Publication quality tables
+ caption.sty    2020/10/26 v3.5g Customizing captions (AR)
+caption3.sty    2020/10/21 v2.2e caption3 kernel (AR)
+ltcaption.sty    2020/05/30 v1.4b longtable captions (AR)
+fancyhdr.sty    2021/01/28 v4.0.1 Extensive control of page headers and footers
+
+pdfpages.sty    2021/03/06 v0.5t Insert pages of external PDF documents (AM)
+pppdftex.def    2021/03/06 v0.5t Pdfpages driver for pdfTeX (AM)
+geometry.sty    2020/01/02 v5.9 Page Geometry
+  ifvtex.sty    2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+biblatex.sty    2020/12/31 v3.16 programmable bibliographies (PK/MW)
+  logreq.sty    2010/08/04 v1.0 xml request logger
+  logreq.def    2010/08/04 v1.0 logreq spec v1.0
+  blx-dm.def    2020/12/31 v3.16 biblatex localization (PK/MW)
+blx-compat.def    2020/12/31 v3.16 biblatex compatibility (PK/MW)
+blx-bibtex.def    2020/12/31 v3.16 biblatex compatibility (PK/MW)
+biblatex.def    2020/12/31 v3.16 biblatex compatibility (PK/MW)
+standard.bbx    2020/12/31 v3.16 biblatex bibliography style (PK/MW)
+ numeric.bbx    2020/12/31 v3.16 biblatex bibliography style (PK/MW)
+  luanan.bbx    
+ numeric.cbx    2020/12/31 v3.16 biblatex citation style (PK/MW)
+biblatex.cfg    
+l3backend-pdftex.def    2022-01-12 L3 backend support: PDF output (pdfTeX)
+supp-pdf.mkii
+epstopdf-base.sty    2020-01-24 v2.11 Base part for package epstopdf
+  grfext.sty    2019/12/03 v1.3 Manage graphics extensions (HO)
+epstopdf-sys.cfg    2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+ nameref.sty    2021-04-02 v2.47 Cross-referencing by name of section
+refcount.sty    2019/12/15 v3.6 Data extraction from label references (HO)
+gettitlestring.sty    2019/12/15 v1.6 Cleanup title references (HO)
+ english.lbx    2020/12/31 v3.16 biblatex localization (PK/MW)
+ slovene.lbx    2020/12/31 v3.16 biblatex localization (PK/MW)
+   expl3.sty    2022-01-21 L3 programming layer (loader) 
+blx-case-expl3.sty    2020/12/31 v3.16 expl3 case changing code for biblatex
+  xparse.sty    2022-01-12 L3 Experimental document command parser
+  LuanAn.bbl
+trangbia.tex
+    umsa.fd    2013/01/14 v3.01 AMS symbols A
+    umsb.fd    2013/01/14 v3.01 AMS symbols B
+   ulasy.fd    1998/08/17 v2.2e LaTeX symbol font definitions
+image3_gLrwE.png    Graphic file (type png)
+   RBqEh.png    Graphic file (type png)
+   geh6V.png    Graphic file (type png)
+   oGA08.png    Graphic file (type png)
+loicamdoan.tex
+loicamon.tex
+  kyhieu.tex
+    ueuf.fd    2013/01/14 v3.01 Euler Fraktur
+loinoidau.tex
+chuong_hien_trang.tex
+chuong_huong_dan_viet_luan_an.tex
+  master.png    Graphic file (type png)
+  t5cmtt.fd    1999/05/25 v2.5h Standard LaTeX font definitions
+chuong_mau.tex
+nhanelliptic.png    Graphic file (type png)
+kytapthe3.png    Graphic file (type png)
+ ketluan.tex
+chdanhmuccongbo.tex
+phuluccaidat.tex
+ ***********
+
+
+LaTeX Font Warning: Size substitutions with differences
+(Font)              up to 1.75pt have occurred.
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+Package logreq Info: Writing requests to 'LuanAn.run.xml'.
+\openout1 = `LuanAn.run.xml'.
+
+
+Overfull \hbox (305.66318pt too wide) in paragraph at lines 70--70
+[]                                                                             
+                                                                               
+                                                                               
+                                                                      
+ []
+
+ ) 
+Here is how much of TeX's memory you used:
+ 46381 strings out of 478287
+ 889868 string characters out of 5849751
+ 1519552 words of memory out of 5000000
+ 63266 multiletter control sequences out of 15000+600000
+ 524157 words of font info for 190 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 123i,27n,120p,1909b,2845s stack positions out of 5000i,500n,10000p,200000b,80000s
+pdfTeX warning (dest): name{section.B.9} has been referenced but does not exi
+st, replaced by a fixed one
+
+{c:/texlive/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}<c:/texlive/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmbsy10.pfb><c:/texlive/texmf-dist/font
+s/type1/public/amsfonts/cm/cmbx10.pfb><c:/texlive/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmex10.pfb><c:/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mmi10.pfb><c:/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><c:/
+texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb><c:/texlive/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmmi6.pfb><c:/texlive/texmf-dist/fonts/type1
+/public/amsfonts/cm/cmmi8.pfb><c:/texlive/texmf-dist/fonts/type1/public/amsfont
+s/cm/cmmi9.pfb><c:/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmib10.pf
+b><c:/texlive/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmmib9.pfb><c:/tex
+live/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/texmf-dist/fonts/type1/pu
+blic/amsfonts/cm/cmr5.pfb><c:/texlive/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmr6.pfb><c:/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/te
+xlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb><c:/texlive/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmss12.pfb><c:/texlive/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmss9.pfb><c:/texlive/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmssbx10.pfb><c:/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pf
+b><c:/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb><c:/texlive/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb><c:/texlive/texmf-dist/fonts
+/type1/public/amsfonts/cm/cmtt12.pfb><c:/texlive/texmf-dist/fonts/type1/public/
+amsfonts/cm/cmtt9.pfb><c:/texlive/texmf-dist/fonts/type1/public/amsfonts/euler/
+eufm10.pfb><c:/texlive/texmf-dist/fonts/type1/public/amsfonts/latxfont/lcircle1
+.pfb><c:/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb><c:/
+texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb><c:/texlive/t
+exmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb><c:/texlive/texmf-dist/fonts
+/type1/vntex/vnr/vnbx10.pfb><c:/texlive/texmf-dist/fonts/type1/vntex/vnr/vnbx12
+.pfb><c:/texlive/texmf-dist/fonts/type1/vntex/vnr/vnbx9.pfb><c:/texlive/texmf-d
+ist/fonts/type1/vntex/vnr/vnbxti10.pfb><c:/texlive/texmf-dist/fonts/type1/vntex
+/vnr/vncsc10.pfb><c:/texlive/texmf-dist/fonts/type1/vntex/vnr/vnr10.pfb><c:/tex
+live/texmf-dist/fonts/type1/vntex/vnr/vnr12.pfb><c:/texlive/texmf-dist/fonts/ty
+pe1/vntex/vnr/vnr17.pfb><c:/texlive/texmf-dist/fonts/type1/vntex/vnr/vnr9.pfb><
+c:/texlive/texmf-dist/fonts/type1/vntex/vnr/vnti12.pfb><c:/texlive/texmf-dist/f
+onts/type1/vntex/vnr/vnti9.pfb><c:/texlive/texmf-dist/fonts/type1/vntex/vnr/vnt
+t10.pfb><c:/texlive/texmf-dist/fonts/type1/vntex/vnr/vntt12.pfb>
+Output written on E:/paper-latex-4/public/projects/project-b/output/LuanAn.pdf 
+(64 pages, 1168452 bytes).
+PDF statistics:
+ 1040 PDF objects out of 1200 (max. 8388607)
+ 862 compressed objects within 9 object streams
+ 265 named destinations out of 1000 (max. 500000)
+ 456 words of extra memory for PDF output out of 10000 (max. 10000000)
+

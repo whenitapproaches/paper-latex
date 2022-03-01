@@ -1,0 +1,46 @@
+This is BibTeX, Version 0.99d (TeX Live 2021)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: pnas-nexus-authoring-template.aux
+The style file: plain.bst
+Database file #1: reference.bib
+You've used 14 entries,
+            2118 wiz_defined-function locations,
+            583 strings with 6931 characters,
+and the built_in function-call counts, 5571 in all, are:
+= -- 529
+> -- 321
+< -- 4
++ -- 126
+- -- 112
+* -- 411
+:= -- 922
+add.period$ -- 43
+call.type$ -- 14
+change.case$ -- 95
+chr.to.int$ -- 0
+cite$ -- 14
+duplicate$ -- 204
+empty$ -- 396
+format.name$ -- 112
+if$ -- 1158
+int.to.chr$ -- 0
+int.to.str$ -- 14
+missing$ -- 16
+newline$ -- 73
+num.names$ -- 28
+pop$ -- 105
+preamble$ -- 1
+purify$ -- 83
+quote$ -- 0
+skip$ -- 152
+stack$ -- 0
+substring$ -- 308
+swap$ -- 56
+text.length$ -- 4
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 52
+warning$ -- 0
+while$ -- 49
+width$ -- 16
+write$ -- 153

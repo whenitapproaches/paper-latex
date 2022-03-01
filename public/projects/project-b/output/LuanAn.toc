@@ -1,0 +1,124 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\babel@toc {english}{}\relax 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {0.0.1}12312312}{iv}{subsection.0.0.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{{\bf LỜI CẢM ƠN}\rm }{vi}{chapter*.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{{\bf MỤC LỤC\rm }}{vii}{chapter*.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{{\bf DANH MỤC CÁC KÝ HIỆU, CÁC CHỮ VIẾT TẮT}}{x}{chapter*.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{{\bf DANH MỤC CÁC HÌNH VẼ\rm }}{xi}{chapter*.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{{\bf DANH MỤC CÁC BẢNG BIỂU\rm }}{xi}{chapter*.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{{\bf MỞ ĐẦU}\rm }{1}{chapter*.7}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {1}HIỆN TRẠNG VỀ VIẾT LUẬN ÁN TIẾN SĨ}{6}{chapter.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.1}\bf Quy định về soạn thảo luận án}{6}{section.1.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.2}Quy định về trình bày tài liệu tham khảo}{6}{section.1.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.3}\bf Soạn thảo luận án luận án bằng MS Word}{8}{section.1.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.4}\bf Soạn thảo luận án luận án bằng \LaTeX }{9}{section.1.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.5}\bf Kết luận chương \ref {chtongquan}}{11}{section.1.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {2}HƯỚNG DẪN VIẾT LUẬN ÁN BẰNG \LaTeX }{12}{chapter.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.1}\bf Cài đặt môi trường soạn thảo \LaTeX }{12}{section.2.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.1.1}Cài đặt \LaTeX }{12}{subsection.2.1.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.1.2}Cài đặt vietkey.luanan.1.2.cls}{12}{subsection.2.1.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.1.3}Các file tối thiểu của gói vietkey.luanan}{13}{subsection.2.1.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.2}\bf Hướng dẫn soạn thảo luận án bằng \LaTeX }{13}{section.2.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2.1}Tài liệu tham khảo}{13}{subsection.2.2.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.3}\bf Các gói đã được nhúng trong \textit {vietkey.luanan}}{15}{section.2.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.4}\bf Một số kinh nghiệm và lưu ý khi sử dụng}{17}{section.2.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.5}\bf Kết luận chương \ref {chchukytapthedathanhphan}}{18}{section.2.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {3}CHƯƠNG MẪU-KẾT HỢP CHỮ KÝ SỐ TẬP THỂ ĐA THÀNH PHẦN VỚI CÁC MÔ HÌNH KHÁC}{19}{chapter.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.1}\bf Đề xuất mô hình chữ ký số tập thể đa thành phần}{19}{section.3.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.2}\bf Mô hình kết hợp chữ ký số tập thể đa thành phần và chữ ký số ủy nhiệm }{22}{section.3.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.2.1}Định nghĩa chữ số tập thể ủy nhiệm đa thành phần tổng quát}{23}{subsection.3.2.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.2.2}Tấn công ACMA - Adaptive Chosen Message Attacks với mô hình MSMS-PROXY}{25}{subsection.3.2.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.2.3}Đề xuất chữ ký số tập thể đa thành phần ủy nhiệm dựa trên hệ mật định danh}{27}{subsection.3.2.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.2.3.1}Cài đặt}{27}{subsubsection.3.2.3.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.2.3.2}Tách khóa}{27}{subsubsection.3.2.3.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.2.3.3}Hình thành chữ ký của người ủy nhiệm}{28}{subsubsection.3.2.3.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.2.3.4}Xác thực chữ ký người ủy nhiệm}{28}{subsubsection.3.2.3.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.2.3.5}Sinh khóa cho người được ủy nhiệm}{29}{subsubsection.3.2.3.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.2.3.6}Hình thành chữ ký ủy nhiệm}{30}{subsubsection.3.2.3.6}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.2.3.7}Xác thực chữ ký ủy nhiệm}{31}{subsubsection.3.2.3.7}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.3}\bf Mô hình kết hợp chữ ký số tập thể đa thành phần và chữ ký số mù}{33}{section.3.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.3.1}Định nghĩa chữ ký số tập thể mù đa thành phần tổng quát}{33}{subsection.3.3.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.3.2}Tấn công ACMA - Adaptive Chosen Message Attacks với mô hình MSMS-BL}{35}{subsection.3.3.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.3.3}Đề xuất chữ ký số tập thể mù đa thành phần dựa trên đường cong elliptic}{36}{subsection.3.3.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.3.3.1}Sinh khóa}{36}{subsubsection.3.3.3.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.3.3.2}Giao thức lược đồ ký mù tập thể}{37}{subsubsection.3.3.3.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.3.3.3}Xác thực chữ ký mù tập thể}{38}{subsubsection.3.3.3.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.3.3.4}Phân tích độ an toàn của lược đồ chữ ký mới và thảo luận}{39}{subsubsection.3.3.3.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.4}\bf Kết luận chương \ref {chuchukykethop} }{39}{section.3.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{{\bf KẾT LUẬN}\rm }{40}{chapter*.12}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{{\bf CÁC CÔNG TRÌNH KHOA HỌC ĐÃ CÔNG BỐ }\rm }{42}{chapter*.13}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{{\bf TÀI LIỆU THAM KHẢO}}{43}{chapter*.14}%
+\babel@toc {slovene}{}\relax 
+\babel@toc {english}{}\relax 
+\babel@toc {slovene}{}\relax 
+\babel@toc {english}{}\relax 
+\babel@toc {slovene}{}\relax 
+\babel@toc {english}{}\relax 
+\defcounter {refsection}{0}\relax 
+\renewcommand {\cftchappresnum }{PHỤ LỤC\nobreakspace }
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {A}MỘT SỐ CÔNG THỨC TOÁN HỌC THƯỜNG GẶP}{P1}{appendix.A}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {B}MỘT SỐ VÍ DỤ VỀ LỆNH VẼ \LaTeX CỦA GÓI TIKZ}{P3}{appendix.B}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {B.1}Ví dụ 1 - câu lệnh biểu diễn công thức hóa học}{P3}{section.B.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {B.2}Ví dụ 2 - câu lệnh vẽ cây tìm kiếm đệ quy}{P4}{section.B.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {B.3}Ví dụ 3 - vẽ lưới và tọa độ cực}{P4}{section.B.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {B.4}Ví dụ 4 - câu lệnh vẽ sơ đồ nguyên lý}{P5}{section.B.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {B.5}ví dụ 5 - câu lệnh vẽ máy Oscilloscope}{P5}{section.B.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {B.6}ví dụ 6 - câu lệnh thể hiện tính chất của ánh sáng}{P6}{section.B.6}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {B.7}ví dụ 7 - câu lệnh vẽ Màng ion}{P6}{section.B.7}%

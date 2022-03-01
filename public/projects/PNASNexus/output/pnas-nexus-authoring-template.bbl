@@ -1,0 +1,90 @@
+\begin{thebibliography}{10}
+
+\bibitem{bahdanau2014neural}
+Dzmitry Bahdanau, Kyunghyun Cho, and Yoshua Bengio.
+\newblock Neural machine translation by jointly learning to align and
+  translate.
+\newblock {\em arXiv preprint arXiv:1409.0473}, 2014.
+
+\bibitem{horvath2018dna}
+Steve Horvath and Kenneth Raj.
+\newblock Dna methylation-based biomarkers and the epigenetic clock theory of
+  ageing.
+\newblock {\em Nature Reviews Genetics}, 19(6):371, 2018.
+
+\bibitem{imboden2018cardiorespiratory}
+Mary~T Imboden, Matthew~P Harber, Mitchell~H Whaley, W~Holmes Finch, Derron~L
+  Bishop, and Leonard~A Kaminsky.
+\newblock Cardiorespiratory fitness and mortality in healthy men and women.
+\newblock {\em Journal of the American College of Cardiology},
+  72(19):2283--2292, 2018.
+
+\bibitem{ji20123d}
+Shuiwang Ji, Wei Xu, Ming Yang, and Kai Yu.
+\newblock 3d convolutional neural networks for human action recognition.
+\newblock {\em IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  35(1):221--231, 2012.
+
+\bibitem{krizhevsky2012imagenet}
+Alex Krizhevsky, Ilya Sutskever, and Geoffrey~E Hinton.
+\newblock Imagenet classification with deep convolutional neural networks.
+\newblock In {\em Advances in Neural Information Processing Systems}, pages
+  1097--1105, 2012.
+
+\bibitem{lecun2015deep}
+Yann LeCun, Yoshua Bengio, and Geoffrey Hinton.
+\newblock Deep learning.
+\newblock {\em Nature}, 521(7553):436, 2015.
+
+\bibitem{motiian2017unified}
+Saeid Motiian, Marco Piccirilli, Donald~A Adjeroh, and Gianfranco Doretto.
+\newblock Unified deep supervised domain adaptation and generalization.
+\newblock In {\em Proceedings of the IEEE International Conference on Computer
+  Vision}, pages 5715--5725, 2017.
+
+\bibitem{murphy2012machine}
+Kevin~P Murphy.
+\newblock {\em Machine learning: A probabilistic perspective}.
+\newblock MIT press, 2012.
+
+\bibitem{american2013acsm}
+American~College of~Sports~Medicine et~al.
+\newblock {\em ACSM's guidelines for exercise testing and prescription}.
+\newblock Lippincott Williams \& Wilkins, 2013.
+
+\bibitem{pyrkov2018quantitative}
+Timothy~V Pyrkov, Evgeny Getmantsev, Boris Zhurov, Konstantin Avchaciov,
+  Mikhail Pyatnitskiy, Leonid Menshikov, Kristina Khodova, Andrei~V Gudkov, and
+  Peter~O Fedichev.
+\newblock Quantitative characterization of biological age and frailty based on
+  locomotor activity records.
+\newblock {\em Aging (Albany NY)}, 10(10):2973, 2018.
+
+\bibitem{rahman2019centroidb}
+Syed~Ashiqur Rahman and Donald Adjeroh.
+\newblock Centroid of age neighborhoods: A generalized approach to estimate
+  biological age.
+\newblock In {\em 2019 IEEE EMBS International Conference on Biomedical \&
+  Health Informatics (BHI)}, pages 1--4. IEEE, 2019.
+
+\bibitem{ravi2016deep}
+Daniele Rav{\`\i}, Charence Wong, Fani Deligianni, Melissa Berthelot, Javier
+  Andreu-Perez, Benny Lo, and Guang-Zhong Yang.
+\newblock Deep learning for health informatics.
+\newblock {\em IEEE {J}ournal of {B}iomedical and {H}ealth {I}nformatics},
+  21(1):4--21, 2016.
+
+\bibitem{wang2018face}
+Zongwei Wang, Xu~Tang, Weixin Luo, and Shenghua Gao.
+\newblock Face aging with identity-preserved conditional generative adversarial
+  networks.
+\newblock In {\em Proceedings of the IEEE Conference on Computer Vision and
+  Pattern Recognition}, pages 7939--7947, 2018.
+
+\bibitem{zhang2018fine}
+Ke~Zhang, Na~Liu, Xingfang Yuan, Xinyao Guo, Ce~Gao, and Zhenbing Zhao.
+\newblock Fine-grained age estimation in the wild with attention {LSTM}
+  networks.
+\newblock {\em arXiv preprint arXiv:1805.10445}, 2018.
+
+\end{thebibliography}

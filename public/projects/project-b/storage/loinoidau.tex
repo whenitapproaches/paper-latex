@@ -1,0 +1,81 @@
+\chapter*{MỞ ĐẦU}
+
+%\thispagestyle{empty}
+%\markboth{{\it Lời nói đầu}}{{\it Lời nói đầu}}
+
+\addcontentsline{toc}{section}{{\bf  MỞ ĐẦU}\rm}
+
+\vspace*{-0.2cm}
+\textit{\textbf{Tính cấp thiết của đề tài nghiên cứu:}}
+
+%\cite{S8550}; \cite{S2280}
+
+%\textbf{\textsc{bold small caps}} \textbf{This is bold} and \textsc{this is small caps} and \textsc{\textbf{this is bold small caps.}}
+Trong những năm gần đây, các điều kiện về cơ sở hạ tầng và cơ sở pháp lý cho chính phủ điện tử và thương mại điện tử ở Việt Nam đã chín muồi. Cụ thể là theo sách trắng Công nghệ thông tin năm 2014, đến nay Việt Nam đã có gần 33.2 triệu người sử dụng Internet, băng thông Internet quốc tế đã đạt 640 Gbps. Luật giao dịch điện tử đã có hiệu lực từ năm 2005, theo đó, các giao dịch điện tử hoàn toàn có tính pháp lý như những giao dịch thực hiện bằng các văn bản giấy cùng với chữ ký và con dấu truyền thống. Có thể nói, chính phủ điện tử và thương mại điện tử chỉ có thể phát triển được khi và chỉ khi hệ thống chữ ký số, chứng thư số được áp dụng đồng bộ. Bởi vì chính chữ ký số mới có thể bảo đảm tính pháp lý của các giao dịch điện tử.
+
+Về hành lang pháp lý, liên quan đến chữ ký số, chứng thư số, Việt Nam đã có 04 văn bản luật, 10 nghị định, 12 thông tư và 7 quyết định. Sau khi Trung tâm Chứng thực chữ ký số Quốc gia (Root CA) được thành lập vào năm 2008, đến năm 2016 đã có 09 công ty (VDC, Viettel, FPT, Nacencomm, BKAV\ldots) cung cấp chứng thực chữ ký số cho các tổ chức và cá nhân, và có thể cung cấp một số dịch vụ chữ ký số như kê khai thuế qua mạng, hải quan điện tử, ký email, hóa đơn, hợp đồng, đấu thầu điện tử. Tuy nhiên, hiện nay các doanh nghiệp mới chỉ cung cấp các dịch vụ cho chữ ký đơn, khi mỗi người ký số chỉ ký vào một văn bản duy nhất. Mặc dù các điều kiện cơ bản về hạ tầng kỹ thuật và hạ tầng pháp lý đã hội tụ, song chính phủ điện tử và thương mại điện tử ở Việt Nam vẫn chưa phát triển được như mong đợi, một phần là bởi vì các ứng dụng về chứng thư số và chữ ký số vẫn còn chưa được triển khai rộng rãi, các nghiên cứu lý thuyết và thực tiễn áp dụng chữ ký số vẫn còn ở mức rất khiêm tốn.
+
+Chữ ký số tập thể có nhiều ứng dụng trong thực tiễn, ví dụ dùng để kiểm tra đồng loạt nhóm chữ ký số theo lô, xác thực đa yếu tố, hoặc dùng cho các kênh quảng bá: IP Multi-cast, Peer-to-Peer file sharing, grid computing, mobile adhoc networks\ldots
+
+Từ cơ sở trên chúng ta thấy nghiên cứu chữ ký số nói chung và chữ ký số tập thể nói riêng là rất cần thiết, có ý nghĩa to lớn về mặt học thuật cũng như thực tiễn.
+%\newpage
+
+\textit{\textbf{Mục tiêu nghiên cứu:}}
+
+Mục tiêu của Luận án là nghiên cứu tổng quan về chữ ký số, chữ ký số tập thể; từ đó phát triển mới một số dạng lược đồ cho chữ ký số tập thể, có thể ứng dụng triển khai trong thực tiễn (chữ ký số tập thể đa thành phần, kết hợp giữa chữ ký số tập thể đa thành phần với chữ ký số mù và với chữ ký số ủy nhiệm\ldots). Chứng minh bằng toán học các lược đồ chữ ký số sẽ xây dựng có tính đúng đắn và độ an toàn đáp ứng được các yêu cầu triển khai thực tiễn.
+
+\textit{\textbf{Nội dung nghiên cứu:}}
+\begin{itemize}
+	\item Nghiên cứu đề xuất mô hình chữ ký số tập thể đa thành phần.
+	\item Đề xuất lược đồ ký tập thể dựa trên hệ mật đường cong elliptic, cặp song tuyến tính, hệ mật dựa trên bài toán logarithm rời rạc.
+	\item Nghiên cứu, đề xuất mô hình kết hợp giữa chữ ký số tập thể đa thành phần với chữ ký số ủy nhiệm.
+	\item Nghiên cứu, đề xuất mô hình kết hợp giữa chữ ký số tập thể đa thành phần với chữ ký số mù.
+\end{itemize}
+
+\textit{\textbf{Đối tượng và phạm vi nghiên cứu:}}
+
+Đối tượng nghiên cứu là lược đồ chữ ký số tập thể, kết hợp với chữ ký số ủy nhiệm, chữ ký số mù trong một số hệ mật mã thông dụng: ElGamal (logarithm rời rạc), elliptic, hệ mật định danh (ID-Based), song tuyến tính.
+
+
+\textit{\textbf{Phương pháp nghiên cứu:}}
+
+Tham khảo các công trình, bài báo và sách, tài liệu chuyên ngành về lĩnh vực chữ ký số tập thể từ đó đề xuất mô hình mới giải quyết vấn đề còn tồn tại. Sử dụng các lý thuyết về các hệ mật phổ biến để xây dựng các giao thức và lược đồ chữ ký số cho các hệ mật này chứng minh cho mô hình mới phát triển. Sử dụng lý thuyết về độ phức tạp thuật toán để đánh giá độ an toàn và hiệu năng của lược đồ chữ ký số tập thể. Cài đặt thử nghiệm bằng phần mềm và triển khai trên Chip FPGA (Field-Programmable Gate Array), áp dụng vào thực tiễn triễn khai đề tài cấp Nhà nước.
+
+\textit{\textbf{Ý nghĩa khoa học và thực tiễn của luận án:}}
+
+Về mặt lý thuyết, Luận án đã đưa mô hình chữ ký tập thể mới là mô hình tổng quát của nhiều lớp chữ ký số tồn tại trước đây, trên cơ sở mô hình mới này sẽ mở ra hàng loạt hướng nghiên cứu mới kết hợp giữa chữ ký số tập thể đa thành phần với các mô hình chữ ký số khác như chữ ký số mù, chữ ký số ủy nhiệm, chữ ký số ngưỡng, chữ ký số vòng, chữ ký số cấu trúc, đồng thời cũng mở ra nghiên cứu triển khai mô hình này cho các hệ mật khác nhau như hệ mật đường cong elliptic, hệ mật định danh, hệ mật dựa trên nhóm Braid, hệ mật dựa trên nhóm dàn (lattice).
+
+Về mặt thực tiễn, mô hình chữ ký số tập thể đa thành phần do có độ dài chữ ký số không phụ thuộc vào số người ký và số văn bản được phân tách thành các thành phần, vì thế khi số lượng người ký tăng lên thì không gian lưu trữ chữ ký số không bị tăng tuyến tính với số lượng người ký và như vậy sẽ tiết kiệm được rất nhiều không gian lưu trữ và băng thông chuyển tải chữ ký số trên đường truyền. Bên cạnh đó do mô hình chữ ký số tập thể đa thành phần cho phép ký một lần cho tất cả các thành viên và với tất cả các thành phần của văn bản trong một lần nên sẽ tiết kiệm được thời gian tính toán và tài nguyên tính toán để hình thành chữ ký số và xác thực chữ ký số do thời gian và tài nguyên tính toán không bị tăng tuyến tính theo số lượng người ký và số thành phần của văn bản. Chữ ký số tập thể đa thành phần cũng đáp ứng tốt thực tiễn hơn các lược đồ tộn tại, do cho phép số người ký và số phần của văn bản khác nhau.
+
+
+\textit{\textbf{Bố cục của luận án:}}
+
+Ngoài phần mở đầu và phần kết luận, kiến nghị, Luận án được chia thành 3 chương với bố cục như sau:
+
+%\textbf{Chương \ref{chtongquan}}: \textit{\textsc {Tổng quan về vấn đề nghiên cứu}}.
+%
+%Chương này tập trung vào trình bày tóm tắt tình hình nghiên cứu về chữ ký số, chữ ký số tập thể, chữ ký số tập thể ủy nhiệm, chữ ký số tập thể mù. 
+
+
+\textbf{Chương \ref{chtongquan}}: \textsc{Tổng quan về chữ ký số và chữ ký tập thể}.
+
+Chương  \ref{chtongquan} trình bày tình hình nghiên cứu tổng quan về chữ ký số, chữ ký số tập thể, chữ ký số tập thể ủy nhiệm, chữ ký số tập thể mù. Chương này cũng trình bày một số khái niệm và định nghĩa cơ bản về chữ ký số, các loại hình tấn công và phá vỡ lược đồ chữ ký số. Tiếp theo,  chương \ref{chtongquan} đưa ra định nghĩa chữ ký số tập thể và phân loại chữ ký số tập thể.
+
+\textbf{Chương \ref{chchukytapthedathanhphan}}: \textsc{Chữ ký số tập thể đa thành phần}.
+
+Chương này trình bày về kết quả nghiên cứu mới của Luận án đó là mô hình ký số tập thể mới: chữ ký số tập thể đa thành phần. Mô hình mới này cho phép đáp ứng tốt hơn, linh hoạt hơn so với các mô hình ký tập thể hiện có. Mô hình này cũng là mô hình khái quát hóa một số các mô hình trước đây.
+
+Trong chương \ref{chchukytapthedathanhphan}, Luận án cũng định nghĩa chặt chẽ (formal) chữ ký số tập thể đa thành phần, các khả năng tấn công vào mô hình mới.
+
+Sau khi đề xuất định nghĩa tổng quát về chữ ký số tập thể đa thành phần, chương \ref{chchukytapthedathanhphan} trình bày đề xuất cụ thể 03 lược đồ theo mô hình chữ ký tập thể mới đó là:
+\begin{itemize}
+	\item Đề xuất chữ ký số tập thể đa thành phần dựa trên đường cong elliptic.
+	\item Đề xuất chữ ký số tập thể đa thành phần dựa trên bài toán logarithm rời rạc.
+	\item Đề xuất chữ ký số tập thể đa thành phần dựa trên cặp song tuyến tính.
+\end{itemize}
+
+\textbf{Chương \ref{chuchukykethop}}: \textsc{Kết hợp chữ ký số tập thể đa thành phần với các mô hình ký khác}.
+
+Chương \ref{chuchukykethop} trình bày kết quả nghiên cứu mới về việc kết hợp chữ ký số tập thể đa thành phần với chữ ký số ủy nhiệm, bao gồm định nghĩa chặt chẽ về mô hình chữ ký số mới này và đề xuất một lược đồ cụ thể chữ ký số tập thể ủy nhiệm dựa trên hệ mật định danh.
+
+Tiếp theo, chương này trình bày kết quả nghiên cứu mới về việc kết hợp chữ ký số tập thể đa thành phần với chữ ký số mù (có nhiều ứng dụng trong tiền ảo và bầu cử điện tử), bao gồm định nghĩa chặt chẽ về mô hình chữ ký số mới này đồng thời đề xuất một lược đồ cụ thể chữ ký mù dựa trên đường cong elliptic.

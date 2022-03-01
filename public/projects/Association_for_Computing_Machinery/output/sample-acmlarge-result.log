@@ -1,0 +1,947 @@
+Latexmk: applying rule 'xelatex'...
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex)
+ restricted \write18 enabled.
+entering extended mode
+(./sample-acmlarge.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2022-02-21> (./acmart.cls
+Document Class: acmart 2022/02/19 v1.83 Typesetting articles for the Associatio
+n for Computing Machinery
+(/usr/local/texlive/2021/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+(/usr/local/texlive/2021/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/usr/local/texlive/2021/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+(/usr/local/texlive/2021/texmf-dist/tex/generic/xkeyval/keyval.tex))))
+(/usr/local/texlive/2021/texmf-dist/tex/generic/xstring/xstring.sty
+(/usr/local/texlive/2021/texmf-dist/tex/generic/xstring/xstring.tex))
+(/usr/local/texlive/2021/texmf-dist/tex/generic/iftex/iftex.sty)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/amscls/amsart.cls
+Document Class: amsart 2020/05/29 v2.20.6
+(/usr/local/texlive/2021/texmf-dist/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2021/texmf-dist/tex/latex/amsmath/amstext.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/amsmath/amsgen.sty))
+(/usr/local/texlive/2021/texmf-dist/tex/latex/amsmath/amsbsy.sty)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/amsmath/amsopn.sty))
+(/usr/local/texlive/2021/texmf-dist/tex/latex/amsfonts/umsa.fd)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/amsfonts/amsfonts.sty))
+(/usr/local/texlive/2021/texmf-dist/tex/latex/microtype/microtype.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/etoolbox/etoolbox.sty)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/microtype/microtype-xetex.def)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/microtype/microtype.cfg))
+(/usr/local/texlive/2021/texmf-dist/tex/latex/booktabs/booktabs.sty)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/refcount/refcount.sty
+(/usr/local/texlive/2021/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/infwarerr/infwarerr.sty))
+(/usr/local/texlive/2021/texmf-dist/tex/latex/totpages/totpages.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/everyshi/everyshi.sty))
+(/usr/local/texlive/2021/texmf-dist/tex/latex/environ/environ.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/trimspaces/trimspaces.sty))
+(/usr/local/texlive/2021/texmf-dist/tex/latex/textcase/textcase.sty)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/natbib/natbib.sty)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/hyperxmp/hyperxmp.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+(/usr/local/texlive/2021/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty))
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty))
+(/usr/local/texlive/2021/texmf-dist/tex/generic/stringenc/stringenc.sty)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/intcalc/intcalc.sty)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/ifmtarg/ifmtarg.sty)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/base/ifthen.sty)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/oberdiek/ifdraft.sty)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/iftex/ifluatex.sty))
+(/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/hyperref.sty
+(/usr/local/texlive/2021/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/hycolor/hycolor.sty)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/auxhook/auxhook.sty)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/pd1enc.def)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/hyperref-langpatches.def
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/etexcmds/etexcmds.sty)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/puenc.def)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/url/url.sty)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/bitset/bitset.sty
+(/usr/local/texlive/2021/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty))
+(/usr/local/texlive/2021/texmf-dist/tex/latex/base/atbegshi-ltx.sty))
+(/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/hxetex.def
+(/usr/local/texlive/2021/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/base/atveryend-ltx.sty)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+))) (/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/graphicx.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/graphics.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/trig.sty)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics-cfg/graphics.cfg)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics-def/xetex.def)))
+(/usr/local/texlive/2021/texmf-dist/tex/latex/xcolor/xcolor.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics-cfg/color.cfg))
+(/usr/local/texlive/2021/texmf-dist/tex/latex/geometry/geometry.sty
+(/usr/local/texlive/2021/texmf-dist/tex/generic/iftex/ifvtex.sty))
+(/usr/local/texlive/2021/texmf-dist/tex/latex/ncctools/manyfoot.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/ncctools/nccfoots.sty))
+(/usr/local/texlive/2021/texmf-dist/tex/latex/base/fontenc.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/lm/t1lmr.fd))
+(/usr/local/texlive/2021/texmf-dist/tex/latex/newtx/newtxmath.sty
+`newtxmath' v1.7, 2021/12/18 Math macros based originally on txfonts (msharpe)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/iftex/ifxetex.sty)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/oberdiek/centernot.sty)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/kastrup/binhex.tex)
+amsthm NOT loaded
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/libertine/libertine.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/base/textcomp.sty)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/fontspec/fontspec.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/l3kernel/expl3.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
+(|extractbb --version))))
+(/usr/local/texlive/2021/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/base/fontenc.sty)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
+(/usr/local/texlive/2021/texmf-dist/tex/latex/libertine/LinLibertine_R.tex)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/libertine/LinBiolinum_R.tex)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/libertine/LinBiolinum_K.tex)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/libertine/LinLibertine_I.tex)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/libertine/LKey.tex))
+(/usr/local/texlive/2021/texmf-dist/tex/latex/inconsolata/inconsolata.fontspec)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/caption/caption.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/caption/caption3.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/caption/caption-ams-smf.sto)))
+(/usr/local/texlive/2021/texmf-dist/tex/latex/float/float.sty)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/comment/comment.sty
+Excluding comment 'comment') Excluding comment 'CCSXML'
+(/usr/local/texlive/2021/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty)
+Special comment 'acks') Include comment 'screenonly'
+Excluding comment 'printonly' Include comment 'anonsuppress'
+(/Users/nals_macbook_124/Downloads/paper-latex-master/public/projects/Associati
+on_for_Computing_Machinery/output/sample-acmlarge.aux)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/newtx/omlnxlmi.fd)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/base/ts1cmr.fd)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/newtx/untxexa.fd)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/newtx/lmsntxsy.fd)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/newtx/lmxntxexx.fd)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/newtx/ot1minlibertine.fd)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/amsfonts/umsa.fd)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/amsfonts/umsb.fd)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/newtx/untxmia.fd)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/newtx/untxsym.fd)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/newtx/untxsyc.fd)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/nameref.sty
+(/usr/local/texlive/2021/texmf-dist/tex/generic/gettitlestring/gettitlestring.s
+ty))
+
+Package hyperref Warning: Rerun to get /PageLabels entry.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: xetex
+Excluding 'CCSXML' comment.
+(/usr/local/texlive/2021/texmf-dist/tex/latex/microtype/mt-msa.cfg)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/microtype/mt-msb.cfg)
+
+LaTeX Warning: Reference `TotPages' on page 1 undefined on input line 245.
+
+
+Overfull \hbox (3.02414pt too wide) in paragraph at lines 245--245
+\TU/LinLibertine(0)/m/n/9 Ben Trovato, G.K.M. Tobin, Lars Thørväld, Valerie Bér
+anger, Aparna Patel, Huifen Chan, Charles Palmer, John Smith, and Julius
+[1.1] [2.2] [3.3]
+Overfull \hbox (10.58667pt too wide) in paragraph at lines 448--452
+\TU/LinLibertine(0)/m/n/10 Your work should use standard L[]T[]X sectioning com
+mands: [][]\TU/inconsolata(0)/m/n/10 section[]\TU/LinLibertine(0)/m/n/10 , [][]
+\TU/inconsolata(0)/m/n/10 subsection[]\TU/LinLibertine(0)/m/n/10 , [][]\TU/inco
+nsolata(0)/m/n/10 subsubsection[]\TU/LinLibertine(0)/m/n/10 , and [][]\TU/incon
+solata(0)/m/n/10 paragraph[]\TU/LinLibertine(0)/m/n/10 .
+
+LaTeX Warning: Reference `tab:freq' on page 4 undefined on input line 475.
+
+
+LaTeX Warning: Reference `tab:commands' on page 4 undefined on input line 499.
+
+[4.4]
+
+Package natbib Warning: Citation `Lamport:LaTeX' on page 5 undefined on input l
+ine 534.
+
+[5.5] [6.6]
+
+Package natbib Warning: Citation `Abril07' on page 7 undefined on input line 64
+8.
+
+
+Package natbib Warning: Citation `Cohen07' on page 7 undefined on input line 64
+9.
+
+
+Package natbib Warning: Citation `JCohen96' on page 7 undefined on input line 6
+50.
+
+
+Package natbib Warning: Citation `Kosiur01' on page 7 undefined on input line 6
+50.
+
+
+Package natbib Warning: Citation `Harel79' on page 7 undefined on input line 65
+2.
+
+
+Package natbib Warning: Citation `Editor00' on page 7 undefined on input line 6
+53.
+
+
+Package natbib Warning: Citation `Editor00a' on page 7 undefined on input line 
+654.
+
+
+Package natbib Warning: Citation `Spector90' on page 7 undefined on input line 
+656.
+
+
+Package natbib Warning: Citation `Douglass98' on page 7 undefined on input line
+ 657.
+
+
+Package natbib Warning: Citation `Knuth97' on page 7 undefined on input line 65
+8.
+
+
+Package natbib Warning: Citation `Andler79' on page 7 undefined on input line 6
+60.
+
+
+Package natbib Warning: Citation `Hagerup1993' on page 7 undefined on input lin
+e 660.
+
+
+Package natbib Warning: Citation `Smith10' on page 7 undefined on input line 66
+1.
+
+
+Package natbib Warning: Citation `VanGundy07' on page 7 undefined on input line
+ 662.
+
+
+Package natbib Warning: Citation `Harel78' on page 7 undefined on input line 66
+3.
+
+
+Package natbib Warning: Citation `Bornmann2019' on page 7 undefined on input li
+ne 664.
+
+
+Package natbib Warning: Citation `AnzarootPBM14' on page 7 undefined on input l
+ine 664.
+
+
+Package natbib Warning: Citation `Clarkson85' on page 7 undefined on input line
+ 664.
+
+
+Package natbib Warning: Citation `anisi03' on page 7 undefined on input line 66
+5.
+
+
+Package natbib Warning: Citation `Thornburg01' on page 7 undefined on input lin
+e 666.
+
+
+Package natbib Warning: Citation `Ablamowicz07' on page 7 undefined on input li
+ne 666.
+
+
+Package natbib Warning: Citation `Poker06' on page 7 undefined on input line 66
+6.
+
+
+Package natbib Warning: Citation `Obama08' on page 7 undefined on input line 66
+7.
+
+
+Package natbib Warning: Citation `Novak03' on page 7 undefined on input line 66
+7.
+
+
+Package natbib Warning: Citation `Lee05' on page 7 undefined on input line 667.
+
+
+
+Package natbib Warning: Citation `JoeScientist001' on page 7 undefined on input
+ line 668.
+
+
+Package natbib Warning: Citation `rous08' on page 7 undefined on input line 669
+.
+
+
+Package natbib Warning: Citation `SaeediMEJ10' on page 7 undefined on input lin
+e 670.
+
+
+Package natbib Warning: Citation `SaeediJETC10' on page 7 undefined on input li
+ne 670.
+
+
+Package natbib Warning: Citation `Kirschmer:2010:AEI:1958016.1958018' on page 7
+ undefined on input line 672.
+
+
+Package natbib Warning: Citation `MR781536' on page 7 undefined on input line 6
+73.
+
+
+Package natbib Warning: Citation `MR781537' on page 7 undefined on input line 6
+73.
+
+
+Package natbib Warning: Citation `2004:ITE:1009386.1010128' on page 7 undefined
+ on input line 675.
+
+
+Package natbib Warning: Citation `Kirschmer:2010:AEI:1958016.1958018' on page 7
+ undefined on input line 675.
+
+
+Package natbib Warning: Citation `TUGInstmem' on page 7 undefined on input line
+ 676.
+
+
+Package natbib Warning: Citation `Thornburg01' on page 7 undefined on input lin
+e 676.
+
+
+Package natbib Warning: Citation `CTANacmart' on page 7 undefined on input line
+ 676.
+
+
+Package natbib Warning: Citation `R' on page 7 undefined on input line 677.
+
+
+Package natbib Warning: Citation `UMassCitations' on page 7 undefined on input 
+line 677.
+
+[7.7]
+Overfull \hbox (1.07922pt too wide) in paragraph at lines 728--736
+\TU/LinLibertine(0)/m/n/10 ronment have a mandatory first argument: the languag
+e of the second argument. See [][]\TU/inconsolata(0)/m/n/10 sample-sigconf-i13n
+.tex
+[8.8] Processing 'acks' comment. Comment 'acks' writing to comment.cut.
+Straight input of comment.cut.
+(/Users/nals_macbook_124/Downloads/paper-latex-master/public/projects/Associati
+on_for_Computing_Machinery/output/comment.cut)
+No file sample-acmlarge.bbl.
+
+Package natbib Warning: There were undefined citations.
+
+(/usr/local/texlive/2021/texmf-dist/tex/generic/stringenc/se-pdfdoc.def)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/stringenc/se-utf32be.def)
+[9.9]
+(/Users/nals_macbook_124/Downloads/paper-latex-master/public/projects/Associati
+on_for_Computing_Machinery/output/sample-acmlarge.aux)
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+
+Package rerunfilecheck Warning: File `sample-acmlarge.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+ )
+(see the transcript file for additional information)
+Output written on /Users/nals_macbook_124/Downloads/paper-latex-master/public/p
+rojects/Association_for_Computing_Machinery/output/sample-acmlarge.xdv (9 pages
+, 270844 bytes).
+Transcript written on /Users/nals_macbook_124/Downloads/paper-latex-master/publ
+ic/projects/Association_for_Computing_Machinery/output/sample-acmlarge.log.
+Latexmk: Examining '/Users/nals_macbook_124/Downloads/paper-latex-master/public/projects/Association_for_Computing_Machinery/output/sample-acmlarge.log'
+=== TeX engine is 'XeTeX'
+Latexmk: applying rule 'bibtex /Users/nals_macbook_124/Downloads/paper-latex-master/public/projects/Association_for_Computing_Machinery/output/sample-acmlarge'...
+Latexmk: Change directory to '/Users/nals_macbook_124/Downloads/paper-latex-master/public/projects/Association_for_Computing_Machinery/output/'.
+To assist finding of files in document
+directory, I set
+  BIBINPUTS='/Users/nals_macbook_124/Downloads/paper-latex-master/public/projects/Association_for_Computing_Machinery/storage:/Users/nals_macbook_124/Downloads/paper-latex-master/public/projects/Association_for_Computing_Machinery/output:'
+  BSTINPUTS='/Users/nals_macbook_124/Downloads/paper-latex-master/public/projects/Association_for_Computing_Machinery/storage:'.
+This is BibTeX, Version 0.99d (TeX Live 2021)
+The top-level auxiliary file: sample-acmlarge.aux
+The style file: ACM-Reference-Format.bst
+Database file #1: sample-base.bib
+Warning--entry type for "Bornmann2019" isn't style-file defined
+--line 1604 of file sample-base.bib
+Warning--entry type for "AnzarootPBM14" isn't style-file defined
+--line 1621 of file sample-base.bib
+Warning--empty organization in Ablamowicz07
+Warning--empty organization in UMassCitations
+Warning--empty chapter and pages in Editor00
+Warning--page numbers missing in Editor00a
+Warning--empty author in 2004:ITE:1009386.1010128
+Warning--empty address in Knuth97
+Warning--articleno or eid field, but no numpages field, in Lee05
+Warning--page numbers missing in both pages and numpages fields in Lee05
+Warning--articleno or eid, but no pages or numpages field in Lee05
+Warning--unrecognized DOI value [99.9999/woot07-S422]
+Warning--articleno or eid field, but no numpages field, in rous08
+Warning--page numbers missing in both pages and numpages fields in rous08
+Warning--articleno or eid, but no pages or numpages field in rous08
+Warning--page numbers missing in both pages and numpages fields in SaeediJETC10
+Warning--unrecognized DOI value [99.9999/woot07-S422]
+Warning--empty organization in Thornburg01
+Warning--empty organization in TUGInstmem
+Warning--empty organization in TUGInstmem
+Warning--empty organization in CTANacmart
+(There were 21 warnings)
+Latexmk: Change directory back to '/Users/nals_macbook_124/Downloads/paper-latex-master/public/projects/Association_for_Computing_Machinery/storage'
+Latexmk: applying rule 'xelatex'...
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex)
+ restricted \write18 enabled.
+entering extended mode
+(./sample-acmlarge.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2022-02-21> (./acmart.cls
+Document Class: acmart 2022/02/19 v1.83 Typesetting articles for the Associatio
+n for Computing Machinery
+(/usr/local/texlive/2021/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+(/usr/local/texlive/2021/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/usr/local/texlive/2021/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+(/usr/local/texlive/2021/texmf-dist/tex/generic/xkeyval/keyval.tex))))
+(/usr/local/texlive/2021/texmf-dist/tex/generic/xstring/xstring.sty
+(/usr/local/texlive/2021/texmf-dist/tex/generic/xstring/xstring.tex))
+(/usr/local/texlive/2021/texmf-dist/tex/generic/iftex/iftex.sty)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/amscls/amsart.cls
+Document Class: amsart 2020/05/29 v2.20.6
+(/usr/local/texlive/2021/texmf-dist/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2021/texmf-dist/tex/latex/amsmath/amstext.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/amsmath/amsgen.sty))
+(/usr/local/texlive/2021/texmf-dist/tex/latex/amsmath/amsbsy.sty)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/amsmath/amsopn.sty))
+(/usr/local/texlive/2021/texmf-dist/tex/latex/amsfonts/umsa.fd)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/amsfonts/amsfonts.sty))
+(/usr/local/texlive/2021/texmf-dist/tex/latex/microtype/microtype.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/etoolbox/etoolbox.sty)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/microtype/microtype-xetex.def)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/microtype/microtype.cfg))
+(/usr/local/texlive/2021/texmf-dist/tex/latex/booktabs/booktabs.sty)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/refcount/refcount.sty
+(/usr/local/texlive/2021/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/infwarerr/infwarerr.sty))
+(/usr/local/texlive/2021/texmf-dist/tex/latex/totpages/totpages.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/everyshi/everyshi.sty))
+(/usr/local/texlive/2021/texmf-dist/tex/latex/environ/environ.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/trimspaces/trimspaces.sty))
+(/usr/local/texlive/2021/texmf-dist/tex/latex/textcase/textcase.sty)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/natbib/natbib.sty)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/hyperxmp/hyperxmp.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+(/usr/local/texlive/2021/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty))
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty))
+(/usr/local/texlive/2021/texmf-dist/tex/generic/stringenc/stringenc.sty)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/intcalc/intcalc.sty)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/ifmtarg/ifmtarg.sty)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/base/ifthen.sty)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/oberdiek/ifdraft.sty)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/iftex/ifluatex.sty))
+(/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/hyperref.sty
+(/usr/local/texlive/2021/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/hycolor/hycolor.sty)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/auxhook/auxhook.sty)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/pd1enc.def)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/hyperref-langpatches.def
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/etexcmds/etexcmds.sty)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/puenc.def)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/url/url.sty)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/bitset/bitset.sty
+(/usr/local/texlive/2021/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty))
+(/usr/local/texlive/2021/texmf-dist/tex/latex/base/atbegshi-ltx.sty))
+(/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/hxetex.def
+(/usr/local/texlive/2021/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/base/atveryend-ltx.sty)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+))) (/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/graphicx.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/graphics.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/trig.sty)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics-cfg/graphics.cfg)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics-def/xetex.def)))
+(/usr/local/texlive/2021/texmf-dist/tex/latex/xcolor/xcolor.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics-cfg/color.cfg))
+(/usr/local/texlive/2021/texmf-dist/tex/latex/geometry/geometry.sty
+(/usr/local/texlive/2021/texmf-dist/tex/generic/iftex/ifvtex.sty))
+(/usr/local/texlive/2021/texmf-dist/tex/latex/ncctools/manyfoot.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/ncctools/nccfoots.sty))
+(/usr/local/texlive/2021/texmf-dist/tex/latex/base/fontenc.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/lm/t1lmr.fd))
+(/usr/local/texlive/2021/texmf-dist/tex/latex/newtx/newtxmath.sty
+`newtxmath' v1.7, 2021/12/18 Math macros based originally on txfonts (msharpe)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/iftex/ifxetex.sty)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/oberdiek/centernot.sty)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/kastrup/binhex.tex)
+amsthm NOT loaded
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/libertine/libertine.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/base/textcomp.sty)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/fontspec/fontspec.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/l3kernel/expl3.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
+(|extractbb --version))))
+(/usr/local/texlive/2021/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/base/fontenc.sty)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
+(/usr/local/texlive/2021/texmf-dist/tex/latex/libertine/LinLibertine_R.tex)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/libertine/LinBiolinum_R.tex)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/libertine/LinBiolinum_K.tex)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/libertine/LinLibertine_I.tex)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/libertine/LKey.tex))
+(/usr/local/texlive/2021/texmf-dist/tex/latex/inconsolata/inconsolata.fontspec)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/caption/caption.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/caption/caption3.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/caption/caption-ams-smf.sto)))
+(/usr/local/texlive/2021/texmf-dist/tex/latex/float/float.sty)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/comment/comment.sty
+Excluding comment 'comment') Excluding comment 'CCSXML'
+(/usr/local/texlive/2021/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty)
+Special comment 'acks') Include comment 'screenonly'
+Excluding comment 'printonly' Include comment 'anonsuppress'
+(/Users/nals_macbook_124/Downloads/paper-latex-master/public/projects/Associati
+on_for_Computing_Machinery/output/sample-acmlarge.aux)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/newtx/omlnxlmi.fd)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/base/ts1cmr.fd)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/newtx/untxexa.fd)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/newtx/lmsntxsy.fd)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/newtx/lmxntxexx.fd)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/newtx/ot1minlibertine.fd)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/amsfonts/umsa.fd)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/amsfonts/umsb.fd)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/newtx/untxmia.fd)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/newtx/untxsym.fd)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/newtx/untxsyc.fd)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/nameref.sty
+(/usr/local/texlive/2021/texmf-dist/tex/generic/gettitlestring/gettitlestring.s
+ty))
+(/Users/nals_macbook_124/Downloads/paper-latex-master/public/projects/Associati
+on_for_Computing_Machinery/output/sample-acmlarge.out)
+(/Users/nals_macbook_124/Downloads/paper-latex-master/public/projects/Associati
+on_for_Computing_Machinery/output/sample-acmlarge.out)
+*geometry* driver: auto-detecting
+*geometry* detected driver: xetex
+Excluding 'CCSXML' comment.
+(/usr/local/texlive/2021/texmf-dist/tex/latex/microtype/mt-msa.cfg)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/microtype/mt-msb.cfg)
+Overfull \hbox (3.02414pt too wide) in paragraph at lines 245--245
+\TU/LinLibertine(0)/m/n/9 Ben Trovato, G.K.M. Tobin, Lars Thørväld, Valerie Bér
+anger, Aparna Patel, Huifen Chan, Charles Palmer, John Smith, and Julius
+[1.1] [2.2] [3.3]
+Overfull \hbox (10.58667pt too wide) in paragraph at lines 448--452
+\TU/LinLibertine(0)/m/n/10 Your work should use standard L[]T[]X sectioning com
+mands: [][]\TU/inconsolata(0)/m/n/10 section[]\TU/LinLibertine(0)/m/n/10 , [][]
+\TU/inconsolata(0)/m/n/10 subsection[]\TU/LinLibertine(0)/m/n/10 , [][]\TU/inco
+nsolata(0)/m/n/10 subsubsection[]\TU/LinLibertine(0)/m/n/10 , and [][]\TU/incon
+solata(0)/m/n/10 paragraph[]\TU/LinLibertine(0)/m/n/10 .
+[4.4]
+
+Package natbib Warning: Citation `Lamport:LaTeX' on page 5 undefined on input l
+ine 534.
+
+[5.5] [6.6]
+
+Package natbib Warning: Citation `Abril07' on page 7 undefined on input line 64
+8.
+
+
+Package natbib Warning: Citation `Cohen07' on page 7 undefined on input line 64
+9.
+
+
+Package natbib Warning: Citation `JCohen96' on page 7 undefined on input line 6
+50.
+
+
+Package natbib Warning: Citation `Kosiur01' on page 7 undefined on input line 6
+50.
+
+
+Package natbib Warning: Citation `Harel79' on page 7 undefined on input line 65
+2.
+
+
+Package natbib Warning: Citation `Editor00' on page 7 undefined on input line 6
+53.
+
+
+Package natbib Warning: Citation `Editor00a' on page 7 undefined on input line 
+654.
+
+
+Package natbib Warning: Citation `Spector90' on page 7 undefined on input line 
+656.
+
+
+Package natbib Warning: Citation `Douglass98' on page 7 undefined on input line
+ 657.
+
+
+Package natbib Warning: Citation `Knuth97' on page 7 undefined on input line 65
+8.
+
+
+Package natbib Warning: Citation `Andler79' on page 7 undefined on input line 6
+60.
+
+
+Package natbib Warning: Citation `Hagerup1993' on page 7 undefined on input lin
+e 660.
+
+
+Package natbib Warning: Citation `Smith10' on page 7 undefined on input line 66
+1.
+
+
+Package natbib Warning: Citation `VanGundy07' on page 7 undefined on input line
+ 662.
+
+
+Package natbib Warning: Citation `Harel78' on page 7 undefined on input line 66
+3.
+
+
+Package natbib Warning: Citation `Bornmann2019' on page 7 undefined on input li
+ne 664.
+
+
+Package natbib Warning: Citation `AnzarootPBM14' on page 7 undefined on input l
+ine 664.
+
+
+Package natbib Warning: Citation `Clarkson85' on page 7 undefined on input line
+ 664.
+
+
+Package natbib Warning: Citation `anisi03' on page 7 undefined on input line 66
+5.
+
+
+Package natbib Warning: Citation `Thornburg01' on page 7 undefined on input lin
+e 666.
+
+
+Package natbib Warning: Citation `Ablamowicz07' on page 7 undefined on input li
+ne 666.
+
+
+Package natbib Warning: Citation `Poker06' on page 7 undefined on input line 66
+6.
+
+
+Package natbib Warning: Citation `Obama08' on page 7 undefined on input line 66
+7.
+
+
+Package natbib Warning: Citation `Novak03' on page 7 undefined on input line 66
+7.
+
+
+Package natbib Warning: Citation `Lee05' on page 7 undefined on input line 667.
+
+
+
+Package natbib Warning: Citation `JoeScientist001' on page 7 undefined on input
+ line 668.
+
+
+Package natbib Warning: Citation `rous08' on page 7 undefined on input line 669
+.
+
+
+Package natbib Warning: Citation `SaeediMEJ10' on page 7 undefined on input lin
+e 670.
+
+
+Package natbib Warning: Citation `SaeediJETC10' on page 7 undefined on input li
+ne 670.
+
+
+Package natbib Warning: Citation `Kirschmer:2010:AEI:1958016.1958018' on page 7
+ undefined on input line 672.
+
+
+Package natbib Warning: Citation `MR781536' on page 7 undefined on input line 6
+73.
+
+
+Package natbib Warning: Citation `MR781537' on page 7 undefined on input line 6
+73.
+
+
+Package natbib Warning: Citation `2004:ITE:1009386.1010128' on page 7 undefined
+ on input line 675.
+
+
+Package natbib Warning: Citation `Kirschmer:2010:AEI:1958016.1958018' on page 7
+ undefined on input line 675.
+
+
+Package natbib Warning: Citation `TUGInstmem' on page 7 undefined on input line
+ 676.
+
+
+Package natbib Warning: Citation `Thornburg01' on page 7 undefined on input lin
+e 676.
+
+
+Package natbib Warning: Citation `CTANacmart' on page 7 undefined on input line
+ 676.
+
+
+Package natbib Warning: Citation `R' on page 7 undefined on input line 677.
+
+
+Package natbib Warning: Citation `UMassCitations' on page 7 undefined on input 
+line 677.
+
+[7.7]
+Overfull \hbox (1.07922pt too wide) in paragraph at lines 728--736
+\TU/LinLibertine(0)/m/n/10 ronment have a mandatory first argument: the languag
+e of the second argument. See [][]\TU/inconsolata(0)/m/n/10 sample-sigconf-i13n
+.tex
+[8.8] Processing 'acks' comment. Comment 'acks' writing to comment.cut.
+Straight input of comment.cut.
+(/Users/nals_macbook_124/Downloads/paper-latex-master/public/projects/Associati
+on_for_Computing_Machinery/output/comment.cut)
+(/Users/nals_macbook_124/Downloads/paper-latex-master/public/projects/Associati
+on_for_Computing_Machinery/output/sample-acmlarge.bbl [9.9])
+
+Package natbib Warning: There were undefined citations.
+
+(/usr/local/texlive/2021/texmf-dist/tex/generic/stringenc/se-pdfdoc.def)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/stringenc/se-utf32be.def)
+[10.10]
+(/Users/nals_macbook_124/Downloads/paper-latex-master/public/projects/Associati
+on_for_Computing_Machinery/output/sample-acmlarge.aux
+
+Package natbib Warning: Citation(s) may have changed.
+(natbib)                Rerun to get citations correct.
+
+)
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+
+Package rerunfilecheck Warning: File `sample-acmlarge.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+ )
+(see the transcript file for additional information)
+Output written on /Users/nals_macbook_124/Downloads/paper-latex-master/public/p
+rojects/Association_for_Computing_Machinery/output/sample-acmlarge.xdv (10 page
+s, 362828 bytes).
+Transcript written on /Users/nals_macbook_124/Downloads/paper-latex-master/publ
+ic/projects/Association_for_Computing_Machinery/output/sample-acmlarge.log.
+Latexmk: Examining '/Users/nals_macbook_124/Downloads/paper-latex-master/public/projects/Association_for_Computing_Machinery/output/sample-acmlarge.log'
+=== TeX engine is 'XeTeX'
+Latexmk: applying rule 'bibtex /Users/nals_macbook_124/Downloads/paper-latex-master/public/projects/Association_for_Computing_Machinery/output/sample-acmlarge'...
+Latexmk: Change directory to '/Users/nals_macbook_124/Downloads/paper-latex-master/public/projects/Association_for_Computing_Machinery/output/'.
+To assist finding of files in document
+directory, I set
+  BIBINPUTS='/Users/nals_macbook_124/Downloads/paper-latex-master/public/projects/Association_for_Computing_Machinery/storage:/Users/nals_macbook_124/Downloads/paper-latex-master/public/projects/Association_for_Computing_Machinery/output:'
+  BSTINPUTS='/Users/nals_macbook_124/Downloads/paper-latex-master/public/projects/Association_for_Computing_Machinery/storage:'.
+This is BibTeX, Version 0.99d (TeX Live 2021)
+The top-level auxiliary file: sample-acmlarge.aux
+The style file: ACM-Reference-Format.bst
+Database file #1: sample-base.bib
+Warning--entry type for "Bornmann2019" isn't style-file defined
+--line 1604 of file sample-base.bib
+Warning--entry type for "AnzarootPBM14" isn't style-file defined
+--line 1621 of file sample-base.bib
+Warning--empty organization in Ablamowicz07
+Warning--empty organization in UMassCitations
+Warning--empty chapter and pages in Editor00
+Warning--page numbers missing in Editor00a
+Warning--empty author in 2004:ITE:1009386.1010128
+Warning--empty address in Knuth97
+Warning--articleno or eid field, but no numpages field, in Lee05
+Warning--page numbers missing in both pages and numpages fields in Lee05
+Warning--articleno or eid, but no pages or numpages field in Lee05
+Warning--unrecognized DOI value [99.9999/woot07-S422]
+Warning--articleno or eid field, but no numpages field, in rous08
+Warning--page numbers missing in both pages and numpages fields in rous08
+Warning--articleno or eid, but no pages or numpages field in rous08
+Warning--page numbers missing in both pages and numpages fields in SaeediJETC10
+Warning--unrecognized DOI value [99.9999/woot07-S422]
+Warning--empty organization in Thornburg01
+Warning--empty organization in TUGInstmem
+Warning--empty organization in TUGInstmem
+Warning--empty organization in CTANacmart
+(There were 21 warnings)
+Latexmk: Change directory back to '/Users/nals_macbook_124/Downloads/paper-latex-master/public/projects/Association_for_Computing_Machinery/storage'
+Latexmk: applying rule 'xelatex'...
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex)
+ restricted \write18 enabled.
+entering extended mode
+(./sample-acmlarge.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2022-02-21> (./acmart.cls
+Document Class: acmart 2022/02/19 v1.83 Typesetting articles for the Associatio
+n for Computing Machinery
+(/usr/local/texlive/2021/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+(/usr/local/texlive/2021/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/usr/local/texlive/2021/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+(/usr/local/texlive/2021/texmf-dist/tex/generic/xkeyval/keyval.tex))))
+(/usr/local/texlive/2021/texmf-dist/tex/generic/xstring/xstring.sty
+(/usr/local/texlive/2021/texmf-dist/tex/generic/xstring/xstring.tex))
+(/usr/local/texlive/2021/texmf-dist/tex/generic/iftex/iftex.sty)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/amscls/amsart.cls
+Document Class: amsart 2020/05/29 v2.20.6
+(/usr/local/texlive/2021/texmf-dist/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2021/texmf-dist/tex/latex/amsmath/amstext.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/amsmath/amsgen.sty))
+(/usr/local/texlive/2021/texmf-dist/tex/latex/amsmath/amsbsy.sty)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/amsmath/amsopn.sty))
+(/usr/local/texlive/2021/texmf-dist/tex/latex/amsfonts/umsa.fd)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/amsfonts/amsfonts.sty))
+(/usr/local/texlive/2021/texmf-dist/tex/latex/microtype/microtype.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/etoolbox/etoolbox.sty)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/microtype/microtype-xetex.def)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/microtype/microtype.cfg))
+(/usr/local/texlive/2021/texmf-dist/tex/latex/booktabs/booktabs.sty)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/refcount/refcount.sty
+(/usr/local/texlive/2021/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/infwarerr/infwarerr.sty))
+(/usr/local/texlive/2021/texmf-dist/tex/latex/totpages/totpages.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/everyshi/everyshi.sty))
+(/usr/local/texlive/2021/texmf-dist/tex/latex/environ/environ.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/trimspaces/trimspaces.sty))
+(/usr/local/texlive/2021/texmf-dist/tex/latex/textcase/textcase.sty)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/natbib/natbib.sty)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/hyperxmp/hyperxmp.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+(/usr/local/texlive/2021/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty))
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty))
+(/usr/local/texlive/2021/texmf-dist/tex/generic/stringenc/stringenc.sty)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/intcalc/intcalc.sty)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/ifmtarg/ifmtarg.sty)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/base/ifthen.sty)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/oberdiek/ifdraft.sty)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/iftex/ifluatex.sty))
+(/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/hyperref.sty
+(/usr/local/texlive/2021/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/hycolor/hycolor.sty)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/auxhook/auxhook.sty)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/pd1enc.def)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/hyperref-langpatches.def
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/etexcmds/etexcmds.sty)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/puenc.def)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/url/url.sty)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/bitset/bitset.sty
+(/usr/local/texlive/2021/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty))
+(/usr/local/texlive/2021/texmf-dist/tex/latex/base/atbegshi-ltx.sty))
+(/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/hxetex.def
+(/usr/local/texlive/2021/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/base/atveryend-ltx.sty)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+))) (/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/graphicx.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/graphics.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/trig.sty)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics-cfg/graphics.cfg)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics-def/xetex.def)))
+(/usr/local/texlive/2021/texmf-dist/tex/latex/xcolor/xcolor.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics-cfg/color.cfg))
+(/usr/local/texlive/2021/texmf-dist/tex/latex/geometry/geometry.sty
+(/usr/local/texlive/2021/texmf-dist/tex/generic/iftex/ifvtex.sty))
+(/usr/local/texlive/2021/texmf-dist/tex/latex/ncctools/manyfoot.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/ncctools/nccfoots.sty))
+(/usr/local/texlive/2021/texmf-dist/tex/latex/base/fontenc.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/lm/t1lmr.fd))
+(/usr/local/texlive/2021/texmf-dist/tex/latex/newtx/newtxmath.sty
+`newtxmath' v1.7, 2021/12/18 Math macros based originally on txfonts (msharpe)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/iftex/ifxetex.sty)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/oberdiek/centernot.sty)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/kastrup/binhex.tex)
+amsthm NOT loaded
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/libertine/libertine.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/base/textcomp.sty)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/fontspec/fontspec.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/l3kernel/expl3.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
+(|extractbb --version))))
+(/usr/local/texlive/2021/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/base/fontenc.sty)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
+(/usr/local/texlive/2021/texmf-dist/tex/latex/libertine/LinLibertine_R.tex)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/libertine/LinBiolinum_R.tex)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/libertine/LinBiolinum_K.tex)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/libertine/LinLibertine_I.tex)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/libertine/LKey.tex))
+(/usr/local/texlive/2021/texmf-dist/tex/latex/inconsolata/inconsolata.fontspec)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/caption/caption.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/caption/caption3.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/caption/caption-ams-smf.sto)))
+(/usr/local/texlive/2021/texmf-dist/tex/latex/float/float.sty)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/comment/comment.sty
+Excluding comment 'comment') Excluding comment 'CCSXML'
+(/usr/local/texlive/2021/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty)
+Special comment 'acks') Include comment 'screenonly'
+Excluding comment 'printonly' Include comment 'anonsuppress'
+(/Users/nals_macbook_124/Downloads/paper-latex-master/public/projects/Associati
+on_for_Computing_Machinery/output/sample-acmlarge.aux)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/newtx/omlnxlmi.fd)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/base/ts1cmr.fd)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/newtx/untxexa.fd)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/newtx/lmsntxsy.fd)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/newtx/lmxntxexx.fd)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/newtx/ot1minlibertine.fd)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/amsfonts/umsa.fd)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/amsfonts/umsb.fd)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/newtx/untxmia.fd)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/newtx/untxsym.fd)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/newtx/untxsyc.fd)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/nameref.sty
+(/usr/local/texlive/2021/texmf-dist/tex/generic/gettitlestring/gettitlestring.s
+ty))
+(/Users/nals_macbook_124/Downloads/paper-latex-master/public/projects/Associati
+on_for_Computing_Machinery/output/sample-acmlarge.out)
+(/Users/nals_macbook_124/Downloads/paper-latex-master/public/projects/Associati
+on_for_Computing_Machinery/output/sample-acmlarge.out)
+*geometry* driver: auto-detecting
+*geometry* detected driver: xetex
+Excluding 'CCSXML' comment.
+(/usr/local/texlive/2021/texmf-dist/tex/latex/microtype/mt-msa.cfg)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/microtype/mt-msb.cfg)
+Overfull \hbox (3.02414pt too wide) in paragraph at lines 245--245
+\TU/LinLibertine(0)/m/n/9 Ben Trovato, G.K.M. Tobin, Lars Thørväld, Valerie Bér
+anger, Aparna Patel, Huifen Chan, Charles Palmer, John Smith, and Julius
+[1.1] [2.2] [3.3]
+Overfull \hbox (10.58667pt too wide) in paragraph at lines 448--452
+\TU/LinLibertine(0)/m/n/10 Your work should use standard L[]T[]X sectioning com
+mands: [][]\TU/inconsolata(0)/m/n/10 section[]\TU/LinLibertine(0)/m/n/10 , [][]
+\TU/inconsolata(0)/m/n/10 subsection[]\TU/LinLibertine(0)/m/n/10 , [][]\TU/inco
+nsolata(0)/m/n/10 subsubsection[]\TU/LinLibertine(0)/m/n/10 , and [][]\TU/incon
+solata(0)/m/n/10 paragraph[]\TU/LinLibertine(0)/m/n/10 .
+[4.4] [5.5] [6.6] [7.7]
+Overfull \hbox (1.07922pt too wide) in paragraph at lines 728--736
+\TU/LinLibertine(0)/m/n/10 ronment have a mandatory first argument: the languag
+e of the second argument. See [][]\TU/inconsolata(0)/m/n/10 sample-sigconf-i13n
+.tex
+[8.8] Processing 'acks' comment. Comment 'acks' writing to comment.cut.
+Straight input of comment.cut.
+(/Users/nals_macbook_124/Downloads/paper-latex-master/public/projects/Associati
+on_for_Computing_Machinery/output/comment.cut)
+(/Users/nals_macbook_124/Downloads/paper-latex-master/public/projects/Associati
+on_for_Computing_Machinery/output/sample-acmlarge.bbl [9.9])
+(/usr/local/texlive/2021/texmf-dist/tex/generic/stringenc/se-pdfdoc.def)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/stringenc/se-utf32be.def)
+[10.10]
+(/Users/nals_macbook_124/Downloads/paper-latex-master/public/projects/Associati
+on_for_Computing_Machinery/output/sample-acmlarge.aux) )
+(see the transcript file for additional information)
+Output written on /Users/nals_macbook_124/Downloads/paper-latex-master/public/p
+rojects/Association_for_Computing_Machinery/output/sample-acmlarge.xdv (10 page
+s, 369608 bytes).
+Transcript written on /Users/nals_macbook_124/Downloads/paper-latex-master/publ
+ic/projects/Association_for_Computing_Machinery/output/sample-acmlarge.log.
+Latexmk: Examining '/Users/nals_macbook_124/Downloads/paper-latex-master/public/projects/Association_for_Computing_Machinery/output/sample-acmlarge.log'
+=== TeX engine is 'XeTeX'
+Latexmk: applying rule 'xdvipdfmx'...
+Latexmk: All targets (/Users/nals_macbook_124/Downloads/paper-latex-master/public/projects/Association_for_Computing_Machinery/output/sample-acmlarge.xdv /Users/nals_macbook_124/Downloads/paper-latex-master/public/projects/Association_for_Computing_Machinery/output/sample-acmlarge.pdf) are up-to-date
